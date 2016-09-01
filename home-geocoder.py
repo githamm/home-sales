@@ -33,7 +33,7 @@ def main(args):
             # Store Geocoder results in a list to save it later
             rows.append(result)
 
-    with open('home-sales-master.csv', 'a') as f:
+    with open('home-sales-master-template.csv', 'a') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(rows)
