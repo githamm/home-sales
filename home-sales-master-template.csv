@@ -1,0 +1,719 @@
+<<<<<<< HEAD
+=======
+address,street_number direction_one street street_type direction_two suite,city,postal,lat,lng,Price,Seller_first_name,Seller_last_name,Buyer_first_name,Buyer_last_name,Date
+"5537 Lewis Ct, UNIT 3",5537  Lewis Court  Unit 3,Arvada,80002,39.796837,-105.116638,180000,Angela,Kilpatrick,Patricia,Crutchfield,8/13/2016
+"5220 Garrison St, APT 7",5220  Garrison St.  Apt 7,Arvada,80002,39.791475,-105.100161,200000,Gregory,Barrett,Brian,Thompson,8/13/2016
+9718 W 57th Pl,9718 W 57th Place,Arvada,80002,39.800918,-105.106927,203000,Gilbert,Phifer,Joel &,Phifer,8/13/2016
+5315 Otis St,5315  Otis St.,Arvada,80002,39.792765,-105.071582,223000,Mariann &,Rucker,Greg,Steele,8/13/2016
+5270 Ingalls St,5270  Ingalls St.,Arvada,80002,39.792637,-105.064137,232000,Edward,Jueschke,Mika &,Lopez,8/13/2016
+"10320 W 55th Ln, UNIT 205",10320 W 55th Lane  Unit 205,Arvada,80002,39.796501,-105.116605,252500,Jeffrey,Burch,Renee,Keelan,8/13/2016
+5407 Independence St,5407  Independence St.,Arvada,80002,39.79542,-105.104808,265000,Vincent &,Lombardi,Sarah,Hyatt,8/13/2016
+"5480 Allison St, UNIT 102",5480  Allison St.  Unit 102,Arvada,80002,39.796767,-105.08614,268900,,,Kathleen,Bradford,8/13/2016
+8465 Clara Belle Dr,8465  Clara Belle Drive,Arvada,80002,39.796762,-105.092149,287500,Neil &,Fischer,David,Anderson,8/13/2016
+7848 W 54th Ave,7848 W 54th Ave.,Arvada,80002,39.795239,-105.085197,326000,Kathleen,Bradford,Joel &,Nelson,8/13/2016
+5633 Jellison St,5633  Jellison St.,Arvada,80002,39.799265,-105.107926,381000,Jeremy &,Ballew,Thomas &,Nusz,8/13/2016
+"6815 W 84th Way, APT 37",6815 W 84th Way  Apt 37,Arvada,80003,39.849912,-105.073507,185000,Jordan &,Vasquez,Rebecca,Dinneen,8/13/2016
+"7964 Chase Cir, APT 100",7964  Chase Circle  Apt 100,Arvada,80003,39.840142,-105.056739,185000,George,Kline,Thomas &,Turk,8/13/2016
+"6620 W 84th Cir, APT 110",6620 W 84th Circle  Apt 110,Arvada,80003,39.848999,-105.071396,190000,,,Benjamin,Shatz,8/13/2016
+5737 W 74th Pl,5737 W 74th Place,Arvada,80003,39.831966,-105.060093,300000,Daniel &,Thacker,Michael &,Chavez,8/13/2016
+8378 Benton Way,8378  Benton Way,Arvada,80003,39.849033,-105.056023,302500,Cindy &,Molello,Jeremy,Kellar,8/13/2016
+8438 Ames St,8438  Ames St.,Arvada,80003,39.850456,-105.055018,315000,Judy,Smelser,Joseph,Liotta,8/13/2016
+6323 Gray St,6323  Gray St.,Arvada,80003,39.811742,-105.061702,320000,,,Heather,Fass,8/13/2016
+6666 Depew St,6666  Depew St.,Arvada,80003,39.817845,-105.057392,335000,Steven,Hamel,Soe,Maung,8/13/2016
+6870 W 68th Pl,6870 W 68th Place,Arvada,80003,39.821135,-105.073827,345000,Kelly &,Stevens,Kara &,Smith,8/13/2016
+6396 Lamar Pl,6396  Lamar Place,Arvada,80003,39.812576,-105.068235,367000,G,Richardson,David &,Hewitt,8/13/2016
+6641 W 74th Ave,6641 W 74th Ave.,Arvada,80003,39.830502,-105.071274,385000,Paul &,Minor,Daniel &,Brown,8/13/2016
+[11301 - 11481] Ames Ct,7353  Ames Court,Westminster,80020,39.90376,-105.054071,402700,Westminster,Bh,Loyola,Miller,8/13/2016
+"6021 Yarrow St, APT C19",6021  Yarrow St.  Apt C19,Arvada,80004,39.806188,-105.08384,170000,Neal,Gilliana,Lindsey,Sutton,8/13/2016
+6120 Flower St,6120  Flower St.,Arvada,80004,39.807705,-105.09927,310000,,,Eric,Janota,8/13/2016
+8925 Cole Dr,8925  Cole Drive,Arvada,80004,39.810027,-105.09659,316000,Richard,Coisman,Travis &,Ladue,8/13/2016
+6194 Estes St,6194  Estes St.,Arvada,80004,39.809673,-105.09553,317000,Donald &,Bersell,Dennis &,Spangler,8/13/2016
+5940 Garland St,5940  Garland St.,Arvada,80004,39.804956,-105.101174,325000,Joshua &,Brinkman,Tom &,Reinhardt,8/13/2016
+11371 W 60th Ave,11371 W 60th Ave.,Arvada,80004,39.805814,-105.127145,325000,Brian &,Strauch,Lance,Henkel,8/13/2016
+6264 Zinnia St,6264  Zinnia St.,Arvada,80004,39.810309,-105.145007,330000,Adrian,Teran,Margaret &,Grady,8/13/2016
+6005 Lewis Ct,6005  Lewis Court,Arvada,80004,39.806261,-105.113374,340000,Madeline,Vogt,Carol,Humphreys,8/13/2016
+6194 Flower St,6194  Flower St.,Arvada,80004,39.809818,-105.099279,355000,Richard &,Stewart,Cory,Miller,8/13/2016
+6740 Ammons St,6740  Ammons St.,Arvada,80004,39.819028,-105.086828,365000,Anthony &,Falbo,Brian,Quintana,8/13/2016
+6040 Cody St,6040  Cody St.,Arvada,80004,39.806253,-105.091793,370000,,,Benjamin,Wallace,8/13/2016
+12161 W 67th Ave,12161 W 67th Ave.,Arvada,80004,39.818311,-105.135088,374000,David &,Phillips,Richard,Cunningham,8/13/2016
+11040 W 65th Way,11040 W 65th Way,Arvada,80004,39.817829,-105.123294,384000,Stanley,Nelson,Matthew &,Wright,8/13/2016
+11146 W 62nd Ave,11146 W 62nd Ave.,Arvada,80004,39.809435,-105.122351,400000,,,Benjamin &,Whittle,8/13/2016
+6008 Zang Way,6008  Zang Way,Arvada,80004,39.806123,-105.144119,403300,Matthew &,Kraybill,Gloria,Mccracken,8/13/2016
+12282 W 65th Ave,12282 W 65th Ave.,Arvada,80004,39.814567,-105.136667,405000,,,Claude,Garcia,8/13/2016
+6778 Routt St,6778  Routt St.,Arvada,80004,39.820002,-105.127323,425000,Robert &,Martinez,Joshua &,Brinkman,8/13/2016
+13632 W 64th Dr,13632 W 64th Drive,Arvada,80004,39.813228,-105.150927,428700,,,Kyle,Wandersee,8/13/2016
+13424 W 64th Pl,13424 W 64th Place,Arvada,80004,39.814003,-105.149461,445700,,,John &,Figueiredo,8/13/2016
+9488 W 70th Pl,9488 W 70th Place,Arvada,80004,39.824366,-105.103505,532000,Marie,Gadoury,Scott &,Turner,8/13/2016
+"8690 Allison St, APT L",8690  Allison St.  Apt L,Arvada,80005,39.854044,-105.086584,137600,Esther,Sechler,Jeffrey,Castor,8/13/2016
+"8360 W 87th Dr, APT F",8360 W 87th Drive  Apt F,Arvada,80005,39.854828,-105.087388,155000,Thomas,Kinney,Eastern,Llc,8/13/2016
+"8690 Allison St, APT K",8690  Allison St.  Apt K,Arvada,80005,39.854044,-105.086584,210200,Justin,Anderson,Teddy,Koesuma,8/13/2016
+7743 W 87th Dr,7743 W 87th Drive,Arvada,80005,39.854461,-105.08485,240000,Brett,Campbell,Jeramie,Gerhardt,8/13/2016
+"11355 W 84th Pl, UNIT A",11355 W 84th Place  Unit A,Arvada,80005,39.851201,-105.126529,252900,Beverly,Carlson,James,Parrino,8/13/2016
+"8426 Everett Way, UNIT A",8426  Everett Way  Unit A,Arvada,80005,39.850923,-105.096995,255000,George,Delpone,Kathryn,Becerra,8/13/2016
+9485 W 77th Dr,9485 W 77th Drive,Arvada,80005,39.83724,-105.103507,300000,Frances,Cunningham,Meghan,Smithcunningham,8/13/2016
+"14197 W 83rd Pl, unit a",14197 W 88th Place  Unit A,Arvada,80005,39.847523,-105.159656,330200,,,John &,Todesco,8/13/2016
+"14147 W 58th Pl, UNIT C",14147 W 88th Place  Unit C,Arvada,80004,39.802261,-105.158331,333700,,,Brian &,Gee,8/13/2016
+8207 Flower Ct,8207  Flower Court,Arvada,80005,39.846012,-105.099782,340500,Richard &,Destree,Graham,Smith,8/13/2016
+8408 W 75th Way,8408 W 75th Way,Arvada,80005,39.832793,-105.092962,360000,Lori,Vanbroekhoven,Marisa &,Rodriguez,8/13/2016
+8465 Moore Ct,8465  Moore Court,Arvada,80005,39.850422,-105.117319,360000,William &,Meyer,Paul,Brunson,8/13/2016
+8504 Swadley Ct,8504  Swadley Court,Arvada,80005,39.850534,-105.131494,387000,Ronald &,Ianitello,Joseph &,Hosek,8/13/2016
+"14197 W 83rd Pl, UNIT C",14197 W 88th Place  Unit C,Arvada,80005,39.847523,-105.159656,435900,,,Gary &,Williams,8/13/2016
+8276 Balsam Way,8276  Balsam Way,Arvada,80005,39.847574,-105.089425,438000,,,Aleksander,Golebiewski,8/13/2016
+8046 Jellison Ct,8046  Jellison Court,Arvada,80005,39.843166,-105.107846,460000,Danny &,Montanari,Brian &,Demers,8/13/2016
+[10600 - 10998] W 81st Ave,11704 W 81st Ave.,Arvada,80005,39.844479,-105.118795,468900,,,Blas,Rodriquez,8/13/2016
+[10600 - 10998] W 81st Ave,11744 W 81st Ave.,Arvada,80005,39.844479,-105.118795,483000,,,Chung,Lee,8/13/2016
+[13200 - 13298] W 83rd Ln,13178 W 73rd Lane,Arvada,80005,39.848068,-105.148736,532200,,,Gregory,Kuzma,8/13/2016
+8797 Gardenia Cir,8797  Gardenia Circle,Arvada,80005,39.854139,-105.161193,559900,Eric,Niedzielski,Michael &,Wagner,8/13/2016
+[11801 - 11899] W 73rd Pl,12729 W 73rd Place,Arvada,80005,39.828919,-105.130642,640000,,,Walter &,Grounsell,8/13/2016
+10101 W 72nd Ave,10101 W 72nd Ave.,Arvada,80005,39.827141,-105.112577,780000,Linda,Talley,James &,Russell,8/13/2016
+8025 Zinnia St,8025  Zinnia St.,Arvada,80005,39.843514,-105.146408,882000,Michael,Otterman,Jason &,Jorgensen,8/13/2016
+6431 Secrest Ct,6431  Secrest Court,Arvada,80007,39.813715,-105.190624,423000,Ronald &,Davidson,Denise,Baumhaynes,8/13/2016
+9543 Joyce Way,9543  Joyce Way,Arvada,80007,39.868515,-105.168261,450000,Robert &,Earl,Sara,Iszler,8/13/2016
+9432 Kendrick Way,9432  Kendrick Way,Arvada,80007,39.867573,-105.171118,450900,,,Iftekhar &,Hasan,8/13/2016
+16958 W 87th Ave,16958 W 87th Ave.,Arvada,80007,39.854686,-105.189918,454100,,,Adam,Overstreet,8/13/2016
+8651 Yule St,8651  Yule St.,Arvada,80007,39.853205,-105.202323,455900,,,Renae,Schade,8/13/2016
+8660 Yule St,8660  Yule St.,Arvada,80007,39.853333,-105.202325,468800,,,James &,Condon,8/13/2016
+18330 W 85th Dr,18330 W 85th Drive,Arvada,80007,39.852327,-105.204417,486500,,,Edwin &,Logan,8/13/2016
+18340 W 85th Dr,18340 W 85th Drive,Arvada,80007,39.851197,-105.210614,486900,,,Joseph &,Badaracco,8/13/2016
+8680 Yule St,8680  Yule St.,Arvada,80007,39.853588,-105.202329,500500,,,Andrew &,Roads,8/13/2016
+16787 W 86th Ave,16787 W 86th Ave.,Arvada,80007,39.852695,-105.189037,524400,,,Geoffrey &,Cleveland,8/13/2016
+8650 Yule St,8650  Yule St.,Arvada,80007,39.853205,-105.202323,526100,,,Debbie &,Vandemark,8/13/2016
+9516 Iron Mountain Way,9516  Iron Mountain Way,Arvada,80007,39.869812,-105.228644,529900,,,Gary &,Cade,8/13/2016
+6985 Pike Ct,6985  Pike Court,Arvada,80007,39.823071,-105.182177,542500,Shannon &,Senft,Donald &,Kunz,8/13/2016
+8477 Poppy St,8477  Poppy St.,Arvada,80007,39.849299,-105.18207,550000,,,Erich &,Elmer,8/13/2016
+8232 Moss Cir,8232  Moss Circle,Arvada,80007,39.846144,-105.1761,564300,,,Ezzat,Malaty,8/13/2016
+18545 W 83rd Dr,18545 W 83rd Drive,Arvada,80007,39.848775,-105.207152,569900,,,Jason &,Lee,8/13/2016
+8614 Yucca St,8614  Yucca St.,Arvada,80007,39.852534,-105.20422,571800,,,Eric &,Newkirk,8/13/2016
+20041 W 95th Pl,20041 W 95th Place,Arvada,80007,39.870104,-105.227362,620400,,,Charles,Brown,8/13/2016
+16783 W 75th Pl,16783 W 75th Place,Arvada,80007,39.832763,-105.188821,642500,William &,Morain,Joshua &,Kerns,8/13/2016
+8696 Zircon Way,8696  Zircon Way,Arvada,80007,39.852878,-105.206242,652500,,,Kuldip,Singh,8/13/2016
+16169 W 84th Dr,16169 W 84th Drive,Arvada,80007,39.848061,-105.181709,699000,,,Shawn &,Muneio,8/13/2016
+7708 McIntyre Ct,7708  Mcintyre Court,Arvada,80007,39.838749,-105.175174,1500000,Roger &,Vanwagner,Diane,Haligas,8/13/2016
+9597 Poppy Way,9597  Poppy Way,Arvada,80007,39.869991,-105.182645,1560000,,,Scott &,Clark,8/13/2016
+880 Moline St,880  Moline St.,Aurora,80010,39.729458,-104.854818,220000,,,Justin,Gallegos,8/13/2016
+1214 Clinton St,1214  Clinton St.,Aurora,80010,39.735062,-104.8776,245900,John &,Tatum,Elizabeth,Blackford,8/13/2016
+322 Lima St,322  Lima St.,Aurora,80010,39.720361,-104.858787,260000,Evi,Afiah,Sheldon &,Spiegelman,8/13/2016
+20540 E Coolidge Pl,20540 E Coolidge Place,Aurora,80011,39.744123,-104.749636,258600,Teresa &,Chauvin,Norma,Rodriguez,8/13/2016
+13181 E 31st Ave,13181 E 31st Ave.,Aurora,80011,39.759763,-104.833325,270000,Nancy &,Stewart,Juan,Portillo,8/13/2016
+12221 E 2nd Dr,12221 E 2nd Drive,Aurora,80011,39.719387,-104.8452,200000,Sharon,Carson,Richard &,Otto,8/13/2016
+775 Evanston St,775  Evanston St.,Aurora,80011,39.7281,-104.812845,260000,Alberto,Loriga,Kendall,Smith,8/13/2016
+226 Troy St,226  Troy St.,Aurora,80011,39.719237,-104.837127,308000,Joanne &,Spier,Jeffrey,Bell,8/13/2016
+"12555 E Tennessee Cir, APT 102",12555 E Tennessee Circle  Apt 102,Aurora,80012,39.699005,-104.843129,142000,,,Kara,Ross,8/13/2016
+11391 E Center Ave,11391 E Center Ave.,Aurora,80012,39.70542,-104.856316,226000,,,Chunhuan,Fan,8/13/2016
+102 S Fraser Cir,102 S Fraser Circle,Aurora,80012,39.716949,-104.812325,232000,Ross,Parsons,Robert,Gonzales,8/13/2016
+14009 E Idaho Dr,14009 E Idaho Drive,Aurora,80012,39.689834,-104.824562,275000,Andrew &,Stinsman,Senh,Hoong,8/13/2016
+14904 E Arkansas Dr,14904 E Arkansas Drive,Aurora,80012,39.691638,-104.813628,311600,Frederick &,Johnson,Alexander,Woody,8/13/2016
+1411 S Paris Ct,1411 S Paris Court,Aurora,80012,39.690921,-104.848858,326100,Michael,Thrift,Heather,Woodward,8/13/2016
+17493 E Mansfield Ave,17493 E Mansfield Ave.,Aurora,80013,39.644245,-104.785217,97500,Peter,Strasser,Devita,Bloom,8/13/2016
+"17391 E Mansfield Ave, APT 821L",17391 E Mansfield Ave.  Apt 821l,Aurora,80013,39.645371,-104.786661,98900,Sandra,Jones,Rose,Anderson,8/13/2016
+"18827 E Yale Cir, UNIT B",18827 E Yale Circle  Unit B,Aurora,80013,39.668976,-104.768237,215000,Joshua &,Nunez,Rebecca,Nicholls,8/13/2016
+16897 E Pacific Pl,16897 E Pacific Place,Aurora,80013,39.679932,-104.791588,250000,Dawn &,Scott,Matthew,Mcalexander,8/13/2016
+4229 S Halifax Ct,4229 S Halifax Court,Aurora,80013,39.640245,-104.755558,252000,Arva,Yorke,Roberto,Rodriguez,8/13/2016
+3399 S Ensenada Way,3399 S Ensenada Way,Aurora,80013,39.654033,-104.76258,301000,Ryan &,Rowe,Oscar,Valdez,8/13/2016
+3677 S Fundy Way,3677 S Fundy Way,Aurora,80013,39.649643,-104.757898,309800,Robert,Strini,Antoinette,Mckenna,8/13/2016
+3155 S Olathe Way,3155 S Olathe Way,Aurora,80013,39.659179,-104.79278,311000,Rozan &,Obrien,Cynthia &,Roybal,8/13/2016
+19965 E Vassar Ave,19965 E Vassar Ave.,Aurora,80013,39.670216,-104.755343,315000,Patrick &,Oconnor,Wudeneh,Woldemichael,8/13/2016
+3151 S Bahama St,3151 S Bahama St.,Aurora,80013,39.658637,-104.769246,324500,Jandi &,Oxnam,John &,Padmore,8/13/2016
+3835 S Bahama Way,3835 S Bahama Way,Aurora,80013,39.647502,-104.768259,335000,Joshua &,Kane,Savita,Malik,8/13/2016
+3659 S Joplin St,3659 S Joplin St.,Aurora,80013,39.650226,-104.804944,360000,Terry &,Schleski,Ken &,Hutchison,8/13/2016
+21141 E Greenwood Pl,21141 E Greenwood Place,Aurora,80013,39.653765,-104.740969,393000,Charles &,Harrison,Brett &,Kahn,8/13/2016
+[18000 - 18098] E Pacific Pl,19170 E Pacific Place,Aurora,80013,39.679247,-104.778132,409000,,,Orlando,Rummans,8/13/2016
+"12573 E Pacific Cir, UNIT B",12573 E Pacific Circle  Unit B,Aurora,80014,39.678032,-104.841924,146000,Maria,Rodriguez,Nancy,Richter,8/13/2016
+"2467 S Victor St, UNIT B",2467 S Victor St.  Unit B,Aurora,80014,39.671548,-104.834793,255000,Victor,Germain,Ryan,Swopes,8/13/2016
+3361 S Fairplay St,3361 S Fairplay St.,Aurora,80014,39.655817,-104.814117,288000,Chris,Greenwood,Khaled,Sabbagh,8/13/2016
+1906 S Nome St,1906 S Nome St.,Aurora,80014,39.681813,-104.852407,305000,Donald,Norah,Xing,Ma,8/13/2016
+3831 S Atchison Way,3831 S Atchison Way,Aurora,80014,39.64373,-104.827859,310000,Elise,Carter,Edgar,Martinez,8/13/2016
+4767 S Salida Ct,4767 S Salida Court,Aurora,80015,39.630905,-104.783158,262000,Deborah,Branch,Timothy,Kinder,8/13/2016
+4728 S Norfolk St,4728 S Norfolk St.,Aurora,80015,39.630677,-104.797565,275000,James &,Taylor,Scott,Miles,8/13/2016
+20158 E Prentice Pl,20158 E Prentice Place,Centennial,80015,39.619601,-104.753158,276000,Wayne,Huffman,Tony &,Scott,8/13/2016
+5253 S Sicily St,5253 S Sicily St.,Aurora,80015,39.621056,-104.727424,300000,Amanda,Edenfield,Jennifer,Mendelius,8/13/2016
+18495 E Union Dr,18495 E Union Drive,Aurora,80015,39.630146,-104.773418,321500,Steven &,Stabler,Thanh &,Ta,8/13/2016
+5154 S Jebel St,5154 S Jebel St.,Centennial,80015,39.622467,-104.751643,333500,Kenneth,Dimarco,Oluwagbenga &,Tomori,8/13/2016
+4823 S Picadilly Ct,4823 S Picadilly Court,Aurora,80015,39.628555,-104.737302,355000,Keon,Koh,Roshan &,Maharjan,8/13/2016
+5703 S Yakima Way,5703 S Yakima Way,Aurora,80015,39.612473,-104.720013,370000,Chung &,Chu,Tammy,Chu,8/13/2016
+15558 E Dorado Ave,15558 E Dorado Ave.,Centennial,80015,39.613489,-104.808176,442000,Troy &,Jensen,Kristina,Ramos,8/13/2016
+18162 E Dorado Ave,18162 E Dorado Ave.,Centennial,80015,39.613578,-104.776745,465000,Robert,Bishop,Rodney &,Bonton,8/13/2016
+22441 E Union Cir,22441 E Union Circle,Aurora,80015,39.63081,-104.728998,471500,,,Christian &,Ansorger,8/13/2016
+5505 S Lewiston St,5505 S Lewiston St.,Centennial,80015,39.61559,-104.799818,681000,Shane,Ames,Hyunseo,Park,8/13/2016
+22220 E Heritage Pkwy,22220 E Heritage Parkway,Aurora,80016,39.566393,-104.730142,355000,Mary,Golay,Sharon,Bradley,8/13/2016
+[6412 - 6498] S Old Hammer Way,7220 S Old Hammer Way,Aurora,80016,39.599967,-104.681149,365300,,,Muhammad,Kabir,8/13/2016
+26273 E Calhoun Pl,26273 E Calhoun Place,Aurora,80016,39.596162,-104.681883,371200,,,Mark,Dietz,8/13/2016
+26283 E Calhoun Pl,26283 E Calhoun Place,Aurora,80016,39.596162,-104.68188,382000,,,Soknear,Ouch,8/13/2016
+23361 E Berry Ave,23361 E Berry Ave.,Aurora,80016,39.616085,-104.71586,399000,Shon &,Morgan,Patrica,Davis,8/13/2016
+7728 S Buchanan Way,7728 S Buchanan Way,Aurora,80016,39.575889,-104.713131,425000,Kathleen,Krekel,Joseph &,Mendozza,8/13/2016
+25788 E Calhoun Pl,25788 E Calhoun Place,Aurora,80016,39.596218,-104.689385,435000,,,Gilbert &,Nunez,8/13/2016
+25482 E Orchard Dr,25482 E Orchard Drive,Aurora,80016,39.609027,-104.690712,438700,,,Richard &,Brown,8/13/2016
+7841 S Algonquian Way,7841 S Algonquian Way,Aurora,80016,39.573831,-104.717539,440000,,,Brent &,Cleaver,8/13/2016
+23428 E Briarwood Pl,23428 E Briarwood Place,Aurora,80016,39.59351,-104.715186,451000,Kerri &,Peterson,Sara &,Murphy,8/13/2016
+24366 E Canyon Dr,24366 E Canyon Drive,Aurora,80016,39.573521,-104.704845,453200,,,Louella,Sandoval,8/13/2016
+17304 E Lake Pl,17304 E Lake Place,Aurora,80016,39.60591,-104.785932,469900,Bilal,Temel,Tim &,Perrin,8/13/2016
+24338 E Roxbury Cir,24338 E Roxbury Circle,Aurora,80016,39.586309,-104.704961,473900,Jason &,Moneta,Sarah,Nasser,8/13/2016
+23775 E Wagon Trail Ave,23775 E Wagon Trail Ave.,Aurora,80016,39.630745,-104.710573,490800,,,Lynn &,Lawson,8/13/2016
+25521 E Orchard Dr,25521 E Orchard Drive,Aurora,80016,39.609022,-104.690221,518800,,,Anthony &,Buttshaw,8/13/2016
+26826 E Irish Ave,26826 E Irish Ave.,Aurora,80016,39.578806,-104.675579,556100,,,Kevin &,Mcglynn,8/13/2016
+622 S Norfolk Way,622 S Norfolk Way,Aurora,80017,39.705135,-104.794931,249000,Narangerel,Tsogzol,Juan,Calderon,8/13/2016
+639 S Norfolk Way,639 S Norfolk Way,Aurora,80017,39.705135,-104.794931,267000,Shawn &,Stallings,Julian &,Gonzales,8/13/2016
+706 S Norfolk St,706 S Norfolk St.,Aurora,80017,39.703323,-104.795432,321000,Michael &,Bosley,Jamine,Diaz,8/13/2016
+24684 E Louisiana Cir,24684 E Louisiana Circle,Aurora,80018,39.693609,-104.699499,330000,Virginia &,Lloyd,Brett &,Carl,8/13/2016
+24678 E Wyoming Pl,24678 E Wyoming Place,Aurora,80018,39.692962,-104.699492,345000,Courtney,Cruce,Tara,Haywood,8/13/2016
+137 N Kellerman St,137 N Kellerman St.,Aurora,80018,39.719244,-104.689731,360000,Jo,Goodenough,Lisa &,Melone,8/13/2016
+6216 N Espana St,6216 N Espana St.,Aurora,80019,39.809617,-104.759947,106300,,,Reynaldo &,Polendo,8/13/2016
+"5756 Genoa Way, 12101",5756  Genoa Way  # 12101,Aurora,80019,39.800786,-104.75735,178000,Ellis,Porter,Kyle &,Hirsch,8/13/2016
+"13458 Via Varra, 407",13458  Via Varra # 407,Broomfield,80020,39.941627,-105.121884,180000,Devlin,Messmer,Kendall,Hawker,8/13/2016
+903 E 8th Ave,903 E 8th Ave.,Broomfield,80020,39.927449,-105.061676,220000,James &,Hulbert,Stacey,Bennett,8/13/2016
+16 N Douglas Dr,16  Douglas Drive N,Broomfield,80020,39.94127,-105.074469,285000,,,David,Reynolds,8/13/2016
+13280 Grove Way,13280  Grove Way,Broomfield,80020,39.937041,-105.026989,291000,Brian,Miller,James &,Montgomery,8/13/2016
+1585 Abilene Dr,1585  Abilene Drive,Broomfield,80020,39.935371,-105.073871,312500,Michael &,Bevens,Erin,Steven,8/13/2016
+39 Carla Way,39  Carla Way,Broomfield,80020,39.942599,-105.075226,330000,,,Bernadette,Krause,8/13/2016
+13013 Grove Way,13013  Grove Way,Broomfield,80020,39.933738,-105.022819,340000,Bonnie,Josephson,Chi,Meng,8/13/2016
+12742 Vrain St,12742  Vrain St.,Broomfield,80020,39.927436,-105.045403,380000,Suwimon,Newman,Megan &,Neale,8/13/2016
+2837 Calkins Pl,2837  Calkins Place,Broomfield,80020,39.925847,-105.022669,383000,Benjamin,Eichorst,Brielle &,Johnson,8/13/2016
+4502 W 123rd Pl,4502 W 123rd Place,Broomfield,80020,39.920747,-105.045467,401000,Gleidis,Baldwin,Benjamin,Goldberg,8/13/2016
+1141 Cedar St,1141  Cedar St.,Broomfield,80020,39.932995,-105.057914,415000,Ronald,Paterson,Otis &,Kirk,8/13/2016
+12580 Wolff St,12580  Wolff St.,Broomfield,80020,39.923364,-105.048566,421000,Brian,Cribari,Adrian &,Green,8/13/2016
+12294 Wolff Dr,12294  Wolff Drive,Broomfield,80020,39.920001,-105.051228,425000,Thomas &,Josephson,Matthew &,Schiller,8/13/2016
+13350 Red Deer Trl,13350  Red Deer Trail,Broomfield,80020,39.938283,-105.03513,450000,Austin &,Koo,Anthony &,Rader,8/13/2016
+228 Powderhorn Trl,228  Powderhorn Trail,Broomfield,80020,39.944415,-105.075385,496000,Cynthia,Boyd,Jenelle &,Bartels,8/13/2016
+13352 Meadow Park Ln,13352  Meadow Park Lane,Broomfield,80020,39.938268,-105.036051,500000,,,Jennifer &,Loyd,8/13/2016
+13961 Silverton Dr,13961  Silverton Drive,Broomfield,80020,39.947577,-105.067772,522000,Stephen &,King,Reid &,Kallman,8/13/2016
+3735 Shadow Canyon Trl,3735  Shadow Canyon Trail,Broomfield,80020,39.939048,-105.036828,525000,D &,Drewry,Jack &,Chang,8/13/2016
+14031 Cortez Ct,14031  Cortez Court,Broomfield,80020,39.94949,-105.069233,860000,Dean &,Demeritte,Joel,Dubien,8/13/2016
+6635 W 114th Ave,6635 W 114th Ave.,Westminster,80020,39.903744,-105.070395,295000,Edward &,Thompson,Edward &,Thompson,8/13/2016
+6230 W 108th Pl,6230 W 108th Place,Westminster,80020,39.894008,-105.066953,310000,Anna &,Norcia,Kari,Cunningham,8/13/2016
+5941 W 108th Pl,5941 W 108th Place,Westminster,80020,39.894525,-105.063297,319000,Marcus &,Knight,Edward &,Reynolds,8/13/2016
+5641 W 118th Ave,5641 W 118th Ave.,Westminster,80020,39.91046,-105.058144,405000,Joseph &,Giordano,Stuart &,Carpenter,8/13/2016
+5781 W 114th Pl,5781 W 114th Place,Westminster,80020,39.903821,-105.060594,430000,Douglas &,Shook,Prarthana,Shahi,8/13/2016
+5639 W 109th Cir,5639 W 109th Circle,Westminster,80020,39.892996,-105.058811,471000,Michael &,Puhr,Frank,Gonzales,8/13/2016
+11227 Colony Cir,11227  Colony Circle,Broomfield,80021,39.903499,-105.089574,340100,,,Ravi,Bantu,8/13/2016
+11293 Uptown Ave,11293  Uptown Ave.,Broomfield,80021,39.902937,-105.090743,399000,Jason &,Bratton,Shannon,Johnston,8/13/2016
+[W1201 - W1273] Bighorn Dr,13045  Big Horn Drive,Fremont,54940,44.119612,-88.942826,588500,,,John &,Rector,8/13/2016
+8971 W 89th Ave,8971 W 89th Ave.,Broomfield,80021,39.858075,-105.097629,170000,Dean,Baldi,Leo,Arellano,8/13/2016
+"8911 Field St, UNIT 105",8911  Field St.  Unit 105,Broomfield,80021,39.858103,-105.098319,195000,Tami,Buchner,Alexandra,Mutschler,8/13/2016
+"9554 W 89th Cir, g5",9554 W 89th Circle  # G5,Broomfield,80021,39.857608,-105.102394,210000,Kristie &,Santos,Michelle,Mcmurphy,8/13/2016
+10611 Quail St,10611  Quail St.,Broomfield,80021,39.889967,-105.122063,271000,Bernadette,Krause,Eric &,Benefiel,8/13/2016
+9138 W 88th Cir,9138 W 88th Circle,Broomfield,80021,39.857285,-105.099727,275000,Sean,Bays,John,Lopez,8/13/2016
+9431 W 104th Way,9431 W 104th Way,Broomfield,80021,39.884417,-105.103805,310000,Jennifer,Williamson,Bret,Watson,8/13/2016
+9091 Dover St,9091  Dover St.,Broomfield,80021,39.862016,-105.094417,310000,Shane &,Peterson,Matthew &,Bohn,8/13/2016
+11235 W 102nd Pl,11235 W 102nd Place,Broomfield,80021,39.88178,-105.125903,313000,,,Donald &,Kirlin,8/13/2016
+9213 W 107th Pl,9213 W 107th Place,Broomfield,80021,39.891771,-105.1005,315000,Moira,Ivey,Cecilia,Bretz,8/13/2016
+9040 Iris Ct,9040  Iris Court,Broomfield,80021,39.858853,-105.103802,339200,Paul &,Kolesnikoff,Sy,Bartels,8/13/2016
+8715 W 93rd Ave,8715 W 93rd Ave.,Broomfield,80021,39.865522,-105.095566,340000,,,Jesus,Rodriguez,8/13/2016
+9221 Cody Ln,9221  Cody Lane,Broomfield,80021,39.864434,-105.092571,345000,Gary &,Cade,Shawn &,Cahan,8/13/2016
+10330 Oak St,10330  Oak St.,Broomfield,80021,39.883237,-105.121469,349000,Gregory,Kubik,Stacy,Bocskor,8/13/2016
+10340 W 102nd Ave,10340 W 102nd Ave.,Broomfield,80021,39.881249,-105.11556,378000,,,Brooke,Geraghty,8/13/2016
+10030 Lewis Ct,10030  Lewis Court,Broomfield,80021,39.879408,-105.113852,400000,Barbara,Anderson,Jonathan &,Billings,8/13/2016
+14162 E 102nd Pl,14162 E 102nd Place,Commerce City,80022,39.882594,-104.822229,269300,Lisa &,Melone,Trinidad,Ramirez,8/13/2016
+[10763 - 10819] Salida St,11009  Salida St.,Commerce City,80022,39.888855,-104.78387,287200,,,Scott,Peek,8/13/2016
+5117 Pasadena Way,5117  Pasadena Way,Broomfield,80023,39.956993,-105.051746,334900,Eric &,Taylor,Ethan &,Stemm,8/13/2016
+[13413 - 13599] Alcott St,16513  Alcott Place,Broomfield,80020,39.941338,-105.017232,352700,,,Kirankumar,Madiraju,8/13/2016
+16408 Aliante Dr,16408  Aliante Drive,Broomfield,80023,39.992727,-105.03876,388500,Jayne,Kirk,George &,Kozeliski,8/13/2016
+4721 Raven Run,4721  Raven Run,Broomfield,80023,39.971021,-105.04467,405000,Sandra,Turley,Erik &,Davidson,8/13/2016
+[11000 - 11198] Elati St,16944  Elati St.,Broomfield,80234,39.898468,-104.992329,454700,,,Ram,Singh,8/13/2016
+13635 Parkview Pl,13635  Parkview Place,Broomfield,80023,39.944425,-105.027113,464000,Scott &,Henkel,Suzanne &,Kent,8/13/2016
+[15508 - 15598] Lipan St,17002  Lipan St.,Broomfield,80023,39.978579,-105.001828,495000,,,Robert,Ochylski,8/13/2016
+[14201 - 14399] Inca St,17173  Inca St.,Westminster,80023,39.955909,-104.998071,548000,,,Jerry &,Hockstra,8/13/2016
+[6200 - 6390] San Luis Way,4508  San Luis Way,Boise,83709,43.545728,-116.332947,577500,,,Michael &,Fleming,8/13/2016
+[15360 - 15498] Lookout Pt,15982  Lookout Pt,Frisco,75035,33.160478,-96.740315,599000,Gregory,Sollazzo,Arthur &,Carl,8/13/2016
+15786 Wild Horse Dr,15786  Wild Horse Drive,Broomfield,80023,39.983203,-105.042353,622400,,,Robert &,Graham,8/13/2016
+[61 - 69] Columbus Dr,15740  Columbus Mountain Drive,Garner,41817,37.352752,-82.909921,639700,,,James &,Bonifas,8/13/2016
+4733 Castle Cir,4733  Castle Circle,Broomfield,80023,39.948883,-105.046389,654900,Glenda,Millette,Mary,Burton,8/13/2016
+14049 Park Cove Dr,14049  Park Cove Drive,Broomfield,80023,39.953126,-105.024182,660000,Eric &,Proffitt,Scott &,Henkel,8/13/2016
+16519 Prospect Ln,16519  Prospect Lane,Broomfield,80023,39.995183,-105.019864,714700,,,Brian &,Tolland,8/13/2016
+4350 Crestone Cir,4350  Crestone Circle,Broomfield,80023,39.948409,-105.042734,740000,Liesa &,Birkemeyer,Mark,Manes,8/13/2016
+4575 Silver Mountain Loop,4575  Silver Mountain Loop,Broomfield,80023,39.991159,-105.045445,825000,George &,Angel,Joyce &,Nielsen,8/13/2016
+[6838 - 6948] Columbus Dr,15799  Columbus Mountain Drive,Las Cruces,88011,32.391338,-106.685499,953900,,,Ruth,Fowler,8/13/2016
+14959 Wistera Way,14959  Wistera Way,Broomfield,80023,39.968457,-105.053648,963000,Andrew &,Junkin,Karin &,Wojahn,8/13/2016
+14591 Zuni St,14591  Zuni St.,Westminster,80023,39.961208,-105.015649,1275000,William &,Pack,Stephen &,Stacey,8/13/2016
+15000 Prairie Pl,15000  Prairie Place,Broomfield,80023,39.969393,-105.019005,2100000,,,Matthew &,Pohl,8/13/2016
+1085 Atlas Cir,1085  Atlas Circle,Lafayette,80026,39.989731,-105.108773,351000,Timothy,Creighton,Charlotte &,Parker,8/13/2016
+"1340 Forest Park Cir, UNIT 7",1340  Forest Park Circle  Unit 7,Lafayette,80026,40.012794,-105.127811,425000,Douglas,Tiefel,Thomas,Burnett,8/13/2016
+1606 Io Ct,1606  Io Court,Lafayette,80026,39.981646,-105.109801,495000,Graham &,Bailhache,Jackson &,Lee,8/13/2016
+480 Cougar Ct,480  Cougar Court,Lafayette,80026,39.96806,-105.097489,615000,David &,Brownlee,Brian &,Chamberlin,8/13/2016
+"1615 Cottonwood Dr, APT 19",1615  Cottonwood Drive  Apt 19,Louisville,80027,39.98658,-105.139834,140000,Guy,Hepp,Anne &,Hepp,8/13/2016
+296 Juniper St,296  Juniper St.,Louisville,80027,39.967531,-105.13907,458700,S &,Hopkins,Kyle &,Birch,8/13/2016
+1717 Reliance Ct,1717  Reliance Court,Louisville,80027,39.937722,-105.146562,482500,James &,Sanders,Jacqueline &,Buckley,8/13/2016
+963 Cleveland Ct,963  Cleveland Court,Louisville,80027,39.978928,-105.147427,565000,Andrew &,Poole,Martin,Turman,8/13/2016
+2289 Wynonna Ct,2289  Wynonna Court,Louisville,80027,39.993396,-105.135576,671500,Mark &,Tappen,Peter &,Ruh,8/13/2016
+2930 N Torreys Peak Dr,2930 N Torreys Peak Drive,Superior,80027,39.926159,-105.156326,726000,Darcy,Siegfried,Anne &,Jackson,8/13/2016
+"1817 Clover Ln, SWEET",1817  Sweet Clover Lane,Fort Worth,76107,32.741813,-97.37852,779900,,,Michael &,Pao,8/13/2016
+10593 Lowell Dr,10593  Lowell Drive,Westminster,80031,39.888775,-105.03495,642900,Carl &,Rouze,Samantha &,Cherry,8/13/2016
+3704 Quail St,3704  Quail St.,Wheat Ridge,80033,39.767811,-105.123742,165000,John,Robb,Rita &,Caldwell,8/13/2016
+4373 Moore St,4373  Moore St.,Wheat Ridge,80033,39.777464,-105.11637,195000,Robert,Dunlap,Nickolas,Proctor,8/13/2016
+7190 W 32nd Ave,7190 W 32nd Ave.,Wheat Ridge,80033,39.762105,-105.076538,207000,Donald,Martin,Brad,Heimbecher,8/13/2016
+4685 Teller St,4685  Teller St.,Wheat Ridge,80033,39.782632,-105.076739,245000,Wayne,Hazen,Tim,Kram,8/13/2016
+3975 Moore St,3975  Moore St.,Wheat Ridge,80033,39.771743,-105.116324,275000,Jeffrey,Madsen,Alan,Madsen,8/13/2016
+4370 Quay St,4370  Quay St.,Wheat Ridge,80033,39.775912,-105.073285,285000,Erik &,Stieve,James &,Ridgway,8/13/2016
+4350 Hoyt Ct,4350  Hoyt Court,Wheat Ridge,80033,39.77737,-105.104289,287000,Clarence,Zinsli,Michele,Cooper,8/13/2016
+4361 Dover St,4361  Dover St.,Wheat Ridge,80033,39.776141,-105.093151,405000,Richard &,Orsborn,Kristin,Gottschalk,8/13/2016
+4150 N Ingalls Ct,4150  Ingalls Court,Wheat Ridge,80033,39.774061,-105.064695,440000,Anthony,Streno,Chad,Livingood,8/13/2016
+3595 Owens St,3595  Owens St.,Wheat Ridge,80033,39.767178,-105.120239,498000,Joseph &,Leonhard,William &,Sturge,8/13/2016
+3232 Nelson St,3232  Nelson St.,Wheat Ridge,80033,39.762472,-105.11789,515000,,,Helen,Lucero,8/13/2016
+340 S County Road 129,340 S County Road  129,Bennett,80102,39.708653,-104.452731,497000,Kathy &,Hogan,Daniel,Kaiser,8/13/2016
+258 Castlemaine Ct,258  Castlemaine Court,Castle Rock,80104,39.33805,-104.860118,147000,Mark,Pabst,Arlis,Bader,8/13/2016
+"2031 Oakcrest Cir, 5h",2031  Oakcrest Circle  # 5h,Castle Rock,80104,39.357395,-104.837858,194000,Alejandro &,Herrera,Michael &,Gibbons,8/13/2016
+125 Ash Ave,125  Ash Ave.,Castle Rock,80104,39.364934,-104.846064,265000,Sylvia &,Brownell,G &,Chalian,8/13/2016
+6117 Turnstone Pl,6117  Turnstone Place,Castle Rock,80104,39.364867,-104.798897,280000,Ryan &,Ferrari,Scott &,Cochran,8/13/2016
+4443 E Bennington Ave,4443 E Bennington Ave.,Castle Rock,80104,39.367576,-104.816397,293600,Chris,Money,Jennifer,Rose,8/13/2016
+941 Mountain View Dr,941  Mountain View Drive,Castle Rock,80104,39.382821,-104.853661,305000,Matthew,Wittner,Justin &,Russell,8/13/2016
+443 Ardmore St,443  Ardmore St.,Castle Rock,80104,39.372787,-104.789643,317500,Tressa,Guthrie,Joseph &,Brunson,8/13/2016
+5603 Spruce Ave,5603  Spruce Ave.,Castle Rock,80104,39.372016,-104.803928,365000,Braden &,Rose,Jonathan &,Elkaim,8/13/2016
+6230 Brantly Ct,6230  Brantly Court,Castle Rock,80104,39.362598,-104.797706,380000,Tara,Hildebrant,Charles &,Wilson,8/13/2016
+4379 Manorbrier Cir,4379  Manorbrier Circle,Castle Rock,80104,39.335155,-104.860552,479900,Eugene &,Scheffels,Travis &,Thompson,8/13/2016
+7178 Winthrop Ct,7178  Winthrop Court,Castle Rock,80104,39.364617,-104.787403,489000,Justin,Smith,Matthew,Wittner,8/13/2016
+1202 Whitekirk Pl,1202  Whitekirk Place,Castle Rock,80104,39.353744,-104.850134,520000,Stephen &,Harrison,Adam &,Levell,8/13/2016
+1658 Diamond Head Dr,1658  Diamond Head Drive,Castle Rock,80104,39.355176,-104.849222,573500,,,Carol &,Marshall,8/13/2016
+2672 Oak Vista Ln,2672  Oak Vista Lane,Castle Rock,80104,39.383738,-104.833935,1015000,Chris &,Rullman,Suzanne,Murphy,8/13/2016
+[R11641 - R11799] Oasis Dr,7351  Oasis Drive,Ringle,54471,44.907087,-89.475095,399500,,,Donald,Reeves,8/13/2016
+1271 Galactic Pl,1271  Galactic Place,Castle Rock,80108,39.43358,-104.848321,445000,Todd &,Monahan,Peter,Lindsay,8/13/2016
+7864 Solstice Way,7864  Solstice Way,Castle Rock,80108,39.433715,-104.844862,448000,Derek &,Rose,Daniel &,Jacobs,8/13/2016
+[3378 - 3522] Spanish Oaks Trl,3788  Spanish Oaks Trail,Castle Rock,80108,39.395233,-104.826257,554000,,,Tressa &,Guthrie,8/13/2016
+6509 Marble Ln,6509  Marble Lane,Castle Rock,80108,39.422928,-104.840403,565900,Jimmy &,Martinez,Gianni &,Vecchiarelli,8/13/2016
+289 Andromeda Ln,289  Andromeda Lane,Castle Rock,80108,39.430815,-104.859459,743100,,,Ryan &,Christensen,8/13/2016
+12755 Horizon Trl,12755  Horizon Trail,Castle Pines,80108,39.48418,-104.910593,1500000,Aali,Masood,Nicholas &,Lazarou,8/13/2016
+3900 Ute Mountain Trl,3900  Ute Mountain Trail,Castle Rock,80109,39.402161,-104.905018,295000,George &,Rhodes,Christopher,Rupp,8/13/2016
+1925 Quartz St,1925  Quartz St.,Castle Rock,80109,39.38565,-104.904502,315000,Phillip &,Doise,John &,Coombes,8/13/2016
+3727 Dinosaur St,3727  Dinosaur St.,Castle Rock,80109,39.385913,-104.902081,353500,Jennifer &,Hines,Seth,Jones,8/13/2016
+2233 Cactus Bloom Ct,2233  Cactus Bloom Court,Castle Rock,80109,39.387892,-104.900651,372500,Amy &,Westbrook,John &,Jacobus,8/13/2016
+5086 Stonecrop Cir,5086  Stonecrop Circle,Castle Rock,80109,39.4125,-104.903838,391500,Gary,Hartmann,Thomas &,Welle,8/13/2016
+[2301 - 2399] Riverwood Way,3251  Riverwood Way,Decatur,30035,33.720923,-84.212102,393100,,,Douglas &,Glover,8/13/2016
+3793 Sunridge Terrace Dr,3793  Sunridge Terrace Drive,Castle Rock,80109,39.401023,-104.910355,395000,Ronald &,Teuscher,Collette,Ritums,8/13/2016
+3947 Miners Candle Dr,3947  Miners Candle Drive,Castle Rock,80109,39.392441,-104.904577,399500,Robert &,Kiess,Bartlomiej &,Rdes,8/13/2016
+3821 Sunridge Terrace Dr,3821  Sunridge Terrace Drive,Castle Rock,80109,39.401321,-104.910614,445000,Jerry &,Bowers,Danny &,Buell,8/13/2016
+1320 Sky Rock Way,1320  Sky Rock Way,Castle Rock,80109,39.397708,-104.876118,445000,Eric &,Marsh,Shawn &,Nickelson,8/13/2016
+1860 Fringe Ct,1860  Fringe Court,Castle Rock,80109,39.384813,-104.878487,474900,Patrick &,Dibartolomeo,Bryce,Smith,8/13/2016
+[2301 - 2399] Riverwood Way,3245  Riverwood Way,Decatur,30035,33.720923,-84.212102,476300,,,Patrick,Hildebrand,8/13/2016
+2561 Leafdale Rd,2561  Leafdale Circle,Hodgenville,42748,37.571169,-85.676376,486600,,,Allen,Laheist,8/13/2016
+"2928 Ave, SETTING SUN",2928  Setting Sun Ave.,Council Bluffs,51501,41.26457,-95.891233,486900,,,Michael &,Buchanan,8/13/2016
+3377 Goodyear St,3377  Goodyear St.,Houston,77017,29.701713,-95.257351,531900,,,Jean,Gilson,8/13/2016
+2605 Red Hawk Ridge Dr,2605  Red Hawk Ridge Drive,Castle Rock,80109,39.388571,-104.890718,581000,Lynn,Garza,Patrick &,Dunda,8/13/2016
+3464 Elk Run Dr,3464  Elk Run Drive,Castle Rock,80109,39.397841,-104.91351,610000,,,Christopher,Plucinski,8/13/2016
+2157 Dragoon Ct,2157  Dragoon Court,Castle Rock,80109,39.324301,-104.926317,700000,Benjamin &,Williams,Barbara,Nicolson,8/13/2016
+4070 S Delaware St,4070 S Delaware St.,Englewood,80110,39.642729,-104.992453,348000,Troy &,Hanners,Quoc &,Le,8/13/2016
+5804 E Caley Ave,5804 E Caley Ave.,Centennial,80111,39.602768,-104.920393,430000,,,Brian &,Azcuenaga,8/13/2016
+6510 S Locust Way,6510 S Locust Way,Centennial,80111,39.597622,-104.914118,468000,Debra &,Penrose,Abel &,Roman,8/13/2016
+6378 S Oneida Ct,6378 S Oneida Court,Centennial,80111,39.60136,-104.909447,500000,Erik,Dickson,Jon &,Roberts,8/13/2016
+6974 E Heritage Pl N,6974 E Heritage Place N,Centennial,80111,39.600638,-104.908642,502500,Charles,Kreiman,Timothy,Mccormack,8/13/2016
+13706 E Weaver Ave,13706 E Weaver Ave.,Englewood,80111,39.600875,-104.830526,539000,Brenda &,Lopez,Taek,Lee,8/13/2016
+10805 E Orchard Pl,10805 E Orchard Place,Englewood,80111,39.608673,-104.862995,563000,Yongbeom,Lee,David &,Hellmer,8/13/2016
+6335 S Pontiac Ct,6335 S Pontiac Court,Centennial,80111,39.601691,-104.907438,570000,Jeannette &,Egle,Jeffrey,Desjardin,8/13/2016
+6054 S Akron Way,6054 S Akron Way,Greenwood Village,80111,39.606587,-104.884464,757500,Kathryn &,Robbins,Keila &,Rawlinson,8/13/2016
+[7600 - 7662] S Olive Cir,5966 S Olive Circle,Centennial,80112,39.578163,-104.907709,970000,,,Nam,Cho,8/13/2016
+"14200 E Otero Ave, h1",14200 E Otero Ave.  # H1,Englewood,80112,39.568424,-104.824905,36500,,,Aaron &,Raymond,8/13/2016
+"14200 E Otero Ave, h2",14200 E Otero Ave.  # H2,Englewood,80112,39.568424,-104.824905,36500,,,Aaron &,Raymond,8/13/2016
+"7324 S Xenia Cir, APT A",7324 S Xenia Circle  Apt A,Centennial,80112,39.583318,-104.88796,185000,,,Stephen,Jones,8/13/2016
+"15700 E Jamison Dr, UNIT 7105",15700 E Jamison Drive  Unit 7105,Englewood,80112,39.578293,-104.806582,210000,Carol,Mcbride,Alpana &,Kelshiker,8/13/2016
+7896 E Kettle Ave,7896 E Kettle Ave.,Centennial,80112,39.576352,-104.898545,371700,Andreas,Vita,Natasha,Dove,8/13/2016
+7370 S Syracuse Ct,7370 S Syracuse Court,Centennial,80112,39.582371,-104.898994,421000,Joseph &,Collyar,Garrett &,Sheffield,8/13/2016
+7236 S Valentia Way,7236 S Valentia Way,Centennial,80112,39.585188,-104.892068,542500,,,Joseph &,Collyar,8/13/2016
+7866 S Kearney Ct,7866 S Kearney Court,Centennial,80112,39.573718,-104.919236,615000,Elizabeth,Frost,Devin &,Farrell,8/13/2016
+6451 E Irish Pl,6451 E Irish Place,Centennial,80112,39.580015,-104.914597,645000,Lynn,Honderd,Domonic &,Dipaolo,8/13/2016
+1404 Silverheels Dr,1404  Silverheels Drive,Larkspur,80118,39.240041,-104.911706,578800,Eric &,Marshall,Kelvin &,Gillett,8/13/2016
+7457 Cameron Dr,7457  Cameron Drive,Larkspur,80118,39.254335,-104.904989,598000,,,Bret &,Bemiller,8/13/2016
+"7122 S Bryant St, APT 116",7122 S Bryant St.  Apt 116,Littleton,80120,39.587506,-105.023729,170000,Gisela,Duell,Matthew,Berry,8/13/2016
+800 W Peakview Ave,800 W Peakview Ave.,Littleton,80120,39.598748,-104.997897,350000,Kimberly &,Johns,Matthew,Gemperline,8/13/2016
+6603 S Buffalo Dr,6603 S Buffalo Drive,Littleton,80120,39.596128,-104.990703,360000,Stephen &,Dombrowski,Julie,Przekwas,8/13/2016
+586 W Peakview Ave,586 W Peakview Ave.,Littleton,80120,39.599117,-104.995011,365000,James &,Hart,Stephanie,Church,8/13/2016
+6062 S Crestview St,6062 S Crestview St.,Littleton,80120,39.607062,-104.989211,367900,Shelby,Forrest,Thomas,Accola,8/13/2016
+6423 S Downing St,6423 S Downing St.,Centennial,80121,39.600133,-104.975786,369000,Shawn &,Rossman,Michelle,Orihill,8/13/2016
+6297 S Josephine Way,6297 S Josephine Way,Centennial,80121,39.603634,-104.957153,376000,Margaret,Walsh,Matthew &,Barbian,8/13/2016
+6279 S Filbert Ct,6279 S Filbert Court,Centennial,80121,39.60272,-104.928008,491000,Lance &,Wischkowski,Robert &,Ryan,8/13/2016
+"190 E Highline Cir, APT 107",190 E Highline Circle  Apt 107,Centennial,80122,39.591291,-104.985903,95000,Sharon,Kellogg,Hari,Dallakoti,8/13/2016
+7125 S Vine Cir W,7125 S Vine Circle W,Centennial,80122,39.588094,-104.96556,295000,Catherine &,Wray,Charlene,Swibas,8/13/2016
+[7257 - 7299] S Pennsylvania St,7453 S Pennsylvania St.,Littleton,80122,39.585153,-104.982695,347800,,,Garland,Brown,8/13/2016
+[7200 - 7298] S Logan St,7424 S Logan St.,Littleton,80122,39.58594,-104.983866,499700,,,Kenneth &,Martinelli,8/13/2016
+7610 S Fillmore Way,7610 S Fillmore Way,Centennial,80122,39.578423,-104.954895,534600,Marolyn,Vanwagenen,Robert,Stuehrk,8/13/2016
+[2600 - 2698] E Fremont Pl,630 E Fremont Place,Centennial,80122,39.587,-104.957724,559200,,,Judy,Harbison,8/13/2016
+7080 S Columbine Way,7080 S Columbine Way,Centennial,80122,39.588203,-104.948082,575000,Stephen &,Johnson,John &,Murgel,8/13/2016
+[2600 - 2698] E Fremont Pl,640 E Fremont Place,Centennial,80122,39.587,-104.957724,588800,,,Colter &,Hocking,8/13/2016
+8045 S Clayton Cir,8045 S Clayton Circle,Centennial,80122,39.571708,-104.957455,616800,Kristine,Farley,Vincent,Vecchiarelli,8/13/2016
+"2773 W Riverwalk Cir, UNIT C",2773 W Riverwalk Circle  Unit C,Littleton,80123,39.618834,-105.021707,270500,Kate,Besch,Michael,Leduc,8/13/2016
+"2765 W Riverwalk Cir, UNIT A",2765 W Riverwalk Circle  Unit A,Littleton,80123,39.617717,-105.023212,310000,Rachel,Colling,Peggy,Stark,8/13/2016
+"4451 S Ammons St, UNIT 5-203",4451 S Ammons St.  Unit 5-203,Littleton,80123,39.636448,-105.087426,191000,,,John,Hayse,8/13/2016
+5321 S Cody St,5321 S Cody St.,Littleton,80123,39.62007,-105.094254,365000,Michael &,Tennery,Edward,Tillbury,8/13/2016
+7487 W Saratoga Pl,7487 W Saratoga Place,Littleton,80123,39.626471,-105.08019,369900,Cynthia,Zoetewey,Gerald &,Hammett,8/13/2016
+8941 W Lake Dr,8941 W Lake Drive,Littleton,80123,39.60706,-105.097667,380000,Stacy,Hurt,Igor &,Tsaytak,8/13/2016
+9742 W Brandt Pl,9742 W Brandt Place,Littleton,80123,39.615415,-105.107502,510000,Timothy &,Day,Brock,Hopfenspirger,8/13/2016
+8998 W Brandt Dr,8998 W Brandt Drive,Littleton,80123,39.615242,-105.101362,570000,Thomas &,Ciapusci,Sharon,Derouen,8/13/2016
+5320 S Jay Dr,5320 S Jay Drive,Littleton,80123,39.619111,-105.065677,660000,Sang,Truong,Daniel &,Burke,8/13/2016
+323 Helena Cir,323  Helena Circle,Lone Tree,80124,39.558579,-104.892456,335000,Lee,Overcamp,Michelle,Tamayo,8/13/2016
+655 Altair Dr,655  Altair Drive,Littleton,80124,39.555744,-104.897853,387000,Jenna &,Karlstrum,Brian &,Teets,8/13/2016
+10140 Bluffmont Ln,10140  Bluffmont Lane,Lone Tree,80124,39.530741,-104.884232,445000,Zoila,Cornejo,Gregory &,Soderberg,8/13/2016
+8715 Tall Grass Pl,8715  Tall Grass Place,Lone Tree,80124,39.53905,-104.888403,585000,Van &,Trieu,Frank,Smith,8/13/2016
+9195 E Star Hill Trl,9195 E Star Hill Trail,Lone Tree,80124,39.546858,-104.883032,907000,Gregory,Mitchell,Timothy &,Hartmann,8/13/2016
+9799 Marmot Ridge Cir,9799  Marmot Ridge Circle,Littleton,80125,39.468389,-105.067373,320000,Shawn,Thomason,Michael,Seepers,8/13/2016
+7619 Jared Way,7619  Jared Way,Littleton,80125,39.472288,-105.081121,365000,Daniel,Goins,Kenneth &,Worthington,8/13/2016
+7694 Crystal Lake Ct,7694  Crystal Lake Court,Littleton,80125,39.473802,-105.071965,410000,Travis &,Singleton,Joseph &,Randolph,8/13/2016
+7512 Bison Pl,7512  Bison Place,Littleton,80125,39.47092,-105.071961,475000,Lawrence &,Lupo,Steven,Plant,8/13/2016
+10228 Eagle Feather Pl,10228  Eagle Feather Place,Littleton,80125,39.454553,-105.077212,732500,,,Hsiuping,Chen,8/13/2016
+913 Summer Dr,913  Summer Drive,Highlands Ranch,80126,39.545446,-104.97819,180000,Jordan,Newman,Peggy,Mclain,8/13/2016
+3975 E Canyon Ranch Rd,3975  Canyon Ranch Road,Littleton,80126,39.564363,-104.942533,215000,Vanessa &,Vonduerring,Carmin,Westernoff,8/13/2016
+128 Flowerburst Way,128  Flowerburst Way,Highlands Ranch,80126,39.522766,-104.985891,225000,,,Jamie &,Sharp,8/13/2016
+"8465 Pebble Creek Way, UNIT 204",8465  Pebble Creek Way  Unit 204,Highlands Ranch,80126,39.562893,-104.944001,226000,Patricia,Webb,John,Cruz,8/13/2016
+981 Conifer Ct,981  Conifer Court,Highlands Ranch,80126,39.549773,-104.9788,339000,Wolfgang &,Kray,Justin,Ganoe,8/13/2016
+659 E Ridgeglen Way,659  Ridgeglen Way,Littleton,80126,39.550128,-104.98211,375000,Jason &,Aiken,Jason &,Boldt,8/13/2016
+744 Honeysuckle Pl,744  Honeysuckle Place,Highlands Ranch,80126,39.559571,-104.978706,419900,Earl &,Mcmillen,Nicole,Germaine,8/13/2016
+9292 Sand Hill Trl,9292  Sand Hill Trail,Highlands Ranch,80126,39.54763,-104.940068,475000,Dennis &,Gelbman,Juliar,Olson,8/13/2016
+16 Burgundy Way,16  Burgundy Way,Highlands Ranch,80126,39.544381,-104.991057,515000,John &,Glennon,Dennis,Conway,8/13/2016
+647 Ridgemont Cir,647  Ridgemont Circle,Highlands Ranch,80126,39.529824,-104.980941,665000,David &,Gillo,A &,Yun,8/13/2016
+"7454 S Alkire St, APT 106",7454 S Alkire St.  Apt 106,Littleton,80127,39.581959,-105.133799,212900,Kirk &,Sellers,Charles,Howell,8/13/2016
+"10299 W Fair Ave, APT A",10299 W Fair Ave.  Apt A,Littleton,80127,39.604108,-105.113515,215000,Michael,Rickli,Gregory,Valdez,8/13/2016
+11773 Elk Head Range Rd,11773  Elk Head Range Road,Littleton,80127,39.577145,-105.13167,225000,Ralph,Bell,Steffan,Mehnert,8/13/2016
+"7483 S Quail Cir, APT 633",7483 S Quail Circle  Apt 633,Littleton,80127,39.582368,-105.12564,225000,Alex &,Velline,Christopher,Lugo,8/13/2016
+"7453 S Quail Cir, APT 223",7453 S Quail Circle  Apt 223,Littleton,80127,39.581339,-105.124859,229000,David &,Zangara,Nancy,Raiche,8/13/2016
+"8726 S Kline St, UNIT A301",8726 S Kline St.  Unit A301,Littleton,80127,39.557552,-105.110831,278500,Renda,Albergotti,Cathy,Anderson,8/13/2016
+11887 Elk Head Range Rd,11887  Elk Head Range Road,Littleton,80127,39.575777,-105.132626,322000,Christine,Freeman,Deborah,Leal,8/13/2016
+9388 S Murphy Gulch Rd,9388 S Murphy Gulch Road,Littleton,80127,39.546463,-105.197964,330000,Robert &,Thomas,Robert,Zisch,8/13/2016
+11841 Elk Head Range Rd,11841  Elk Head Range Road,Littleton,80127,39.576043,-105.13245,335000,Chris &,Myers,Amber,Mesmer,8/13/2016
+4321 S Quail Ct,4321 S Quail Court,Littleton,80127,39.638056,-105.125135,342000,,,Joan,Wilson,8/13/2016
+6097 S Pierson St,6097 S Pierson St.,Littleton,80127,39.605574,-105.122783,350000,Gabrielle &,Allen,Zach &,Obrien,8/13/2016
+5346 S Taft St,5346 S Taft St.,Littleton,80127,39.61949,-105.132568,350000,Mary,Keys,Karen,Monroe,8/13/2016
+11746 W Maplewood Ave,11746 W Maplewood Ave.,Littleton,80127,39.60485,-105.130506,355000,Sheila,Mustard,Trevor &,Kremser,8/13/2016
+12849 W Berry Dr,12849 W Berry Drive,Littleton,80127,39.616392,-105.144074,365000,Luke,Ortgessen,Robert,Holliday,8/13/2016
+12638 W Aqueduct Dr,12638 W Aqueduct Drive,Littleton,80127,39.616541,-105.140873,367500,Elizabeth,Siegel,Jared &,Gibson,8/13/2016
+11911 W Ida Pl,11911 W Ida Place,Littleton,80127,39.611193,-105.132687,378000,Jennifer,Sheldon,Jim &,Miller,8/13/2016
+6570 S Tabor St,6570 S Tabor St.,Littleton,80127,39.599374,-105.131552,410000,Gerald &,Sheedy,Anthony &,Hamilton,8/13/2016
+9643 S Dudley Way,9643 S Dudley Way,Littleton,80127,39.54038,-105.096997,436000,Michael &,Wooldridge,Dawn,Winkelmann,8/13/2016
+5 Pinyon Pine Rd,5  Pinyon Pine Road,Littleton,80127,39.573861,-105.153692,442000,Mary,Coy,Richard &,Wahl,8/13/2016
+11808 W Progress Ave,11808 W Progress Ave.,Littleton,80127,39.622309,-105.131559,450000,,,Mary &,Williams,8/13/2016
+5133 S Oak Way,5133 S Oak Way,Littleton,80127,39.623594,-105.119929,486000,Justin &,Mack,Kevin,Sampron,8/13/2016
+6471 S Oak Ct,6471 S Oak Court,Littleton,80127,39.599505,-105.119899,488000,Jane,Rerecich,John &,Spelic,8/13/2016
+15 Dawn Heath Dr,15  Dawn Heath Drive,Littleton,80127,39.583681,-105.162892,495000,Dean &,Ekeren,Lou &,Leibbrand,8/13/2016
+8789 S Murphy Gulch Rd,8789 S Murphy Gulch Road,Littleton,80127,39.554862,-105.188895,495000,Catherine &,Clemens,Thomas,Tuso,8/13/2016
+5705 S Union Ln,5705 S Union Lane,Littleton,80127,39.613059,-105.134539,558000,Jerry &,Gosch,Susanna,Sutton,8/13/2016
+9879 W Cambridge Pl,9879 W Cambridge Place,Littleton,80127,39.544188,-105.109853,671500,Mark &,Parker,Richard &,Smith,8/13/2016
+45 Amaranth Dr,45  Amaranth Drive,Littleton,80127,39.574862,-105.165055,740000,Craig &,Hardy,James,Olson,8/13/2016
+1 N Ranch Rd,1 N Ranch Road,Littleton,80127,39.592414,-105.166892,750000,Dorothy,Seal,Dean &,Ekeren,8/13/2016
+7532 S Overlook Way,7532 S Overlook Way,Littleton,80128,39.579902,-105.044737,936100,,,Ronnie,Renaldi,8/13/2016
+"8341 S Upham Way, APT 101",8341 S Upham Way  Apt 101,Littleton,80128,39.564956,-105.080095,190000,Michael,Roybal,Clarissa,Beloff,8/13/2016
+"7700 W Glasgow Pl, APT 19D",7700 W Glasgow Place  Apt 19d,Littleton,80128,39.582684,-105.083137,191000,Michael &,Underriner,Leisa,Lemon,8/13/2016
+9433 W Ontario Dr,9433 W Ontario Drive,Littleton,80128,39.593072,-105.101947,239000,Daniel,Hodges,Alicia,Reid,8/13/2016
+"8496 S Hoyt Way, UNIT 205",8496 S Hoyt Way  Unit 205,Littleton,80128,39.562392,-105.105146,248000,Christopher,Dulmage,Sibi,Mathew,8/13/2016
+8957 W Plymouth Ave,8957 W Plymouth Ave.,Littleton,80128,39.591378,-105.097119,259000,Patrice,Cummings,Maria &,Ferretti,8/13/2016
+"8318 S Independence Cir, UNIT 202",8318 S Independence Circle  Unit 202,Littleton,80128,39.565564,-105.104698,261000,Scott &,Johnson,Yan,Zhang,8/13/2016
+"7926 S Depew St, APT A",7926 S Depew St.  Apt A,Littleton,80128,39.573187,-105.058093,285900,Brett &,Petrillo,Molly,Algya,8/13/2016
+9347 W Nova Ave,9347 W Nova Ave.,Littleton,80128,39.5778,-105.102169,352500,Dustin,Jabin,Craig,Enlund,8/13/2016
+5987 W Ken Caryl Pl,5987 W Ken Caryl Place,Littleton,80128,39.580083,-105.063797,362000,David &,Mackeage,Minh,Pham,8/13/2016
+8366 S Garland Way,8366 S Garland Way,Littleton,80128,39.564928,-105.102968,366500,,,David &,Egan,8/13/2016
+7920 S Estes St,7920 S Estes St.,Littleton,80128,39.572947,-105.096172,370000,Judith,Williams,Andrew,Polichio,8/13/2016
+5486 W Hinsdale Pl,5486 W Hinsdale Place,Littleton,80128,39.582246,-105.058714,412000,Craig &,Silber,Corey,Reynders,8/13/2016
+8258 W Chestnut Ave,8258 W Chestnut Ave.,Littleton,80128,39.568888,-105.090166,437900,John &,Hampton,Dustin &,Jabin,8/13/2016
+7690 W Massey Dr,7690 W Massey Drive,Littleton,80128,39.558212,-105.085014,452000,Jonathan &,Mandani,Clark &,Johnson,8/13/2016
+7701 S Estes St,7701 S Estes St.,Littleton,80128,39.576952,-105.09611,455000,Matthew &,Daniels,Theresa,Chica,8/13/2016
+5714 W Rowland Pl,5714 W Rowland Place,Littleton,80128,39.587473,-105.059812,499500,Patrick &,Sabadosh,Peter &,Reed,8/13/2016
+8099 S Yukon St,8099 S Yukon St.,Littleton,80128,39.569489,-105.083764,500000,David &,Egan,Eric &,Elkins,8/13/2016
+7751 S Carr St,7751 S Carr St.,Littleton,80128,39.576233,-105.091434,505000,Stephen,Knapp,Matthew,Zatorski,8/13/2016
+5861 W Rowland Pl,5861 W Rowland Place,Littleton,80128,39.587475,-105.061644,555000,Robert &,Bosco,Mary &,Hughes,8/13/2016
+2344 Hyacinth Rd,2344  Hyacinth Road,Highlands Ranch,80129,39.527287,-105.017567,385000,Marnie,Kosters,Nicholas &,Matthies,8/13/2016
+9658 Westbury Way,9658  Westbury Way,Highlands Ranch,80129,39.54215,-105.009453,430000, &,Paul,Matthew &,Lawson,8/13/2016
+887 Sparrow Hawk Dr,887  Sparrow Hawk Drive,Highlands Ranch,80129,39.530331,-104.998848,495000,Tyler &,Higgins,Keith &,Illg,8/13/2016
+2065 Primo Rd,2065  Primo Road,Highlands Ranch,80129,39.564366,-105.017917,739600,,,Edward &,Hut,8/13/2016
+"2033 Primo Rd, UNIT A",2033  Primo Road  Unit A,Highlands Ranch,80129,39.564021,-105.018182,768200,,,James &,Bisetti,8/13/2016
+8902 Maribou Ct,8902  Maribou Court,Highlands Ranch,80130,39.554203,-104.912547,335000,Ernest,Stech,Matthew &,Desilvey,8/13/2016
+10826 Towerbridge Ln,10826  Towerbridge Lane,Highlands Ranch,80130,39.519846,-104.92391,364000,Blane &,Williams,Siarhei &,Lushchyk,8/13/2016
+4853 Apollo Bay Dr,4853  Apollo Bay Drive,Highlands Ranch,80130,39.535166,-104.932975,385000,Cristi,Lundquist,Alison,Moy,8/13/2016
+9351 Chambray Ln,9351  Chambray Lane,Highlands Ranch,80130,39.545656,-104.925399,393000,,,Brian &,Brzezicki,8/13/2016
+9939 Sydney Ln,9939  Sydney Lane,Highlands Ranch,80130,39.536483,-104.931478,405000,Anne,Miller,Stephen,Weber,8/13/2016
+9495 Princeton Cir,9495  Princeton Circle,Highlands Ranch,80130,39.544419,-104.911879,430000,Jeffrey &,Haake,Andrew,Ostransky,8/13/2016
+10694 Cedarcrest Cir,10694  Cedarcrest Circle,Highlands Ranch,80130,39.522666,-104.926815,470000,Michael,White,Matthew &,Mulligan,8/13/2016
+"9015 Apache Plume Dr, UNIT F",9015  Apache Plume Drive  Unit F,Parker,80134,39.552808,-104.790583,255000,,,Robyn,Timmerman,8/13/2016
+8846 Greengrass Way,8846  Greengrass Way,Parker,80134,39.557068,-104.792891,310000,George &,Sanderson,Austin,Isaacs,8/13/2016
+17632 Hoyt Pl,17632  Hoyt Place,Parker,80134,39.518599,-104.783326,325000,Clinton &,Glasgow,Darwin,Smith,8/13/2016
+16104 White Hawk Dr,16104  White Hawk Drive,Parker,80134,39.516331,-104.799565,327500,Bryan &,Yada,Bryce,Allen,8/13/2016
+11211 Jordan Ct,11211  Jordan Court,Parker,80134,39.516995,-104.792612,342000,Gerald,Morehead,Andrew &,Woodward,8/13/2016
+5054 Miriam Ln,5054  Miriam Lane,Parker,80134,39.435678,-104.761005,350000,Margaret,Mai,William,Hennessy,8/13/2016
+12753 Domingo Ct,12753  Domingo Court,Parker,80134,39.484611,-104.778274,380000,Matthew,Kier,Anthony,Yokum,8/13/2016
+[601 - 899] Gregory Cir,15088  Jakata Circle,Parker,80138,39.478031,-104.64823,390000,,,Tudugala,Munasinghe,8/13/2016
+12840 Ventana St,12840  Ventana St.,Parker,80134,39.48334,-104.78082,395000,Richard,Gonzales,Kimberly,Bender,8/13/2016
+10361 Helsinki St,10361  Helsinki St.,Parker,80134,39.529107,-104.814431,415700,,,Tomer,Saban,8/13/2016
+18145 Bolero Dr,18145  Bolero Drive,Parker,80134,39.480697,-104.778724,455000,Hope &,Rodericks,Courtney &,Suyat,8/13/2016
+5325 N Hillary Cir,5325  Hillary Circle,Parker,80134,39.439512,-104.749844,465000,Bryce,Smith,Joshua &,Piquard,8/13/2016
+12734 Espera Way,12734  Espera Way,Parker,80134,39.485623,-104.779179,469000,Nicole,Smith,Laura &,Maginn,8/13/2016
+10905 Clifford Ct,10905  Clifford Court,Parker,80134,39.520994,-104.78251,470000,Richard &,Ward,Glen &,Sutton,8/13/2016
+10105 Tall Oaks St,10105  Tall Oaks St.,Parker,80134,39.532412,-104.829557,480000,,,Thomas &,Moore,8/13/2016
+10329 Helsinki St,10329  Helsinki St.,Parker,80134,39.529449,-104.814425,483500,,,Leonid,Minevich,8/13/2016
+16041 Relic Rock Ter,16041  Relic Rock Terrace,Parker,80134,39.53217,-104.803393,485000,Lisa &,Kwiatkowski,Anthony,Anderson,8/13/2016
+[46900 - 46998] Monarch Dr,14599  Verona Pt,Parker,80138,39.549398,-104.601454,487900,,,Jared &,Prince,8/13/2016
+10004 Applewood Dr,10004  Isle St.,Parker,80138,39.524894,-104.691828,520300,,,Linda,Depkin,8/13/2016
+[46900 - 46998] Monarch Dr,14585  Verona Pt,Parker,80138,39.549398,-104.601454,521600,,,Ashleigh,Carrothers,8/13/2016
+16271 Hawkstone Pl,16271  Hawkstone Place,Parker,80134,39.543371,-104.800744,524000,Daniel &,Andrus,Beatriz,Castaneda,8/13/2016
+6784 Chalet Cir,6784  Chalet Circle,Parker,80134,39.459968,-104.716682,557800,Robert,Taylor,Sarah,Radunsky,8/13/2016
+14755 Melco Ave,14755  Melco Ave.,Parker,80134,39.502449,-104.820238,610000,Michael &,Odonnell,Craig &,Benson,8/13/2016
+10051 Glenayre Ct,10051  Glenayre Court,Parker,80134,39.5338,-104.82212,623900,,,Praveen,Kanagaraj,8/13/2016
+5470 Craftsman Dr,5470  Craftsman Drive,Parker,80134,39.441549,-104.781632,650000,Cory &,Louthan,Victor &,Collum,8/13/2016
+10050 Glenayre Ct,10050  Glenayre Court,Parker,80134,39.533819,-104.822121,663000,,,Kieth &,Walter,8/13/2016
+7957 Towhee Rd,7957  Towhee Road,Parker,80134,39.439591,-104.736802,775000,James &,Bailey,Jason &,Rodericks,8/13/2016
+8739 Eagle Moon Way,8739  Eagle Moon Way,Parker,80134,39.467293,-104.724252,1540900,,,Andrew,King,8/13/2016
+1350 Valley View Dr,1350  Valley View Drive,Sedalia,80135,39.343201,-105.03295,299000,Alison,Schaetzle,Kurt &,Sala,8/13/2016
+11097 Glacier Park Cir,11097  Glacier Park Circle,Parker,80138,39.511753,-104.743134,330000,Robert,Berk,Cindy,Palmer,8/13/2016
+21467 E Tallkid Ave,21467 E Tallkid Ave.,Parker,80138,39.497505,-104.740209,378000,Steven &,Purkapile,Eric,Hendrickson,8/13/2016
+[30200 - 30274] Game Trl,20830  Game Trail,Steamboat Springs,80487,40.519796,-106.858024,464000,,,Benjamin,Oates,8/13/2016
+12152 S Hidden Trail Ct,12152 S Hidden Trail Court,Parker,80138,39.495735,-104.729215,467000,Robert &,Dagg,Thomas &,Norton,8/13/2016
+11152 Cardinal Dr,11152  Cardinal Drive,Parker,80138,39.524739,-104.744708,527500,Hope &,Allen,Randy,Williamson,8/13/2016
+11575 N Pine Dr,11575  Pine Canyon Drive,Parker,80138,39.531038,-104.75582,1095600,,,Steven &,Bendrick,8/13/2016
+"891 14th St, UNIT 2507",891  14th St.  Unit 2507,Denver,80202,39.744369,-104.99595,425000,Deborah &,Ford,Christopher,Johnson,8/13/2016
+"891 14th St, UNIT 1202",891  14th St.  Unit 1202,Denver,80202,39.744369,-104.99595,500000,,,Jordan,Orr,8/13/2016
+"1551 Larimer St, APT 2704",1551  Larimer St.  Apt 2704,Denver,80202,39.748692,-104.998146,780000,,,Alison,Bailey,8/13/2016
+3036 W 19th Ave,3036 W 19th Ave.,Denver,80204,39.746366,-105.025821,458400,,,Stephen,Lepeau,8/13/2016
+1601 Utica St,1601  Utica St.,Denver,80204,39.742366,-105.045193,515000,Adeline,Swazo,Russell,Weber,8/13/2016
+"3323 W 17th Ave, UNIT 105",3323 W 17th Ave.  Unit 105,Denver,80204,39.743939,-105.030756,540000,,,John,Taibi,8/13/2016
+3001 Marion St,3001 N Marion St.,Denver,80205,39.759638,-104.972135,228900,Jessica,Slaton,Hillary,Wernlund,8/13/2016
+"721 27th St, APT A",721  27th St.  Apt A,Denver,80205,39.755909,-104.979454,275000,Jennifer,Gokenbach,Molly,Katz,8/13/2016
+3328 Adams St,3328 N Adams St.,Denver,80205,39.763833,-104.948719,300000,Sarah,Jones,Grant,Leadem,8/13/2016
+3336 Saint Paul St,3336 N Saint Paul St.,Denver,80205,39.763963,-104.951191,315000,Zachary,Knight,Brian,Ritchie,8/13/2016
+"3309 Blake St, STE 207",3309  Blake St.  Ste 207,Denver,80205,39.766882,-104.978047,320000,Briar,Schreiber,Andrew,Percowycz,8/13/2016
+[1201 - 1299] N Williams St,3417 N Williams St.,Denver,80218,39.736672,-104.966052,437000,John &,Rupp,Virginia,Sciabbarrasi,8/13/2016
+"155 Jackson St, APT 8",155  Jackson St.  Apt 8,Denver,80206,39.718888,-104.942551,275000,Damian,Smith,Matthew,Jacobson,8/13/2016
+1586 Steele St,1586  Steele St.,Denver,80206,39.74183,-104.950038,727500,Jeffrey &,Goldstein,Julia,Brant,8/13/2016
+341 Jackson St,341  Jackson St.,Denver,80206,39.721825,-104.942525,1250000,,,John,Self,8/13/2016
+3025 Jasmine St,3025  Jasmine St.,Denver,80207,39.760749,-104.918751,404500,Richard &,Gama,Randall &,Sylvan,8/13/2016
+2967 Clermont St,2967  Clermont St.,Denver,80207,39.759618,-104.935026,484900,Laura,Wilson,Brittany,Hurley,8/13/2016
+169 S Ogden St,169 S Ogden St.,Denver,80209,39.713374,-104.975719,457000,Deldi,Reyes,Kirk,Young,8/13/2016
+1031 S Vine St,1031 S Vine St.,Denver,80209,39.697876,-104.962878,525000,Eric &,Rioux,Jacob &,Otto,8/13/2016
+1040 S Emerson St,1040 S Emerson St.,Denver,80209,39.697679,-104.976938,775000,Andrew &,Norwood,Richard &,Kovash,8/13/2016
+854 S Josephine St,854 S Josephine St.,Denver,80209,39.701597,-104.958006,1595000,Michael &,Gegen,Dana,Davis,8/13/2016
+120 S Marion Pkwy,120 S Marion Parkway,Denver,80209,39.714153,-104.97221,2100000,,,Kathy,Ohara,8/13/2016
+1560 S Washington St,1560 S Washington St.,Denver,80210,39.68831,-104.979278,352000,Christopher &,Macri,William,Boettcher,8/13/2016
+2747 S Steele St,2747 S Steele St.,Denver,80210,39.666415,-104.949573,390000,,,Ryan &,Marsh,8/13/2016
+2633 S Cook St,2633 S Cook St.,Denver,80210,39.668702,-104.947702,490000,,,Sue,Tatman,8/13/2016
+1625 S Madison St,1625 S Madison St.,Denver,80210,39.686955,-104.946505,550000,Dale &,Chandler,Michael,King,8/13/2016
+2050 S Franklin St,2050 S Franklin St.,Denver,80210,39.67931,-104.968747,605000,James &,Hunter,Christopher &,Johnson,8/13/2016
+1445 S Gaylord St,1445 S Gaylord St.,Denver,80210,39.690178,-104.961733,1075000,Barry,Hamilton,Maile &,Rains,8/13/2016
+2040 Newton St,2040  Newton St.,Denver,80211,39.748404,-105.036913,347500,Charles,Griffin,Scott &,Simons,8/13/2016
+4057 Bryant St,4057  Bryant St.,Denver,80211,39.772788,-105.018942,400000,Lori,Goodman,Anthony,Vescovi,8/13/2016
+4145 Pecos St,4145  Pecos St.,Denver,80211,39.773673,-105.006452,485000,Martin,Spann,Katharine,Mahoney,8/13/2016
+3065 W 39th Ave,3065 W 39th Ave.,Denver,80211,39.77114,-105.02704,494000,Kelli &,Clair,Dillon,Roy,8/13/2016
+3256 Federal Blvd,3256  Federal Blvd.,Denver,80211,39.762723,-105.025169,500000,Christine,Kresge,Matthew,Videtich,8/13/2016
+2624 W 35th Ave,2624 W 35th Ave.,Denver,80211,39.765646,-105.019629,620000,Tommy &,Bibliowicz,Roger,Ferguson,8/13/2016
+3821 Vallejo St,3821  Vallejo St.,Denver,80211,39.769725,-105.013544,675000,,,Jin,Xia,8/13/2016
+4566 Quitman St,4566  Quitman St.,Denver,80212,39.779631,-105.040431,414000,Diane,Clow,Michael &,Berkstresser,8/13/2016
+4131 Zenobia St,4131  Zenobia St.,Denver,80212,39.773525,-105.052081,549000,Tyler,Root,Melissa,Braaten,8/13/2016
+4699 W 36th Ave,4699 W 36th Ave.,Denver,80212,39.766602,-105.047735,570000,Cherolynn,Vila,Stephen,Surman,8/13/2016
+"3781 Depew St, UNIT C",3781  Depew St.  Unit C,Wheat Ridge,80212,39.768893,-105.057947,399000,,,Joseph,Sanfilippo,8/13/2016
+3665 Fenton St,3665  Fenton St.,Wheat Ridge,80212,39.767056,-105.060362,435000,Delwyn,Vanessen,Brian,Macdonald,8/13/2016
+3281 Depew St,3281  Depew St.,Wheat Ridge,80212,39.763526,-105.05794,525000,Robert &,Biggers,Drew,Ansbacher,8/13/2016
+"2890 Harlan St, APT 103",2890  Harlan St.  Apt 103,Wheat Ridge,80214,39.757437,-105.062631,140000,Kim,Powers,Christopher,Johnson,8/13/2016
+"7080 W 20th Ave, APT 206",7080 W 20th Ave.  Apt 206,Lakewood,80214,39.747569,-105.075332,193000,James,Powers,Jacquelyn,Evans,8/13/2016
+1200 Balsam St,1200  Balsam St.,Lakewood,80214,39.734917,-105.088393,199000,John &,Hanson,Eco,Llc,8/13/2016
+7960 W 6th Ave,7960 W 6th Ave.,Denver,80226,39.725344,-105.085714,204400,Karen,Keuter,David,Cronk,8/13/2016
+1635 Quay St,1635  Quay St.,Lakewood,80214,39.74267,-105.073172,266300,Christine,Marston,Brandon,Black,8/13/2016
+1345 Upham St,1345  Upham St.,Lakewood,80214,39.737361,-105.077911,269100,Cara &,Woodward,Long,Nguyen,8/13/2016
+6070 W 11th Ave,6070 W 11th Ave.,Lakewood,80214,39.734861,-105.063295,285000,,,Kevin,Zimmerman,8/13/2016
+2942 Eaton St,2942  Eaton St.,Wheat Ridge,80214,39.760005,-105.059028,290000,,,William,Tate,8/13/2016
+1620 Ingalls St,1620  Ingalls St.,Lakewood,80214,39.742584,-105.063789,315000,,,Kourtney,Beckham,8/13/2016
+2474 Eaton St,2474  Eaton St.,Edgewater,80214,39.752722,-105.059062,551800,,,Carleigh,Krug,8/13/2016
+10145 W 19th Ave,10145 W 19th Ave.,Denver,80215,39.746531,-105.111541,340000,Elaine &,Bauman,Joseph,Howell,8/13/2016
+893 Oak St,893  Oak St.,Lakewood,80215,39.73136,-105.118504,399500,William,Trevathan,Barry &,Nelson,8/13/2016
+11725 W 29th Pl,11725 W 29th Place,Lakewood,80215,39.75897,-105.130459,430000,Mohammed &,Alief,Joseph,Mayo,8/13/2016
+2645 Taft Ct,2645  Taft Court,Lakewood,80215,39.755376,-105.132587,450000,Jennifer,Reading,Robert,Cotton,8/13/2016
+2729 Simms St,2729  Simms St.,Lakewood,80215,39.756555,-105.128373,470000,Donald,Kunz,William &,Schwartz,8/13/2016
+12675 W 15th Pl,12675 W 15th Place,Lakewood,80215,39.741459,-105.140982,474500,Stephen &,Leibold,Barbara,Buller,8/13/2016
+10800 W 20th Ave,10800 W 20th Ave.,Lakewood,80215,39.747412,-105.119195,540000,Michael &,Lane,Morganne &,Mikesell,8/13/2016
+1757 Clarkson St,1757 N Clarkson St.,Denver,80218,39.744395,-104.977547,269900,,,Chris,Horton,8/13/2016
+"1255 Ogden St, APT 307",1255 N Ogden St.  Apt 307,Denver,80218,39.736256,-104.975286,290000,Lucas,Williams,H,Brownawell,8/13/2016
+"1210 E Colfax Ave, STE 404",1210 E Colfax Ave.  Ste 404,Denver,80218,39.740005,-104.971535,315000,Ramon,Arroyo,Michael,Nguyen,8/13/2016
+"1375 E 17th Ave, APT 3",1375 E 17th Ave.  Apt 3,Denver,80218,39.743227,-104.969878,355000,Kristine,Reina,Myesha,Jones,8/13/2016
+5 S Xavier St,5 S Xavier St.,Denver,80219,39.716427,-105.049396,294500,Rosa,Garcia,Herminda &,Espino,8/13/2016
+1328 S Tennyson St,1328 S Tennyson St.,Denver,80219,39.692678,-105.043853,295000,,,Cynthia,Hinojosa,8/13/2016
+1764 S Bryant St,1764 S Bryant St.,Denver,80219,39.6848,-105.018035,305000,Michael &,Munoz,Justin &,Bergmann,8/13/2016
+1332 Valentia St,1332  Valentia St.,Denver,80220,39.738005,-104.891706,276000,Mark,Anderson,Ryan,Adams,8/13/2016
+1608 Uinta St,1608  Uinta St.,Denver,80220,39.742264,-104.892867,380000,,,Megan,Mcclain,8/13/2016
+1714 Niagara St,1714  Niagara St.,Denver,80220,39.744174,-104.91053,590000,Bryan &,Wolf,Joel,Zylberberg,8/13/2016
+221 Dakin St,221  Dakin St.,Denver,80221,39.838588,-104.989867,241000,David,Zweifel,Sally,Bussey,8/13/2016
+[2001 - 2199] W 67th Pl,2215 W 67th Drive,Denver,80221,39.819255,-105.011575,453300,,,Katheryn,Kilpatrick,8/13/2016
+"2325 S Linden Ct, UNIT 308N",2325 S Linden Court  Unit 308n,Denver,80222,39.673841,-104.915229,112500,,,Graeme &,Strachan,8/13/2016
+1834 S Dahlia St,1834 S Dahlia St.,Denver,80222,39.683425,-104.93167,392500,Erin,Betts,Eric,Eddy,8/13/2016
+4441 E Colorado Ave,4441 E Colorado Ave.,Denver,80222,39.684274,-104.935748,394800,James,Coble,Resit &,Yilmaz,8/13/2016
+2562 S Dennison Ct,2562 S Dennison Court,Denver,80222,39.669614,-104.933478,549900,Eduardo,Caceres,Robert,Olson,8/13/2016
+806 S Shoshone St,806 S Shoshone St.,Denver,80223,39.702142,-105.009765,250000,Raymond,Webb,Jarred &,Brown,8/13/2016
+1596 S Zuni St,1596 S Zuni St.,Denver,80223,39.687436,-105.015682,270000,,,Giuseph,Strata,8/13/2016
+2661 S Bannock St,2661 S Bannock St.,Denver,80223,39.66839,-104.989982,529000,,,Colleen,Moore,8/13/2016
+"6960 E Girard Ave, APT 103",6960 E Girard Ave.  Apt 103,Denver,80224,39.655629,-104.906108,239500,Carolyn,Bonneyrat,Steven,Ross,8/13/2016
+1624 S Ivy Way,1624 S Ivy Way,Denver,80224,39.686827,-104.919662,435000,,,Elizabeth,Hulac,8/13/2016
+"381 S Estes St, APT 5",381 S Estes St.  Apt 5,Lakewood,80226,39.709508,-105.095578,70000,Cletus,Mages,Jay,Worth,8/13/2016
+"381 S Ames St, APT E306",381 S Ames St.  Apt E306,Lakewood,80226,39.709953,-105.054471,120000,Bruce,Meehl,Cynthia &,Montes,8/13/2016
+1040 S Miller St,1040 S Miller St.,Lakewood,80226,39.69728,-105.114545,182000,,,Robert,Render,8/13/2016
+1007 S Miller Way,1007 S Miller Way,Lakewood,80226,39.697519,-105.112705,225000,Gabriel,Evans,Linda,Cassius,8/13/2016
+9822 W Kentucky Dr,9822 W Kentucky Drive,Lakewood,80226,39.700038,-105.107696,260000,,,Timothy,Vickery,8/13/2016
+26 Kendall St,26  Kendall St.,Lakewood,80226,39.71711,-105.066204,275000,Brian,Dersch,Kevin,Davis,8/13/2016
+1009 S Newland Ct,1009 S Newland Court,Lakewood,80226,39.698795,-105.070237,299900,Nicole,Pippin,Matthew &,Clark,8/13/2016
+11 S Eaton Ct,11 S Eaton Court,Lakewood,80226,39.717132,-105.059867,310000,,,Scott,Hampton,8/13/2016
+"7220 W Bonfils Ln, UNIT 208",7220 W Bonfils Lane  Unit 208,Denver,80226,39.70836,-105.078909,315000,Edward &,Perme,Deborah,Churchill,8/13/2016
+554 S Flower St,554 S Flower St.,Lakewood,80226,39.706277,-105.099459,332500,David,Kennedy,Nicole &,Pippin,8/13/2016
+805 S Queen Way,805 S Queen Way,Lakewood,80226,39.701747,-105.125095,335000,Traci,Smithee,Devin,Hesseltine,8/13/2016
+968 S Pierson Ct,968 S Pierson Court,Lakewood,80226,39.70009,-105.121605,343000,Nicholas,Kobayashi,Michael &,Burrows,8/13/2016
+5725 W Mississippi Ave,5725 W Mississippi Ave.,Lakewood,80226,39.696767,-105.059464,371000,Marlane,Garcia,Will,Bryan,8/13/2016
+410 Meadowlark Dr,410  Meadowlark Drive,Lakewood,80226,39.722885,-105.095678,375000,Melinda,Bowers,Joshua &,Grenier,8/13/2016
+560 S Pierce St,560 S Pierce St.,Lakewood,80226,39.705726,-105.072078,376500,Christopher &,Bartine,Heather,Keenan,8/13/2016
+810 S Kline Way,810 S Kline Way,Lakewood,80226,39.701894,-105.110659,390000,Gary &,Curtiss,Shana,Yates,8/13/2016
+155 Everett St,155  Everett St.,Lakewood,80226,39.719569,-105.096918,395000,,,Tracy,Gonzales,8/13/2016
+514 S Upham St,514 S Upham St.,Lakewood,80226,39.706894,-105.078204,482200,,,Fredeick &,Wedemeier,8/13/2016
+"7309 W Hampden Ave, APT 6101",7309 W Hampden Ave.  Apt 6101,Lakewood,80227,39.653217,-105.077333,160000,Robert,Wing,Amy,Johnson,8/13/2016
+"5712 W Asbury Pl, UNIT C-203",5712 W Asbury Place  Unit C-203,Lakewood,80227,39.680259,-105.05859,170000,Thoa &,Nguyen,Leo,Koski,8/13/2016
+"10872 W Evans Ave, UNIT 3B",10872 W Evans Ave.  Unit 3b,Lakewood,80227,39.679568,-105.118916,189900,Ryan,Hutson,Sarah,Llerena,8/13/2016
+3284 S Dudley St,3284 S Dudley St.,Lakewood,80227,39.657322,-105.093119,288000,Hiram &,Hoover,Carole,Hildebrand,8/13/2016
+8613 W Warren Dr,8613 W Warren Drive,Lakewood,80227,39.676195,-105.091547,370000,Betty,Miller,Kristen,Feichtner,8/13/2016
+"857 S Van Gordon Ct, APT B105",857 S Van Gordon Court  Apt B105,Lakewood,80228,39.70143,-105.137028,150000,Jesse,Jenkskline,Marcella,Hanna,8/13/2016
+"857 S Van Gordon Ct, APT H105",857 S Van Gordon Court  Apt H105,Lakewood,80228,39.70143,-105.137028,170000,Xianzhong,Le,Adam,Saban,8/13/2016
+"13097 W Cedar Dr, APT 117",13097 W Cedar Drive  Apt 117,Lakewood,80228,39.711558,-105.146536,200000,Gregory,Branam,Doris,Dackonish,8/13/2016
+"1655 S Cole St, UNIT C1",1655 S Cole St.  Unit C1,Lakewood,80228,39.684591,-105.155374,217000,Anne,Goodwin,Michelle,Carlson,8/13/2016
+"420 Zang St, APT 301",420  Zang St.  Apt 301,Lakewood,80228,39.721883,-105.145738,223000,Erik,Lane,Ryan,Sandberg,8/13/2016
+12511 W Dakota Dr,12511 W Dakota Drive,Lakewood,80228,39.697508,-105.139031,330000,Robert,Wollner,Robert,Shetler,8/13/2016
+1957 S Xenon St,1957 S Xenon St.,Lakewood,80228,39.67954,-105.136206,364000,Brian &,Rumsey,Kathleen,Legg,8/13/2016
+1332 S Yank St,1332 S Yank St.,Lakewood,80228,39.692301,-105.143366,365000,Bernice,Bush,Virginia,Bush,8/13/2016
+1821 S Yank Ct,1821 S Yank Court,Lakewood,80228,39.683485,-105.144622,375000,Andrew,Bingham,Sara,Moore,8/13/2016
+3241 S Indiana St,3241 S Indiana St.,Lakewood,80228,39.660753,-105.164574,400000,Mary,Hasenkamp,Linda,Handsel,8/13/2016
+2287 S Coors Ct,2287 S Coors Court,Lakewood,80228,39.676276,-105.154122,425000,Mary,Phillips,Jeremey &,Mikrut,8/13/2016
+[15200 - 15598] W Wesley Ave,15632 W Wesley Ave.,Lakewood,80228,39.671258,-105.172234,445000,Joe &,Natale,Rachel,Berman,8/13/2016
+13588 W Virginia Dr,13588 W Virginia Drive,Lakewood,80228,39.70512,-105.151897,450000,Susan,Legaretta,Andrew,Taggart,8/13/2016
+13289 W Warren Ave,13289 W Warren Ave.,Lakewood,80228,39.67711,-105.1478,452000,Matthew &,Knoedler,John &,Mercado,8/13/2016
+986 S Cole Dr,986 S Cole Drive,Lakewood,80228,39.698112,-105.151818,465000,Carl &,Alden,John &,Tran,8/13/2016
+13021 W Vassar Pl,13021 W Vassar Place,Denver,80228,39.66911,-105.145183,625000,,,Steven &,Onorato,8/13/2016
+[14000 - 14098] W Adriatic Pl,15412 W Adriatic Drive,Lakewood,80228,39.677961,-105.159313,708200,,,Daren &,Mairs,8/13/2016
+15348 W Evans Ave,15348 W Evans Ave.,Lakewood,80228,39.677907,-105.174559,900200,,,Duy,Xuan,8/13/2016
+9420 Russell Way,9420  Russell Way,Thornton,80229,39.867332,-104.965314,199500,Susan,Mermis,Bradley,Hodge,8/13/2016
+7738 E Academy Pkwy,7738 E Academy Place,Denver,80230,39.720971,-104.8941,405300,,,Raifella,Meister,8/13/2016
+"275 Rampart Way, APT 204",275  Rampart Way  Apt 204,Denver,80230,39.721347,-104.899444,420000,Douglas,Snyder,Alex,Hennen,8/13/2016
+7390 E Bayaud Ave,7390 E Bayaud Ave.,Denver,80230,39.714326,-104.901515,625000,Gregory,Shohat,James &,Harris,8/13/2016
+"7474 E Arkansas Ave, APT 2608",7474 E Arkansas Ave.  Apt 2608,Denver,80231,39.691766,-104.902886,180000,Naeem,Sultan,Stacey,Mundis,8/13/2016
+"3141 S Tamarac Dr, APT F303",3141 S Tamarac Drive  Apt F303,Denver,80231,39.658812,-104.901244,135000,Jeffrey,Tollensdorf,Clayton,Skaggs,8/13/2016
+"8060 E Girard Ave, APT 511",8060 E Girard Ave.  Apt 511,Denver,80231,39.654521,-104.895531,154000,Jonathan,Adelman,Catherine,Fisher,8/13/2016
+"10930 W Florida Ave, APT 611",10930 W Florida Ave.  Apt 611,Lakewood,80232,39.691758,-105.120449,182000,Michael &,Erickson,Tessa,Kern,8/13/2016
+"1829 S Lee St, APT C",1829 S Lee St.  Apt C,Lakewood,80232,39.682685,-105.111655,190000,Randall &,Alberts,Shelly,Bier,8/13/2016
+1252 S Dudley St,1252 S Dudley St.,Lakewood,80232,39.693912,-105.095008,190000,Eric &,Rumsey,Brian &,Rumsey,8/13/2016
+1159 S Otis Pl,1159 S Otis Place,Lakewood,80232,39.695472,-105.069933,211000,John,Holcomb,Scott,Brennan,8/13/2016
+1450 S Eaton Ct,1450 S Eaton Court,Lakewood,80232,39.690337,-105.059911,315000,Eric &,Vanfossen,Patricia &,Ranon,8/13/2016
+11179 W Idaho Ave,11179 W Idaho Ave.,Denver,80232,39.692368,-105.124182,320000,Jane,Burrey,Jiayi &,Liu,8/13/2016
+7405 W Mexico Dr,7405 W Mexico Drive,Lakewood,80232,39.687939,-105.0792,335000,Marilynn,Ellis,Sean,Bunten,8/13/2016
+1297 S Otis Ct,1297 S Otis Court,Lakewood,80232,39.692765,-105.071076,335000,Leigh,Rhysling,Jennifer,Hampson,8/13/2016
+9733 W Maryland Dr,9733 W Maryland Drive,Lakewood,80232,39.692595,-105.107631,336000,Robert &,Murphy,Karen,Stenson,8/13/2016
+8297 W Alabama Ave,8297 W Alabama Ave.,Lakewood,80232,39.693387,-105.089244,350000,Ronald &,Sare,Chris &,Andersen,8/13/2016
+1180 S Ingalls St,1180 S Ingalls St.,Lakewood,80232,39.695252,-105.063695,350000,Jarrod &,Perrott,Jeffery,Nath,8/13/2016
+1568 S Brentwood St,1568 S Brentwood St.,Lakewood,80232,39.688411,-105.089954,360000,,,Thomas,Klusaritz,8/13/2016
+3820 E 114th Dr,3820 E 114th Drive,Thornton,80233,39.902209,-104.942652,259600,Janice,Niles,Jenna,Hill,8/13/2016
+11013 Forest Way,11013  Forest Way,Thornton,80233,39.89592,-104.925937,260000,Sharon,Grady,Ella,Brooks,8/13/2016
+2758 E 118th Cir,2758 E 118th Circle,Thornton,80233,39.910101,-104.952296,338000,Szabolcs,Bujdoso,Matthew &,Pohl,8/13/2016
+11771 Kearney Way,11771  Kearney Way,Thornton,80233,39.909345,-104.917854,407500,Norbert,Viaud,Christopher &,Billen,8/13/2016
+"2877 W 119th Ave, UNIT 204",2877 W 119th Ave.  Unit 204,Westminster,80234,39.911601,-105.023198,253900,David &,Morrill,Laura,Brasov,8/13/2016
+2922 S Vrain St,2922 S Vrain St.,Denver,80236,39.661771,-105.047145,315000,Gerald &,Romero,Jeffrey,Gutierrez,8/13/2016
+2240 Valentia St,2240  Valentia St.,Denver,80238,39.749788,-104.891665,300000,Gail,Zander,Krishnan,Seshadri,8/13/2016
+2726 Tamarac St,2726  Tamarac St.,Denver,80238,39.755442,-104.895274,485000,Brent &,Livek,Diane,Genova,8/13/2016
+2561 Alton St,2561  Alton St.,Denver,80238,39.753064,-104.881869,517500,Leslie,Braunstein,Richard &,Poland,8/13/2016
+5064 Valentia St,5064  Valentia St.,Denver,80238,39.792102,-104.891585,545900,,,Robert &,Harteker,8/13/2016
+5064 Valentia St,5064  Valentia St.,Denver,80238,39.792102,-104.891585,641000,,,Sarah &,Kim,8/13/2016
+5468 Xanthia Ct,5468  Xanthia Court,Denver,80238,39.796294,-104.886615,936800,,,Frank,Hatzenbuehler,8/13/2016
+"5255 Memphis St, UNIT 822",5255  Memphis St.  Unit 822,Denver,80239,39.788893,-104.796662,183000,Kappie,Bogart,Douglas &,Zabel,8/13/2016
+4454 Dumas Ct,4454  Dumas Court,Denver,80239,39.777452,-104.821965,193000,James,Sykes,Aiesha,Ashby,8/13/2016
+15650 E 48th Pl,15650 E 48th Place,Denver,80239,39.784308,-104.806548,252500,Diane,Genova,Juan,Flores,8/13/2016
+5397 Laredo Ct,5397  Laredo Court,Denver,80239,39.79269,-104.79962,327000,Michael &,Aliperto,Vilma,Asencio,8/13/2016
+3255 E 123rd Dr,3255 E 123rd Drive,Thornton,80241,39.920672,-104.948474,273500,Meredith,Cohen,Karen &,Kuiken,8/13/2016
+4374 E 135th Way,4374 E 135th Way,Thornton,80241,39.941935,-104.935123,333500,Michael,Eddy,Sharon,Compton,8/13/2016
+"1131 S Yosemite Way, UNIT 20",1131 S Yosemite Way  Unit 20,Denver,80247,39.695768,-104.88437,215000,Patricia,Rouse,Daniel,James,8/13/2016
+1289 S Dallas Ct,1289 S Dallas Court,Denver,80247,39.692946,-104.875608,384900,,,Sarah &,Afanou,8/13/2016
+"7995 E Mississippi Ave, APT C9",7995 E Mississippi Ave.  Apt C9,Denver,80247,39.696668,-104.895264,188000,Dmitry &,Datskevich,Mara,Garbs,8/13/2016
+"675 S Alton Way, APT 10B",675 S Alton Way  Apt 10b,Denver,80247,39.701928,-104.875976,220000,,,Reinhold,Weissbeck,8/13/2016
+[12973 - 13099] E Elgin Dr,20029  Elgin Drive,Denver,80239,39.785455,-104.83685,255400,,,Jenna,Rose,8/13/2016
+18658 E 41st Ave,18658 E 41st Ave.,Denver,80249,39.77245,-104.769529,270000,Mitchell &,Selco,Neil,Otoole,8/13/2016
+[12973 - 13099] E Elgin Dr,20021  Elgin Drive,Denver,80239,39.785455,-104.83685,274700,,,Katie,Lindenmuth,8/13/2016
+[12973 - 13099] E Elgin Dr,20031  Elgin Drive,Denver,80239,39.785455,-104.83685,314600,,,Cody &,Parker,8/13/2016
+5141 Andes St,5141  Andes St.,Denver,80249,39.791397,-104.771303,316000,Steven,Goldberg,Denise &,Milano,8/13/2016
+[4701 - 4799] Truckee St,4457  Truckee St.,Denver,80249,39.782437,-104.781053,379800,,,Wendy,Wellman,8/13/2016
+20949 E 51st Pl,20949 E 51st Place,Denver,80249,39.790031,-104.74374,385000,,,Cathy,Nguyen,8/13/2016
+9764 Orangewood Dr,9764  Orangewood Drive,Thornton,80260,39.874376,-105.003739,192500,Reed,Eckroth,Ben,Naranjo,8/13/2016
+9104 N Mandel St,9104  Mandel St.,Denver,80260,39.861722,-105.014128,193500,Maria,Flores,Delfino,Zamudio,8/13/2016
+9920 Pecos St,9920  Pecos St.,Thornton,80260,39.876222,-105.005587,350000,Abel,Corral,Bruce &,Sinclair,8/13/2016
+"5960 Gunbarrel Ave, APT H",5960  Gunbarrel Ave.  Apt H,Boulder,80301,40.061843,-105.215126,320000,Robynn,Westerwick,Craig,Hammond,8/13/2016
+4951 Noble Park Pl,4951  Noble Park Place,Boulder,80301,40.029496,-105.238509,462000,Eric,Chwang,Carolyn,Hart,8/13/2016
+7444 Old Mill Trl,7444  Old Mill Trail,Boulder,80301,40.058592,-105.180914,570000,,,Douglas,Hayes,8/13/2016
+4757 Devonshire St,4757  Devonshire St.,Boulder,80301,40.061081,-105.173216,585000,Donald,Townsend,Alan &,Hall,8/13/2016
+517 15th St,517  15th St.,Boulder,80302,39.998724,-105.273716,3400000,,,Nigel &,Willerton,8/13/2016
+"3701 Arapahoe Ave, UNIT 404",3701  Arapahoe Ave.  Unit 404,Boulder,80303,40.014685,-105.248021,460000,Johanna,Wilson,Eben &,Jones,8/13/2016
+210 Iroquois Dr,210  Iroquois Drive,Boulder,80303,39.990828,-105.22978,750000,,,Alexandra,Robbins,8/13/2016
+1777 Yellow Pine Ave,1777  Yellow Pine Ave.,Boulder,80304,40.060154,-105.275472,556500,David,Glover,Cynthia,Divino,8/13/2016
+1795 Quince Ave,1795  Quince Ave.,Boulder,80304,40.047939,-105.274235,979300,Kevin &,Hartnett,Glenn &,Bean,8/13/2016
+655 S 46th St,655 S 46th St.,Boulder,80305,39.98369,-105.241669,925000,,,Renee,Gallegos,8/13/2016
+762 Ithaca Dr,762  Ithaca Drive,Boulder,80305,39.982401,-105.261382,976000,,,Jeffrey &,Fifield,8/13/2016
+1250 Bear Mountain Ct,1250  Bear Mountain Court,Boulder,80305,39.976701,-105.263023,1000000,Douglas &,Turley,Alan,Townsend,8/13/2016
+"16259 W 10th Ave, APT J4",16259 W 10th Ave.  Apt J4,Golden,80401,39.732733,-105.182349,124500,Kathleen,Robinson,Larry,Spurgeon,8/13/2016
+"1350 Golden Cir, APT 312",1350  Golden Circle  Apt 312,Golden,80401,39.724222,-105.209479,200000,Bryan,Churchley,James &,Imbler,8/13/2016
+"23646 Pondview Pl, h",23646  Pondview Place  # H,Golden,80401,39.702569,-105.268513,310000,Thomas &,Hinton,Brian &,Dickerson,8/13/2016
+680 Ridgeside Dr,680  Ridgeside Drive,Golden,80401,39.702782,-105.283775,422000,Frank &,Barreras,Darren &,Pitzner,8/13/2016
+454 Somerset Dr,454  Somerset Drive,Golden,80401,39.723793,-105.211943,475000,Dianne,Nelson,Robert &,Conner,8/13/2016
+24026 Currant Dr,24026  Currant Drive,Golden,80401,39.691309,-105.272325,523500,,,Donald &,Mcnair,8/13/2016
+16539 W Ellsworth Dr,16539 W Ellsworth Drive,Golden,80401,39.718697,-105.184738,615000,Mark &,Neely,Shivadas &,Flagg,8/13/2016
+178 Bellvue Rd,178  Bellvue Road,Golden,80401,39.718493,-105.241338,623000,Joann &,Nolte,Forrest,Kleinman,8/13/2016
+24285 Choke Cherry Ln,24285  Choke Cherry Lane,Golden,80401,39.694517,-105.273858,629000,Scott &,Anderson,Carl,Nielsen,8/13/2016
+2070 Foothills Rd,2070  Foothills Road,Golden,80401,39.743158,-105.23159,630000,William &,Tracey,David,Haynes,8/13/2016
+1525 Meadowrose Dr,1525  Meadowrose Drive,Golden,80401,39.690053,-105.263694,1389000,,,Jason,Waldron,8/13/2016
+248 Copperdale Ln,248  Copperdale Lane,Golden,80403,39.919515,-105.374728,371000,Michael,Price,Alexander,Pappas,8/13/2016
+"6293 Kilmer Loop, UNIT 205",6293  Kilmer Loop  Unit 205,Golden,80403,39.808263,-105.172899,235000,Brandon,Bucci,Zachary,Sawaya,8/13/2016
+"6285 Orion Ct, UNIT",6285  Orion Court  Unit,Arvada,80403,39.810618,-105.180831,402000,Candice,Bataille,Pete,Santistevan,8/13/2016
+537 Canyon View Dr,537  Canyon View Drive,Golden,80403,39.756546,-105.23393,410000,Cheryl,Mayer,Lee &,Blazek,8/13/2016
+"[200 - 298] West Dr, 49",15386 W 49th Drive,Golden,80403,39.764675,-105.238292,436200,,,Ingrid,Kuesel,8/13/2016
+11566 Coal Creek Heights Dr,11566  Coal Creek Heights  Dr,Golden,80403,39.90545,-105.381334,482500,Gary &,Zeff,Evan,Deshong,8/13/2016
+14300 W 48th Ave,14300 W 48th Ave.,Golden,80403,39.783544,-105.15968,560000,,,Jessica,Haycraft,8/13/2016
+800 Meadow Run,800  Meadow Run,Golden,80403,39.770566,-105.229386,600000,Sandra,Algermissen,Gary,Elms,8/13/2016
+34010 Skyline Dr,34010  Skyline Drive,Golden,80403,39.883342,-105.38892,682500,James &,Mooney,David &,Mccormick,8/13/2016
+444 Mesa View Way,444  Mesa View Way,Golden,80403,39.767626,-105.239316,790000,Thomas,Mcfarland,Ryan &,Furlong,8/13/2016
+1020 Tucker Gulch Dr,1020  Tucker Gulch Drive,Golden,80403,39.773415,-105.234694,908800,Christopher &,Birtwhistle,Charles &,Mesnier,8/13/2016
+16771 W 48th Ln,16771 W 48th Lane,Golden,80403,39.784026,-105.188347,935000,Toni &,Brenzikofer,Noah &,Klug,8/13/2016
+18716 W 56th Dr,18716 W 56th Drive,Golden,80403,39.798888,-105.211135,1539500,Aaron,Cook,Scott &,Riopelle,8/13/2016
+26037 Pressler St,26037  Pressler St.,Conifer,80433,39.546598,-105.297395,440000,Christine,Crane,Michael,Leach,8/13/2016
+9209 Black Mountain Dr,9209  Black Mountain Drive,Conifer,80433,39.548629,-105.371763,500000,Kelly &,Mcdonald,Jennifer,Simpson,8/13/2016
+8662 Martin Ln,8662  Martin Lane,Conifer,80433,39.559841,-105.372431,598000,Anthony,Crivello,Eric &,Pinsonneault,8/13/2016
+30173 Glen Eyrie Dr,30173  Glen Eyrie Drive,Evergreen,80439,39.63363,-105.345577,270000,Michael,Smith,Nikola,Kesic,8/13/2016
+28429 Fireweed Dr,28429  Fireweed Drive,Evergreen,80439,39.639824,-105.320988,450000,Randall &,Sclar,William &,Davis,8/13/2016
+25059 Sunset Ln,25059  Sunset Lane,Evergreen,80439,39.619096,-105.284576,487500,Janene,Gordon,Dean &,Moissakis,8/13/2016
+6056 Oberstrasse Rd,6056  Oberstrasse Road,Evergreen,80439,39.605844,-105.312339,570000,Dale &,Oda,Jason &,Crownholm,8/13/2016
+3046 Sun Creek Rdg,3046  Sun Creek Ridge,Evergreen,80439,39.660034,-105.345489,575000,Jon &,Carlson,Scott &,Henricks,8/13/2016
+33109 Inverness Dr,33109  Inverness Drive,Evergreen,80439,39.665628,-105.347185,640000,Mark,Dydo,Lindsay &,Fischer,8/13/2016
+6582 Annapurna Dr,6582  Annapurna Drive,Evergreen,80439,39.596713,-105.295416,715000,Hyunju,Ko,Brian &,Leidel,8/13/2016
+31675 Vista Dr,31675  Vista Drive,Evergreen,80439,39.618358,-105.36148,755000,Carol,Stearns,Craig &,Jacobson,8/13/2016
+31326 Tanoa Rd,31326  Tanoa Road,Evergreen,80439,39.65565,-105.355279,929000,Roger &,Hoaglund,David &,Cole,8/13/2016
+"4236 S Eldridge St, APT 202",4236 S Eldridge St.  Apt 202,Morrison,80465,39.636325,-105.156922,236000,Angela,Thompson,Tamara,Tranter,8/13/2016
+"4236 S Eldridge St, APT 201",4236 S Eldridge St.  Apt 201,Morrison,80465,39.636325,-105.156922,242000,Kimberly,Jordan,Ricky,Chan,8/13/2016
+13586 W Stanford Ave,13586 W Stanford Ave.,Morrison,80465,39.634024,-105.148526,280000,Leslie,Reemts,Tanksi,Clairmont,8/13/2016
+4818 S Swadley St,4818 S Swadley St.,Morrison,80465,39.629166,-105.131143,325000,,,Desiree,Hoy,8/13/2016
+11708 W Marlowe Ave,11708 W Marlowe Ave.,Morrison,80465,39.632541,-105.129972,335000,Michael &,Baker,Kendra,Brewster,8/13/2016
+4825 S Taft St,4825 S Taft St.,Morrison,80465,39.629016,-105.132947,340000,Karl,Fahrenbach,Sherry &,King,8/13/2016
+4493 S Yank St,4493 S Yank St.,Morrison,80465,39.635314,-105.144842,340000,Suzen,Rodgers,Randelle,Gutierrez,8/13/2016
+4946 S Urban Ct,4946 S Urban Court,Morrison,80465,39.626326,-105.134987,350000,Gregory,Papin,John,Garrett,8/13/2016
+4382 S Beech Way,4382 S Beech Way,Morrison,80465,39.636923,-105.148769,350000,Benjamin &,Carney,Brian,Shin,8/13/2016
+17532 Highway 8,17532  Highway 8,Morrison,80465,39.643703,-105.193279,585000,Daniel &,Bennett,Randolph &,Rushton,8/13/2016
+8702 S Ault Ln,8702 S Ault Lane,Morrison,80465,39.557318,-105.234682,620000,Kirk &,Fleming,Shane &,Layton,8/13/2016
+15747 Weaver Gulch Dr,15747  Weaver Gulch Drive,Morrison,80465,39.622107,-105.177613,778500,,,Donald &,Stader,8/13/2016
+17151 Snowcreek Ln,17151  Snow Creek Lane,Morrison,80465,39.618163,-105.194007,1197500,Harlan,Schillinger,Jeffrey &,Wedgewood,8/13/2016
+13225 S Cheyenne Ct,13225 S Cheyenne Court,Pine,80470,39.474164,-105.39197,230600,Katriena,Knights,Jennifer,Pielsticker,8/13/2016
+33626 Lutes Rd,33626  Lutes Road,Pine,80470,39.481468,-105.383788,395000,Michael &,Hart,Thomas &,Becker,8/13/2016
+418 Ridge Rd,418  Ridge Road,Ward,80481,40.109795,-105.43834,375000,Cornelia &,Hayes,Parker,Jackson,8/13/2016
+433 Francis St,433  Francis St.,Longmont,80501,40.169823,-105.116571,330000,,,Brian &,Bellfield,8/13/2016
+305 Cottonwood Ct,305  Cottonwood Court,Longmont,80501,40.167166,-105.129073,351000,Tanya &,Gardner,Christopher,Roney,8/13/2016
+734 8th Ave,734  8th Ave.,Longmont,80501,40.172889,-105.105547,363000,David &,Mccormick,Timothy &,Quinn,8/13/2016
+4 Sharpe Ct,4  Sharpe Court,Longmont,80501,40.17696,-105.126597,371500,James,Paulson,Sally,Thompson,8/13/2016
+1521 Henry Ct,1521  Henry Court,Longmont,80501,40.185784,-105.114995,446900,,,Brittany,Smith,8/13/2016
+812 Hayden Ct,812  Hayden Court,Longmont,80503,40.17306,-105.139306,325000,Christopher &,Roberson,Adam &,Sirois,8/13/2016
+"635 Gooseberry Dr, UNIT 1806",635  Gooseberry Drive  Unit 1806,Longmont,80503,40.152106,-105.15668,325000,Michael &,Brodene,Veronique,Mead,8/13/2016
+2618 15th Ave,2618  15th Ave.,Longmont,80503,40.185323,-105.136242,360000,Jeanne &,Spicher,Alan,Bishop,8/13/2016
+5026 William Pl,5026  William Place,Longmont,80503,40.138305,-105.167935,568700,,,Jie,Jiang,8/13/2016
+635 Alpine St,635  Alpine St.,Longmont,80504,40.169842,-105.08309,250000,Kolby,Smith,Mark,Anderson,8/13/2016
+1316 Cumberland Dr,1316  Cumberland Drive,Longmont,80504,40.177101,-105.069602,340000,Rainer,Hahn,Chungyi,Hou,8/13/2016
+2130 Astoria Ln,2130  Astoria Lane,Longmont,80504,40.198229,-105.08117,366700,Terry &,Johnson,Lee &,Thornhill,8/13/2016
+1931 Red Cloud Rd,1931  Red Cloud Road,Longmont,80504,40.193669,-105.090522,400000,Isaiah,Valdez,Heather &,Cawlfield,8/13/2016
+330 Olympia Ave,330  Olympia Ave.,Longmont,80504,40.200289,-105.087931,458000,Mary,Miller,Bruce,Partain,8/13/2016
+406 Wheat Berry Dr,406  Wheat Berry Drive,Erie,80516,40.037565,-105.078663,392500,Matthew &,Allen,Elizabeth &,Rippey,8/13/2016
+690 S Beshear Ct,690 S Beshear Court,Erie,80516,40.033906,-105.064275,394000,Benjamin,Lane,Mark &,Gittleman,8/13/2016
+1498 Brimble Dr,1498  Brimble Drive,Erie,80516,40.030471,-105.06455,400000,Craig,Amidon,Joshua &,King,8/13/2016
+2618 Payne Ct,2618  Payne Court,Erie,80516,40.019901,-105.086076,430000,James &,Yurko,Kellie,Watson,8/13/2016
+1585 Hays Ct,1585  Hays Court,Erie,80516,40.02079,-105.091419,500000,David &,Burnett,Haijing,Zheng,8/13/2016
+[712 - 798] Rocky Ridge Cir,902  Rocky Ridge Circle,La Vergne,37086,36.049564,-86.54957,509600,,,Richard &,Yester,8/13/2016
+911 Reese Ct,911  Reese Court,Erie,80516,40.030243,-105.070728,562500,Michael,Lofurno,J,Knutson,8/13/2016
+451 Birch Ave,451  Birch Ave.,Brighton,80601,39.978373,-104.8273,254000,,,Matthew,Reins,8/13/2016
+359 Elm Ave,359  Elm Ave.,Brighton,80601,39.980625,-104.830317,299000,Tammy,Johnson,Kevin,Gahnstrom,8/13/2016
+562 Tumbleweed Dr,562  Tumbleweed Drive,Brighton,80601,39.997428,-104.765446,365000,Rodney &,Erosky,Justin &,Peltz,8/13/2016
+4766 Mt Shavano St,4766  Mt Shavano St.,Brighton,80601,39.983729,-104.757057,375000,,,Scott,Bryant,8/13/2016
+14040 Florence Ct,14040  Florence Court,Brighton,80602,39.950407,-104.870291,90000,Brunilda,Shelby,Edward &,Carlson,8/13/2016
+12004 Newport Dr,12004  Newport Drive,Brighton,80602,39.915329,-104.909807,267500,William &,Albers,Chase,Weis,8/13/2016
+13376 Olive Way,13376  Olive Way,Brighton,80602,39.93538,-104.90595,451300,,,Aquiles,Alfaro,8/13/2016
+13391 Locust Ct,13391  Locust Court,Thornton,80602,39.93918,-104.912841,460000,Ronnie &,Wimberley,Randolph &,Stralow,8/13/2016
+[2909 - 3099] E 143rd Pl,3513 E 143rd Place,Thornton,80602,39.956076,-104.950624,541200,,,Julie &,Hardin,8/13/2016
+11771 Elkhart St,11771  Elkhart St.,Brighton,80603,39.911285,-104.815659,300100,Prabhsimran &,Dhillon,John,Beckler,8/13/2016
+>>>>>>> 59539a8d122c3398d191e46888c454017a550c93
