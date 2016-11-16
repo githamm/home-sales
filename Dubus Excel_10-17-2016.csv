@@ -1,0 +1,1334 @@
+Price,Seller_first_name,Seller_last_name,Buyer_first_name,Buyer_last_name,Street_number,Direction_one,Street,Street_type,Direction_two,Suite,street_number direction_one street street_type direction_two suite,City,State,location
+209500,M,Floerke,Steven,Bundy,10320,W,55th,Lane,,Unit 104,10320 W 55th Lane  Unit 104,Arvada,Co,10320 W 55th Lane  Unit 104 Arvada Co
+240000,Janis,Yenter,Nicole,Levine,5305,,Quay,Court,,,5305  Quay Court,Arvada,Co,5305  Quay Court Arvada Co
+345700,Michael,Petz,Jordan &,Jones,5621,,Yarrow,St.,,,5621  Yarrow St.,Arvada,Co,5621  Yarrow St. Arvada Co
+455000,,,Katharine &,Smith,9359,,Grandview,Ave.,,,9359  Grandview Ave.,Arvada,Co,9359  Grandview Ave. Arvada Co
+505000,Joseph &,Dulick,Aaron,Hart,5356,,Parfet,St.,,,5356  Parfet St.,Arvada,Co,5356  Parfet St. Arvada Co
+515000,Jeanne,Cordova,Ryan &,Prince,10855,W,54th,Lane,,,10855 W 54th Lane,Arvada,Co,10855 W 54th Lane Arvada Co
+2495000,,,Christopher,Owens,5730,,Ward,Road,,,5730  Ward Road,Arvada,Co,5730  Ward Road Arvada Co
+290000,Shawn,Lacey,Erik,Mikelsons,6242,,Perry,St.,,,6242  Perry St.,Arvada,Co,6242  Perry St. Arvada Co
+192000,Dennis &,Holliday,Raedel,Garman,8776,,Chase,Drive,,Apt 51,8776  Chase Drive  Apt 51,Arvada,Co,8776  Chase Drive  Apt 51 Arvada Co
+227500,Jenna,Savage,Kristina,Ambrusch,8745,,Chase,Drive,,Apt 160,8745  Chase Drive  Apt 160,Arvada,Co,8745  Chase Drive  Apt 160 Arvada Co
+262000,,,Jeanine,Ashley,6806,W,84th,Way,,Apt 1,6806 W 84th Way  Apt 1,Arvada,Co,6806 W 84th Way  Apt 1 Arvada Co
+381000,Craig,Wilkie,Joshua,Berlin,5572,W,73rd,Ave.,,,5572 W 73rd Ave.,Westminster,Co,5572 W 73rd Ave. Westminster Co
+402000,,,Jonathan &,Adams,8655,,Lamar,Drive,,,8655  Lamar Drive,Arvada,Co,8655  Lamar Drive Arvada Co
+405500,Wesley &,Ryan,David &,Wylie,5787,W,81st,Place,,,5787 W 81st Place,Arvada,Co,5787 W 81st Place Arvada Co
+415000,Shirley,Radford,Garrick &,Wager,7485,,Upham,Court,,,7485  Upham Court,Arvada,Co,7485  Upham Court Arvada Co
+505200,,,Michael,Lewis,5485,W,73rd,Place,,,5485 W 73rd Place,Westminster,Co,5485 W 73rd Place Westminster Co
+175000,Jerry,Vanvalkenburgh,Andrew,Rendler,6021,,Yarrow,St.,,Apt C22,6021  Yarrow St.  Apt C22,Arvada,Co,6021  Yarrow St.  Apt C22 Arvada Co
+275000,,,Nancy,Dodds,7120,,Simms,St.,,Unit 203,7120  Simms St.  Unit 203,Arvada,Co,7120  Simms St.  Unit 203 Arvada Co
+335000,Benjamin &,Sullivan,Laurie,Ames,6069,,Oak,St.,,,6069  Oak St.,Arvada,Co,6069  Oak St. Arvada Co
+353000,Cynthia &,Cram,Cory &,Maughan,6097,,Routt,Court,,,6097  Routt Court,Arvada,Co,6097  Routt Court Arvada Co
+390000,,,Clara,Li,6287,,Union,St.,,,6287  Union St.,Arvada,Co,6287  Union St. Arvada Co
+493200,,,Debbie,Harrell,7126,,Holland,Court,,,7126  Holland Court,Arvada,Co,7126  Holland Court Arvada Co
+567000,Rebecca,Kearney,David &,Sime,13476,W,60th,Place,,,13476 W 60th Place,Arvada,Co,13476 W 60th Place Arvada Co
+796000,C &,Mccormick,Charles &,Booten,5989,,Eldridge,Court,,,5989  Eldridge Court,Arvada,Co,5989  Eldridge Court Arvada Co
+179000,David &,Kuehl,Mark &,Sorrentino,7520,,Braun,Court,,,7520  Braun Court,Arvada,Co,7520  Braun Court Arvada Co
+340000,David &,Hansen,Thomas,Bauer,8807,W,86th,Drive,,,8807 W 86th Drive,Arvada,Co,8807 W 86th Drive Arvada Co
+341400,,,Cindy,Mcshane,14343,W,88th,Drive,,Unit B,14343 W 88th Drive  Unit B,Arvada,Co,14343 W 88th Drive  Unit B Arvada Co
+371100,,,Ann &,Keeler,14343,W,88th,Drive,,Unit D,14343 W 88th Drive  Unit D,Arvada,Co,14343 W 88th Drive  Unit D Arvada Co
+432400,,,Dixie,Coffin,14343,W,88th,Drive,,Unit C,14343 W 88th Drive  Unit C,Arvada,Co,14343 W 88th Drive  Unit C Arvada Co
+449000,Hector,Rivera,Timothy,Eldredge,7350,,Alkire,Court,,,7350  Alkire Court,Arvada,Co,7350  Alkire Court Arvada Co
+566800,,,William &,Kemper,11665,W,81st,Ave.,,,11665 W 81st Ave.,Arvada,Co,11665 W 81st Ave. Arvada Co
+686000,Wilfred &,Miles,Norrie &,Bush,8631,,Gladiola,Circle,,,8631  Gladiola Circle,Arvada,Co,8631  Gladiola Circle Arvada Co
+419700,Marilyn,King,Holly &,Nguyen,6516,,Mcintyre,Court,,,6516  Mcintyre Court,Arvada,Co,6516  Mcintyre Court Arvada Co
+460600,,,Donald,Newman,18156,W,85th,Drive,,,18156 W 85th Drive,Arvada,Co,18156 W 85th Drive Arvada Co
+476100,,,Nicholas &,Petsikas,8252,,Moss,Circle,,,8252  Moss Circle,Arvada,Co,8252  Moss Circle Arvada Co
+508200,,,Tina &,Moua,8604,,Yucca,St.,,,8604  Yucca St.,Arvada,Co,8604  Yucca St. Arvada Co
+530000,,,James &,Kate,9526,,Iron Mountain,Way,,,9526  Iron Mountain Way,Arvada,Co,9526  Iron Mountain Way Arvada Co
+563100,,,Brian,Ostenson,18440,W,85th,Drive,,,18440 W 85th Drive,Arvada,Co,18440 W 85th Drive Arvada Co
+597900,,,Christopher &,Wall,20137,W,95th,Ave.,,,20137 W 95th Ave.,Arvada,Co,20137 W 95th Ave. Arvada Co
+599900,,,Carol,Stearns,8655,,Yucca,St.,,,8655  Yucca St.,Arvada,Co,8655  Yucca St. Arvada Co
+664000,,,Adam,Hamari,18129,W,84th,Place,,,18129 W 84th Place,Arvada,Co,18129 W 84th Place Arvada Co
+688000,Evan,Hubbard,Robert &,Mccormack,17822,W,83rd,Place,,,17822 W 83rd Place,Arvada,Co,17822 W 83rd Place Arvada Co
+222000,Tim,Cary,Matthew,Hannon,2273,,Florence,St.,,,2273  Florence St.,Aurora,Co,2273  Florence St. Aurora Co
+225000,Carol,Wren,Robert,Rogers,2380,,Lima,St.,,,2380  Lima St.,Aurora,Co,2380  Lima St. Aurora Co
+248000,Scott,Gardner,Daniel &,Mccullough,2089,,Hanover,St.,,,2089  Hanover St.,Aurora,Co,2089  Hanover St. Aurora Co
+250000,Jon &,Ferraro,Anthony,Garcia,1959,,Moline,St.,,,1959  Moline St.,Aurora,Co,1959  Moline St. Aurora Co
+256000,Theresa &,Nguyen,Tin,Oo,1980,,Ironton,St.,,,1980  Ironton St.,Aurora,Co,1980  Ironton St. Aurora Co
+430000,Austin &,Sittko,Avi &,Schwalb,1775,,Chester,St.,,,1775  Chester St.,Aurora,Co,1775  Chester St. Aurora Co
+231700,,,Heather,Brooke,1257,,Lansing,St.,,,1257  Lansing St.,Aurora,Co,1257  Lansing St. Aurora Co
+235000,David &,Finn,Marco,Gonzalez,1282,,Del Mar,Parkway,,,1282  Del Mar Parkway,Aurora,Co,1282  Del Mar Parkway Aurora Co
+240000,John,Schelstrate,Ricardo,Pena,735,,Macon,St.,,,735  Macon St.,Aurora,Co,735  Macon St. Aurora Co
+263000,Blane &,Harvey,Michael &,Whiteeadbust,500,,Fulton,St.,,,500  Fulton St.,Aurora,Co,500  Fulton St. Aurora Co
+265500,Brenda,Zuniga,Netanya,Hearnelukton,1201,,Lima,St.,,,1201  Lima St.,Aurora,Co,1201  Lima St. Aurora Co
+270000,Willie &,Winfield,Roger &,Koble,11541,E,1st,Ave.,,,11541 E 1st Ave.,Aurora,Co,11541 E 1st Ave. Aurora Co
+716200,,,Benjamin,Janos,2320,,Hanover,St.,,,2320  Hanover St.,Aurora,Co,2320  Hanover St. Aurora Co
+213000,Rafael,Barragan,Jose &,Trujillo,3298,,Salem,St.,,,3298  Salem St.,Aurora,Co,3298  Salem St. Aurora Co
+240000,,,Rosa,Soto,13702,E,32nd,Place,,,13702 E 32nd Place,Aurora,Co,13702 E 32nd Place Aurora Co
+245000,Mario,Martinez,Rebeca,Flores,1650,,Fundy,Way,,,1650  Fundy Way,Aurora,Co,1650  Fundy Way Aurora Co
+245000,Latoka,Roskop,Tula &,Gurung,15938,E,18th,Place,,,15938 E 18th Place,Aurora,Co,15938 E 18th Place Aurora Co
+245500,Miguel,Pena,Danny,Crespo,15966,E,17th,Place,,,15966 E 17th Place,Aurora,Co,15966 E 17th Place Aurora Co
+258000,Michelle,Kerklo,Linsey &,Mounsey,15221,E,Batavia,Place,,,15221 E Batavia Place,Aurora,Co,15221 E Batavia Place Aurora Co
+108500,Edith,Ortega,Santos,Perez,14500,E,2nd,Ave.,,Apt A-308,14500 E 2nd Ave.  Apt A-308,Aurora,Co,14500 E 2nd Ave.  Apt A-308 Aurora Co
+110000,,,Bingqing,Chen,14602,E,2nd,Ave.,,Apt C-102,14602 E 2nd Ave.  Apt C-102,Aurora,Co,14602 E 2nd Ave.  Apt C-102 Aurora Co
+228500,,,Jose,Martinez,885,,Vaughn,St.,,,885  Vaughn St.,Aurora,Co,885  Vaughn St. Aurora Co
+232000,Txheng,Yang,Nai &,Mon,13675,E,13th,Ave.,,,13675 E 13th Ave.,Aurora,Co,13675 E 13th Ave. Aurora Co
+254900,Omar,Delariva,Laura,Sotelo,715,,Elkhart,St.,,,715  Elkhart St.,Aurora,Co,715  Elkhart St. Aurora Co
+255000,Timothy,Eldredge,Scott,Pichler,1121,,Nucla,St.,,,1121  Nucla St.,Aurora,Co,1121  Nucla St. Aurora Co
+255000,Billie &,Stevens,Gei,Ha,1380,,Quari,St.,,,1380  Quari St.,Aurora,Co,1380  Quari St. Aurora Co
+266000,Chris,Cauch,Theodore &,Martinez,1164,,Olathe,St.,,,1164  Olathe St.,Aurora,Co,1164  Olathe St. Aurora Co
+315000,,,Christine,Nuss,623,,Kalispell,St.,,,623  Kalispell St.,Aurora,Co,623  Kalispell St. Aurora Co
+114800,Brian &,Bussey,Imanova,Svetlana,1011,S,Ironton,St.,,Apt 508,1011 S Ironton St.  Apt 508,Aurora,Co,1011 S Ironton St.  Apt 508 Aurora Co
+115000,John,Olivacz,Hillary,Nitschke,14740,E,Kentucky,Drive,,Apt 726,14740 E Kentucky Drive  Apt 726,Aurora,Co,14740 E Kentucky Drive  Apt 726 Aurora Co
+116000,Layla,Hadgimaleki,Vital,Aelion,14780,E,Kentucky,Drive,,Apt 427,14780 E Kentucky Drive  Apt 427,Aurora,Co,14780 E Kentucky Drive  Apt 427 Aurora Co
+121500,Jonathan,Adams,Luke,Clements,13200,E,Jewell,Ave.,,Unit 101,13200 E Jewell Ave.  Unit 101,Aurora,Co,13200 E Jewell Ave.  Unit 101 Aurora Co
+123500,Nathan,Walker,Gillian,Walsh,1662,S,Blackhawk,Way,,Apt A,1662 S Blackhawk Way  Apt A,Aurora,Co,1662 S Blackhawk Way  Apt A Aurora Co
+135000,Roger &,Michaelson,Danielle,Davis,1732,S,Blackhawk,Way,,Apt F,1732 S Blackhawk Way  Apt F,Aurora,Co,1732 S Blackhawk Way  Apt F Aurora Co
+151000,,,Mounir,Farhane,14486,E,Hawaii,Circle,,Unit D,14486 E Hawaii Circle  Unit D,Aurora,Co,14486 E Hawaii Circle  Unit D Aurora Co
+185000,Ababayehu,Negatu,Gordon,Burke,11817,E,Kepner,Drive,,,11817 E Kepner Drive,Aurora,Co,11817 E Kepner Drive Aurora Co
+185000,Stacey,Geordan,Jessica,Hsu,13050,E,Kansas,Place,,,13050 E Kansas Place,Aurora,Co,13050 E Kansas Place Aurora Co
+202000,Andrew &,Sims,Tedros,Araia,1262,S,Troy,St.,,,1262 S Troy St.,Aurora,Co,1262 S Troy St. Aurora Co
+212800,,,Vital,Aelion,12638,E,Kansas,Place,,,12638 E Kansas Place,Aurora,Co,12638 E Kansas Place Aurora Co
+230000,Thomas,Welch,Daniel &,Delarosa,325,S,Salem,St.,,,325 S Salem St.,Aurora,Co,325 S Salem St. Aurora Co
+236500,,,Megan &,Komar,201,S,Newark,Circle,,,201 S Newark Circle,Aurora,Co,201 S Newark Circle Aurora Co
+239000,Nancy,Finley,Kathleen,Madrid,967,S,Evanston,Circle,,,967 S Evanston Circle,Aurora,Co,967 S Evanston Circle Aurora Co
+250000,,,Debra,Klopp,12505,E,Alaska,Place,,,12505 E Alaska Place,Aurora,Co,12505 E Alaska Place Aurora Co
+265000,,,Chandra,Mishra,938,S,Newark,St.,,,938 S Newark St.,Aurora,Co,938 S Newark St. Aurora Co
+287000,Hua,Du,Shilong,Lu,15106,E,Archer,Place,,,15106 E Archer Place,Aurora,Co,15106 E Archer Place Aurora Co
+289500,Mohamed &,Kaka,Basu,Khanal,974,S,Macon,St.,,,974 S Macon St.,Aurora,Co,974 S Macon St. Aurora Co
+295000,Kofi,Diabene,Roel &,Fernandez,163,S,Granby,Court,,,163 S Granby Court,Aurora,Co,163 S Granby Court Aurora Co
+102000,Robi &,Walker,Rita,Maes,17595,E,Mansfield,Ave.,,Apt 1321r,17595 E Mansfield Ave.  Apt 1321r,Aurora,Co,17595 E Mansfield Ave.  Apt 1321r Aurora Co
+102000,Brenda,Hess,Douglas,Rhoades,17505,E,Mansfield,Ave.,,Apt 1431l,17505 E Mansfield Ave.  Apt 1431l,Aurora,Co,17505 E Mansfield Ave.  Apt 1431l Aurora Co
+135000,Howard,Weisbrod,Keely,Randall,4281,S,Salida,Way,,Apt 9,4281 S Salida Way  Apt 9,Aurora,Co,4281 S Salida Way  Apt 9 Aurora Co
+172500,Sara,King,Anais,Ortiz,4217,S,Richfield,Way,,,4217 S Richfield Way,Aurora,Co,4217 S Richfield Way Aurora Co
+178000,Yeworkwoha,Kassa,Angela,Carter,4182,S,Richfield,Way,,,4182 S Richfield Way,Aurora,Co,4182 S Richfield Way Aurora Co
+208000,Mohinder,Grover,Yaroslav,Boychenyuk,18758,E,Linvale,Circle,,,18758 E Linvale Circle,Aurora,Co,18758 E Linvale Circle Aurora Co
+220000,Wayne,Rudolph,Jessi,Ray,2732,S,Truckee,St.,,,2732 S Truckee St.,Aurora,Co,2732 S Truckee St. Aurora Co
+230000,Sergey &,Dekhtyaryuk,Thi,Luong,3755,S,Genoa,Circle,,Unit A,3755 S Genoa Circle  Unit A,Aurora,Co,3755 S Genoa Circle  Unit A Aurora Co
+235000,Matthew,Nord,Patrick,Sandoval,4247,S,Pitkin,St.,,,4247 S Pitkin St.,Aurora,Co,4247 S Pitkin St. Aurora Co
+237500,Scott,Nicholas,James &,Mori,3752,S,Genoa,Circle,,Unit D,3752 S Genoa Circle  Unit D,Aurora,Co,3752 S Genoa Circle  Unit D Aurora Co
+250000,Po &,Sim,Su,Sim,2083,S,Nucla,Way,,,2083 S Nucla Way,Aurora,Co,2083 S Nucla Way Aurora Co
+250000,,,Eric,Ponce,2604,S,Norfolk,St.,,,2604 S Norfolk St.,Aurora,Co,2604 S Norfolk St. Aurora Co
+262000,Giles,Millspaugh,Alex,Macias,4261,S,Quintero,Way,,,4261 S Quintero Way,Aurora,Co,4261 S Quintero Way Aurora Co
+265000,Suzanne,Terada,Bryan &,Wagar,2819,S,Helena,Way,,,2819 S Helena Way,Aurora,Co,2819 S Helena Way Aurora Co
+272000,Donald &,Natale,Renee,Allan,3894,S,Nucla,St.,,,3894 S Nucla St.,Aurora,Co,3894 S Nucla St. Aurora Co
+274000,Michael &,Johnson,David &,Will,19632,E,Eastman,Ave.,,,19632 E Eastman Ave.,Aurora,Co,19632 E Eastman Ave. Aurora Co
+275000,Deeanna &,Zavala,Karla &,Fitch,16521,E,Princeton,Place,,,16521 E Princeton Place,Aurora,Co,16521 E Princeton Place Aurora Co
+285000,Sergey &,Lantsman,Matthew,Morello,3564,S,Jasper,Way,,,3564 S Jasper Way,Aurora,Co,3564 S Jasper Way Aurora Co
+288000,Tracy,Ricke,Bradley,May,18105,E,Atlantic,Drive,,,18105 E Atlantic Drive,Aurora,Co,18105 E Atlantic Drive Aurora Co
+292000,Dorothy,Turner,Demian,Go,3798,S,Quintero,Circle,,,3798 S Quintero Circle,Aurora,Co,3798 S Quintero Circle Aurora Co
+296000,,,Clayton,Schneider,3661,S,Perth,Circle,,# 6,3661 S Perth Circle  # 6,Aurora,Co,3661 S Perth Circle  # 6 Aurora Co
+308000,Maria &,Salinas,Mien,Nguyen,16794,E,Villanova,Circle,,,16794 E Villanova Circle,Aurora,Co,16794 E Villanova Circle Aurora Co
+311000,Noah,Perez,Arthur,Negretti,3718,S,Truckee,Way,,,3718 S Truckee Way,Aurora,Co,3718 S Truckee Way Aurora Co
+325000,Zvezdan &,Boskovic,Hyun &,Yoo,16263,E,Princeton,Circle,,,16263 E Princeton Circle,Aurora,Co,16263 E Princeton Circle Aurora Co
+325000,Debra &,Manuele,Mark &,Comire,16918,E,Eldorado,Circle,,,16918 E Eldorado Circle,Aurora,Co,16918 E Eldorado Circle Aurora Co
+330000,,,Pablo,Ruiz,2135,S,Telluride,Court,,,2135 S Telluride Court,Aurora,Co,2135 S Telluride Court Aurora Co
+335000,Julie &,Michael,Ashley &,Bakker,19630,E,Greenwood,Drive,,,19630 E Greenwood Drive,Aurora,Co,19630 E Greenwood Drive Aurora Co
+339900,Rebecca &,Mikalson,Gregory &,Kitchens,2485,S,Jebel,Way,,,2485 S Jebel Way,Aurora,Co,2485 S Jebel Way Aurora Co
+346000,Seung &,Kim,Purna &,Gurung,18245,E,Warren,Ave.,,,18245 E Warren Ave.,Aurora,Co,18245 E Warren Ave. Aurora Co
+347500,Jesse &,Morrison,Micah,Scott,16463,E,Girard,Ave.,,,16463 E Girard Ave.,Aurora,Co,16463 E Girard Ave. Aurora Co
+348000,Fabio,Arbelaez,Alisher,Muminov,2147,S,Flanders,St.,,,2147 S Flanders St.,Aurora,Co,2147 S Flanders St. Aurora Co
+355000,,,Young,Lee,2612,S,Halifax,Court,,,2612 S Halifax Court,Aurora,Co,2612 S Halifax Court Aurora Co
+355000,Gregory &,Hoppe,Sam,Allen,20721,E,Hamilton,Ave.,,,20721 E Hamilton Ave.,Aurora,Co,20721 E Hamilton Ave. Aurora Co
+356000,,,Tatyana,Mekki,3541,S,Ceylon,Way,,,3541 S Ceylon Way,Aurora,Co,3541 S Ceylon Way Aurora Co
+359000,James &,Dahl,Myong,Jang,3815,S,Kalispell,St.,,,3815 S Kalispell St.,Aurora,Co,3815 S Kalispell St. Aurora Co
+360000,Sue &,Eagle,Zhi,Shen,3201,S,Jebel,Way,,,3201 S Jebel Way,Aurora,Co,3201 S Jebel Way Aurora Co
+384000,Carlos &,Rosado,Azeb,Tedla,20448,E,Dartmouth,Drive,,,20448 E Dartmouth Drive,Aurora,Co,20448 E Dartmouth Drive Aurora Co
+388100,,,Keith &,Bolt,3184,S,Nepal,Way,,,3184 S Nepal Way,Aurora,Co,3184 S Nepal Way Aurora Co
+403800,,,Larry &,Dumont,2001,S,Cathay,Way,,,2001 S Cathay Way,Aurora,Co,2001 S Cathay Way Aurora Co
+414100,,,Brian &,Kuenzler,3188,S,Nepal,Way,,,3188 S Nepal Way,Aurora,Co,3188 S Nepal Way Aurora Co
+434500,,,Robert &,Peterson,3180,S,Nepal,Way,,,3180 S Nepal Way,Aurora,Co,3180 S Nepal Way Aurora Co
+140000,Jennifer,Long,Keith,Harrison,3484,S,Eagle,St.,,Unit 201,3484 S Eagle St.  Unit 201,Aurora,Co,3484 S Eagle St.  Unit 201 Aurora Co
+142000,Monte,Brook,Bernice,Lucero,13626,E,Bates,Ave.,,Apt 208,13626 E Bates Ave.  Apt 208,Aurora,Co,13626 E Bates Ave.  Apt 208 Aurora Co
+150000,Robert,Flores,Jonathan &,Adams,3414,S,Eagle,St.,,Unit 101,3414 S Eagle St.  Unit 101,Aurora,Co,3414 S Eagle St.  Unit 101 Aurora Co
+158000,Joel &,Hirsch,Tina,Bowman,13864,E,Lehigh,Ave.,,Apt H,13864 E Lehigh Ave.  Apt H,Aurora,Co,13864 E Lehigh Ave.  Apt H Aurora Co
+170000,Karen,Adams,Lauren,Mendezsteele,2280,S,Oswego,Way,,Apt 304,2280 S Oswego Way  Apt 304,Aurora,Co,2280 S Oswego Way  Apt 304 Aurora Co
+172000,Lorraine &,Holodinski,Elizabeth,Wallace,14251,E,Dickinson,Drive,,Unit B,14251 E Dickinson Drive  Unit B,Aurora,Co,14251 E Dickinson Drive  Unit B Aurora Co
+173500,Nancy,Munoz,Alaa,Amil,2459,S,Xanadu,Way,,Unit A,2459 S Xanadu Way  Unit A,Aurora,Co,2459 S Xanadu Way  Unit A Aurora Co
+180000,Virginia,Black,William,Houston,2469,S,Xanadu,Way,,Unit A,2469 S Xanadu Way  Unit A,Aurora,Co,2469 S Xanadu Way  Unit A Aurora Co
+185000,Jennifer,Landry,Lenora,Moore,13992,E,Marina,Drive,,Apt 305,13992 E Marina Drive  Apt 305,Aurora,Co,13992 E Marina Drive  Apt 305 Aurora Co
+188000,Buford,Selvy,Steven &,Baxter,13800,E,Marina,Drive,,Apt 103,13800 E Marina Drive  Apt 103,Aurora,Co,13800 E Marina Drive  Apt 103 Aurora Co
+200000,Lori,Nicolais,Everardo,Marin,4085,S,Crystal,Circle,,Unit 104,4085 S Crystal Circle  Unit 104,Aurora,Co,4085 S Crystal Circle  Unit 104 Aurora Co
+200000,Victor,Startsev,Alexandru,Lozovschi,12615,E,Pacific,Circle,,Unit D,12615 E Pacific Circle  Unit D,Aurora,Co,12615 E Pacific Circle  Unit D Aurora Co
+202500,William,Berden,Jesse,Taylor,3796,S,Fairplay,Way,,,3796 S Fairplay Way,Aurora,Co,3796 S Fairplay Way Aurora Co
+207500,Mary &,Barrick,Marjorie,Skigen,13800,E,Marina,Drive,,Apt 104,13800 E Marina Drive  Apt 104,Aurora,Co,13800 E Marina Drive  Apt 104 Aurora Co
+215000,William,Fortney,Allen,Sanchez,13952,E,Marina,Drive,,Apt 410,13952 E Marina Drive  Apt 410,Aurora,Co,13952 E Marina Drive  Apt 410 Aurora Co
+215000,Julia,Mac,Dave,Sanchez,4094,S,Crystal,Circle,,Unit 203,4094 S Crystal Circle  Unit 203,Aurora,Co,4094 S Crystal Circle  Unit 203 Aurora Co
+217000,Ingrid,Heinz,Joshua,Ryines,2625,S,Xanadu,Way,,Unit D,2625 S Xanadu Way  Unit D,Aurora,Co,2625 S Xanadu Way  Unit D Aurora Co
+230000,Matthew &,Weir,Tamika,Roberts,3823,S,Fraser,St.,,,3823 S Fraser St.,Aurora,Co,3823 S Fraser St. Aurora Co
+231500,Kenneth,Ottenberg,Michael,Michelotti,13306,E,Asbury,Drive,,,13306 E Asbury Drive,Aurora,Co,13306 E Asbury Drive Aurora Co
+233000,Sherrlyn,Carpenter,Geraldine,Brinkers,13631,E,Marina,Drive,,Apt 606,13631 E Marina Drive  Apt 606,Aurora,Co,13631 E Marina Drive  Apt 606 Aurora Co
+240000,Yaroslav,Kabyn,April,Krebs,15166,E,Jefferson,Place,,,15166 E Jefferson Place,Aurora,Co,15166 E Jefferson Place Aurora Co
+246800,,"Khachaturova,alla",Chung &,Chu,4232,S,Blackhawk,Circle,,Unit 5c,4232 S Blackhawk Circle  Unit 5c,Aurora,Co,4232 S Blackhawk Circle  Unit 5c Aurora Co
+260000,Bonnie,Marshall,Edford,Phillips,4225,S,Granby,St.,,Apt D,4225 S Granby St.  Apt D,Aurora,Co,4225 S Granby St.  Apt D Aurora Co
+279100,Eunice,Hanes,Jeffrey,Clayman,2235,S,Kenton,St.,,,2235 S Kenton St.,Aurora,Co,2235 S Kenton St. Aurora Co
+285000,Jesse,Billings,Soung,Kang,13650,E,Iliff,Place,,,13650 E Iliff Place,Aurora,Co,13650 E Iliff Place Aurora Co
+303500,,,Kevin,Mcgrath,14706,E,Harvard,Ave.,,,14706 E Harvard Ave.,Aurora,Co,14706 E Harvard Ave. Aurora Co
+310000,Brent,Cummings,Krasimir,Tochkov,13902,E,Princeton,Place,,Ste B,13902 E Princeton Place  Ste B,Aurora,Co,13902 E Princeton Place  Ste B Aurora Co
+327000,Matthew &,Hilbrich,Tharga &,Siriwardana,3888,S,Fraser,St.,,,3888 S Fraser St.,Aurora,Co,3888 S Fraser St. Aurora Co
+330000,Gary &,Mccune,Glenn,Alvarez,2362,S,Kenton,St.,,,2362 S Kenton St.,Aurora,Co,2362 S Kenton St. Aurora Co
+331500,Korinne &,Condie,Kevin &,Taylor,2446,S,Elkhart,Court,,,2446 S Elkhart Court,Aurora,Co,2446 S Elkhart Court Aurora Co
+332000,Pamela &,Liebel,Lantz &,Trantham,12650,E,Bates,Circle,,,12650 E Bates Circle,Aurora,Co,12650 E Bates Circle Aurora Co
+346000,Erik,Anderson,Lyea,Shan,14597,E,Evans,Ave.,,,14597 E Evans Ave.,Aurora,Co,14597 E Evans Ave. Aurora Co
+355000,Bobi,Sharp,Javis &,Devore,12572,E,Bates,Circle,,,12572 E Bates Circle,Aurora,Co,12572 E Bates Circle Aurora Co
+410000,Scott &,Byer,Robert,Mckinnon,2776,S,Moline,Court,,,2776 S Moline Court,Aurora,Co,2776 S Moline Court Aurora Co
+665000,Robert,Spicer,Karen,Arangua,4153,S,Elkhart,St.,,,4153 S Elkhart St.,Aurora,Co,4153 S Elkhart St. Aurora Co
+153000,,,Eric,Leth,14076,E,Stanford,Circle,,Apt G10,14076 E Stanford Circle  Apt G10,Aurora,Co,14076 E Stanford Circle  Apt G10 Aurora Co
+163500,Thomas &,Cronk,Lora,Borissova,14282,E,Tufts,Place,,Apt Q6,14282 E Tufts Place  Apt Q6,Aurora,Co,14282 E Tufts Place  Apt Q6 Aurora Co
+182000,Amjad,Sawaged,Jennifer,Cella,17408,E,Rice,Circle,,Unit C,17408 E Rice Circle  Unit C,Aurora,Co,17408 E Rice Circle  Unit C Aurora Co
+183000,Charlene,Allee,Jaime,Lukas,4923,S,Carson,St.,,Apt 103,4923 S Carson St.  Apt 103,Aurora,Co,4923 S Carson St.  Apt 103 Aurora Co
+183200,Efrain,Ramos,Evan,Pilate,17315,E,Rice,Circle,,Unit G,17315 E Rice Circle  Unit G,Aurora,Co,17315 E Rice Circle  Unit G Aurora Co
+186000,Xiao,Xu,Samantha,Pascaretti,4604,S,Fraser,Court,,Unit A,4604 S Fraser Court  Unit A,Aurora,Co,4604 S Fraser Court  Unit A Aurora Co
+186500,Nicole,Smith,Taylor,King,16953,E,Whitaker,Drive,,Unit A,16953 E Whitaker Drive  Unit A,Aurora,Co,16953 E Whitaker Drive  Unit A Aurora Co
+191000,Dori &,Zazi,Akbar,Temur,5730,S,Tempe,Court,,,5730 S Tempe Court,Aurora,Co,5730 S Tempe Court Aurora Co
+199500,Richard,Dalton,Amy,Steere,4501,S,Crystal,Way,,Unit F300,4501 S Crystal Way  Unit F300,Aurora,Co,4501 S Crystal Way  Unit F300 Aurora Co
+200000,Garry,Atkins,Christopher,Heintzman,15933,E,Stanford,Place,,,15933 E Stanford Place,Aurora,Co,15933 E Stanford Place Aurora Co
+227500,Kathleen,Meade,Angel,Navarro,4595,S,Pagosa,Way,,,4595 S Pagosa Way,Aurora,Co,4595 S Pagosa Way Aurora Co
+232000,,,Patrick,Moran,14319,E,Grand,Drive,,Unit 173,14319 E Grand Drive  Unit 173,Aurora,Co,14319 E Grand Drive  Unit 173 Aurora Co
+240000,Demian,Go,Kelsey,Moon,17447,E,Whitaker,Drive,,,17447 E Whitaker Drive,Aurora,Co,17447 E Whitaker Drive Aurora Co
+265000,Jack &,Sutton,David &,Sutton,14503,E,Wagontrail,Drive,,,14503 E Wagontrail Drive,Aurora,Co,14503 E Wagontrail Drive Aurora Co
+279000,Anita,Vidick,Jesse,Lyman,5797,S,Odessa,St.,,,5797 S Odessa St.,Centennial,Co,5797 S Odessa St. Centennial Co
+280000,Arthur &,Pierce,Fathi,Ahmed,4392,S,Bahama,Way,,,4392 S Bahama Way,Aurora,Co,4392 S Bahama Way Aurora Co
+285000,Charles,Messick,Matthew &,Brunell,4318,S,Granby,Way,,,4318 S Granby Way,Aurora,Co,4318 S Granby Way Aurora Co
+285900,Valentina &,Lagutova,Charlene,Allee,4578,S,Auckland,Court,,,4578 S Auckland Court,Aurora,Co,4578 S Auckland Court Aurora Co
+295000,Patrick &,Donahoo,Clayton,Carter,17020,E,Crestline,Place,,,17020 E Crestline Place,Centennial,Co,17020 E Crestline Place Centennial Co
+300000,Cameron &,Pritchett,Melissa,Johnson,5922,S,Perth,St.,,,5922 S Perth St.,Centennial,Co,5922 S Perth St. Centennial Co
+300000,Pravita,Malla,Kelly &,Buller,20691,E,Belleview,Place,,,20691 E Belleview Place,Centennial,Co,20691 E Belleview Place Centennial Co
+302000,Mathew &,Alto,Amanda,Berry,5556,S,Yakima,Way,,,5556 S Yakima Way,Aurora,Co,5556 S Yakima Way Aurora Co
+305000,Adam,Aussem,Sarah,Connor,5576,S,Ireland,St.,,,5576 S Ireland St.,Centennial,Co,5576 S Ireland St. Centennial Co
+305000,Ryon,Clow,Lawrence &,Maxon,23007,E,Orchard,Place,,,23007 E Orchard Place,Aurora,Co,23007 E Orchard Place Aurora Co
+314000,,,Michael,Jones,17683,E,Temple,Drive,,,17683 E Temple Drive,Aurora,Co,17683 E Temple Drive Aurora Co
+315000,Anthony,Lloyd,Vital,Aelion,4483,S,Fundy,St.,,,4483 S Fundy St.,Centennial,Co,4483 S Fundy St. Centennial Co
+315000,Matthew,Vogel,Robert &,Hartland,5177,S,Malaya,Court,,,5177 S Malaya Court,Centennial,Co,5177 S Malaya Court Centennial Co
+315000,Robert &,Sefranek,Brian &,Arman,4602,S,Lewiston,Way,,,4602 S Lewiston Way,Aurora,Co,4602 S Lewiston Way Aurora Co
+318000,Scott,Mintken,Rachel &,Chavez,21633,E,Aberdeen,Drive,,,21633 E Aberdeen Drive,Centennial,Co,21633 E Aberdeen Drive Centennial Co
+319900,Anatoly,Kaminsky,Steven &,Peirce,4714,S,Lisbon,Court,,,4714 S Lisbon Court,Aurora,Co,4714 S Lisbon Court Aurora Co
+320000,Stanley,Thrush,Jake &,Best,5290,S,Ventura,Way,,,5290 S Ventura Way,Centennial,Co,5290 S Ventura Way Centennial Co
+321000,Melissa &,Vail,Kevin &,Finder,20196,E,Williamette,Lane,,,20196 E Williamette Lane,Centennial,Co,20196 E Williamette Lane Centennial Co
+330000,Zachary &,Wilson,Aldo,Cusi,19852,E,Stanford,Ave.,,,19852 E Stanford Ave.,Centennial,Co,19852 E Stanford Ave. Centennial Co
+335000,Rachel,Kuzmich,Ariel &,Goldman,14483,E,Wagontrail,Place,,,14483 E Wagontrail Place,Aurora,Co,14483 E Wagontrail Place Aurora Co
+335000,Kristopher &,Smith,Julia,Stekloff,21027,E,Dorado,Circle,,,21027 E Dorado Circle,Centennial,Co,21027 E Dorado Circle Centennial Co
+349000,Kyle,Kiger,Cory,Simpson,5913,S,Wenatchee,St.,,,5913 S Wenatchee St.,Aurora,Co,5913 S Wenatchee St. Aurora Co
+355000,Miguel &,Gonzalez,Daniel,Rains,5724,S,Yakima,Way,,,5724 S Yakima Way,Aurora,Co,5724 S Yakima Way Aurora Co
+360000,Sheri,Fling,Shelly,Davis,4851,S,Picadilly,Court,,,4851 S Picadilly Court,Centennial,Co,4851 S Picadilly Court Centennial Co
+367500,Meredith &,Wofford,Keaton &,Stafford,4850,S,Kirk,Way,,,4850 S Kirk Way,Aurora,Co,4850 S Kirk Way Aurora Co
+368000,Becky,Merriman,Michelle,Chow,13966,E,Radcliff,Drive,,,13966 E Radcliff Drive,Aurora,Co,13966 E Radcliff Drive Aurora Co
+379000,Elaina &,Starman,Yichen,Fan,14731,E,Penwood,Place,,,14731 E Penwood Place,Aurora,Co,14731 E Penwood Place Aurora Co
+395000,Michael &,Jones,Dana &,Daniels,18077,E,Berry,Ave.,,,18077 E Berry Ave.,Centennial,Co,18077 E Berry Ave. Centennial Co
+399500,Gregory &,Cannon,Adam &,Desaulniers,19311,E,Berry,Place,,,19311 E Berry Place,Aurora,Co,19311 E Berry Place Aurora Co
+400000,Teddy &,Hadi,Bryce &,Willson,5859,S,Quintero,Circle,,,5859 S Quintero Circle,Centennial,Co,5859 S Quintero Circle Centennial Co
+404800,,,Nicole,Tachibana,5062,S,Valdai,Way,,,5062 S Valdai Way,Aurora,Co,5062 S Valdai Way Aurora Co
+405000,Charles,Harrington,Prativa,Malla,6021,S,Zante,Circle,,,6021 S Zante Circle,Aurora,Co,6021 S Zante Circle Aurora Co
+406000,Ralph,Burnette,Alexi,Scherkenbach,5544,S,Uravan,Court,,,5544 S Uravan Court,Centennial,Co,5544 S Uravan Court Centennial Co
+415900,Sara &,Thomason,Helen &,Brown,16443,E,Hialeah,Drive,,,16443 E Hialeah Drive,Centennial,Co,16443 E Hialeah Drive Centennial Co
+419000,Glenn,Wolfel,Ram,Panta,4340,S,Abilene,Circle,,,4340 S Abilene Circle,Aurora,Co,4340 S Abilene Circle Aurora Co
+426800,,,Zufeng,Su,21165,E,Layton,Ave.,,,21165 E Layton Ave.,Aurora,Co,21165 E Layton Ave. Aurora Co
+439200,,,Donald &,Dyer,19369,E,Quincy,Place,,,19369 E Quincy Place,Aurora,Co,19369 E Quincy Place Aurora Co
+445200,,,Michael &,Edge,22830,E,Chenango,Ave.,,,22830 E Chenango Ave.,Centennial,Co,22830 E Chenango Ave. Centennial Co
+445200,,,Yana,Smith,22472,E,Union,Circle,,,22472 E Union Circle,Aurora,Co,22472 E Union Circle Aurora Co
+451000,,,Scott,Mcgaffin,21989,E,Union,Drive,,,21989 E Union Drive,Aurora,Co,21989 E Union Drive Aurora Co
+457900,,,Kenneth,Mcmillen,4949,S,Valdai,Way,,,4949 S Valdai Way,Aurora,Co,4949 S Valdai Way Aurora Co
+469200,,,Dale &,Scheuerman,21217,E,Layton,Ave.,,,21217 E Layton Ave.,Aurora,Co,21217 E Layton Ave. Aurora Co
+470000,Angela &,Holden,Sudhir,Kumar,22471,E,Chenango,Drive,,,22471 E Chenango Drive,Aurora,Co,22471 E Chenango Drive Aurora Co
+475800,,,John,Consoletti,22839,E,Chenango,Ave.,,,22839 E Chenango Ave.,Centennial,Co,22839 E Chenango Ave. Centennial Co
+486000,Jeannie &,Larson,Ali,Mazooji,5677,S,Ensenada,Court,,,5677 S Ensenada Court,Aurora,Co,5677 S Ensenada Court Aurora Co
+514800,,,James &,Morales,4796,S,Netherland,St.,,,4796 S Netherland St.,Centennial,Co,4796 S Netherland St. Centennial Co
+552900,,,Shelley,Minor,4827,S,Rome,Way,,,4827 S Rome Way,Aurora,Co,4827 S Rome Way Aurora Co
+665000,Susan &,Mullica,Soon &,Kim,15737,E,Prentice,Drive,,,15737 E Prentice Drive,Centennial,Co,15737 E Prentice Drive Centennial Co
+180000,Martha,Mueller,William &,Mueller,22005,E,Jamison,Place,,,22005 E Jamison Place,Aurora,Co,22005 E Jamison Place Aurora Co
+215000,Tiffany &,Goulding,Joyce,Haefele,22960,E,Roxbury,Drive,,Unit G,22960 E Roxbury Drive  Unit G,Aurora,Co,22960 E Roxbury Drive  Unit G Aurora Co
+235500,Philip,Johnson,Teri,Kane,23003,E,Ontario,Drive,,Unit 104,23003 E Ontario Drive  Unit 104,Aurora,Co,23003 E Ontario Drive  Unit 104 Aurora Co
+327000,,,Parker &,Maxwell,7323,S,Norfolk,St.,,,7323 S Norfolk St.,Aurora,Co,7323 S Norfolk St. Aurora Co
+342000,Danielle,Conner,Cody &,Chacon,4869,S,Elk,Court,,,4869 S Elk Court,Aurora,Co,4869 S Elk Court Aurora Co
+355000,Andrea,Reid,Jon,Shoberg,7143,S,Versailles,Way,,,7143 S Versailles Way,Aurora,Co,7143 S Versailles Way Aurora Co
+358200,,,Nicholas,Mcconkie,4828,S,Biloxi,Way,,,4828 S Biloxi Way,Aurora,Co,4828 S Biloxi Way Aurora Co
+384800,,,Jeffrey &,Gertsch,7291,S,Old Hammer,Way,,,7291 S Old Hammer Way,Aurora,Co,7291 S Old Hammer Way Aurora Co
+403000,Indukuri,Raju,Caiguo,Zhang,6051,S,Yampa,Court,,,6051 S Yampa Court,Aurora,Co,6051 S Yampa Court Aurora Co
+410000,,,Marvin &,Dworkin,7868,S,Zante,Court,,,7868 S Zante Court,Aurora,Co,7868 S Zante Court Aurora Co
+415000,Connie &,Stiers,John,Sikorski,7624,S,Addison,Way,,,7624 S Addison Way,Aurora,Co,7624 S Addison Way Aurora Co
+419200,,,Scott,Synovic,26902,E,Easter,Place,,,26902 E Easter Place,Aurora,Co,26902 E Easter Place Aurora Co
+425000,Ann &,Jordre,John &,Madrid,23746,E,Phillips,Place,,,23746 E Phillips Place,Aurora,Co,23746 E Phillips Place Aurora Co
+434900,,,Andrea,Carpenter,4719,S,Biloxi,Way,,,4719 S Biloxi Way,Aurora,Co,4719 S Biloxi Way Aurora Co
+435000,Thomas &,Gillett,Lewis &,Brown,7168,S,Little River,Court,,,7168 S Little River Court,Aurora,Co,7168 S Little River Court Aurora Co
+445000,Seda,Sendil,Kristy &,Howell,25017,E,Lake,Drive,,,25017 E Lake Drive,Aurora,Co,25017 E Lake Drive Aurora Co
+448600,,,Kent &,Kaminski,4838,S,Biloxi,Way,,,4838 S Biloxi Way,Aurora,Co,4838 S Biloxi Way Aurora Co
+459000,Melvin &,Huddleston,Turpin &,Gerard,7923,S,Algonquian,Way,,,7923 S Algonquian Way,Aurora,Co,7923 S Algonquian Way Aurora Co
+480800,,,Anastasia,Cordovamelton,7883,S,Elk,St.,,,7883 S Elk St.,Aurora,Co,7883 S Elk St. Aurora Co
+485000,Ellen,Burn,Emily &,Hoff,6363,S,Walden,Court,,,6363 S Walden Court,Aurora,Co,6363 S Walden Court Aurora Co
+530000,David &,Deyo,Carlos &,Baez,25489,E,Fair,Drive,,,25489 E Fair Drive,Aurora,Co,25489 E Fair Drive Aurora Co
+540000,Jesse &,Hamilton,Bryan,Schmidt,6747,S,Riverwood,Way,,,6747 S Riverwood Way,Aurora,Co,6747 S Riverwood Way Aurora Co
+550000,Tina &,Kelman,Bharat &,Naik,7065,S,Shawnee,St.,,,7065 S Shawnee St.,Aurora,Co,7065 S Shawnee St. Aurora Co
+550000,Matthew &,Reedy,Jose &,Machado,19713,E,Fair,Place,,,19713 E Fair Place,Aurora,Co,19713 E Fair Place Aurora Co
+563500,,,Jean,Jones,6964,S,Buchanan,Court,,,6964 S Buchanan Court,Aurora,Co,6964 S Buchanan Court Aurora Co
+564900,,,Jeffrey &,Pellegrino,26594,E,Arapahoe,Place,,,26594 E Arapahoe Place,Aurora,Co,26594 E Arapahoe Place Aurora Co
+568800,,,Paul &,Toussaint,7885,S,Grand Baker,St.,,,7885 S Grand Baker St.,Aurora,Co,7885 S Grand Baker St. Aurora Co
+592600,,,Grant &,Chleborad,5911,S,Jamestown,Way,,,5911 S Jamestown Way,Aurora,Co,5911 S Jamestown Way Aurora Co
+596100,,,Tim &,Eastin,6955,S,Robertsdale,Way,,,6955 S Robertsdale Way,Aurora,Co,6955 S Robertsdale Way Aurora Co
+665000,Billy &,Davis,Cynthia &,Eger,7925,S,Coolidge,Way,,,7925 S Coolidge Way,Aurora,Co,7925 S Coolidge Way Aurora Co
+728900,,,Brian &,Ley,7069,S,Tempe,Court,,,7069 S Tempe Court,Aurora,Co,7069 S Tempe Court Aurora Co
+1930000,,,Craig &,Cowden,6924,S,Espana,Way,,,6924 S Espana Way,Centennial,Co,6924 S Espana Way Centennial Co
+100000,Bowen,Yang,Esteban,Gonzalez,17050,E,Ford,Drive,,Apt 209,17050 E Ford Drive  Apt 209,Aurora,Co,17050 E Ford Drive  Apt 209 Aurora Co
+115000,,,Yoselin,Gonzalez,16206,E,Alaska,Place,,Apt G,16206 E Alaska Place  Apt G,Aurora,Co,16206 E Alaska Place  Apt G Aurora Co
+125000,Michael,Marshall,Kay,Martin,18155,E,Ohio,Ave.,,Apt 201,18155 E Ohio Ave.  Apt 201,Aurora,Co,18155 E Ohio Ave.  Apt 201 Aurora Co
+140000,,,Kenneth,Schafer,1314,S,Cathay,Court,,Apt 202,1314 S Cathay Court  Apt 202,Aurora,Co,1314 S Cathay Court  Apt 202 Aurora Co
+149500,Greg,Steinkamp,Vital,Aelion,18193,E,Kentucky,Ave.,,# 2,18193 E Kentucky Ave.  # 2,Aurora,Co,18193 E Kentucky Ave.  # 2 Aurora Co
+149900,Jinfei,Wang,David,Boitnott,18233,E,Arizona,Ave.,,Unit F,18233 E Arizona Ave.  Unit F,Aurora,Co,18233 E Arizona Ave.  Unit F Aurora Co
+150000,Nicholas &,Fletcher,Robert,Djelveh,18106,E,Ohio,Ave.,,Apt 104,18106 E Ohio Ave.  Apt 104,Aurora,Co,18106 E Ohio Ave.  Apt 104 Aurora Co
+160000,Luke,Pacheco,Leslie,Hindmangresham,18234,E,Arizona,Ave.,,Unit C,18234 E Arizona Ave.  Unit C,Aurora,Co,18234 E Arizona Ave.  Unit C Aurora Co
+168000,Vamsee,Amara,Jorge,Vasquez,15527,E,Louisiana,Ave.,,,15527 E Louisiana Ave.,Aurora,Co,15527 E Louisiana Ave. Aurora Co
+169800,Michael,Brunn,Christian &,Valiente,1181,S,Zeno,Way,,Unit D,1181 S Zeno Way  Unit D,Aurora,Co,1181 S Zeno Way  Unit D Aurora Co
+182000,David,Terrell,Tracy,Vogel,16808,E,Gunnison,Drive,,Unit 6f,16808 E Gunnison Drive  Unit 6f,Aurora,Co,16808 E Gunnison Drive  Unit 6f Aurora Co
+210000,Lyle,Whitlock,Vital,Aelion,1203,S,Zeno,Way,,Unit F,1203 S Zeno Way  Unit F,Aurora,Co,1203 S Zeno Way  Unit F Aurora Co
+210000,Rodney,Kaseman,Mohammed,Awudu,1382,S,Cathay,Court,,Apt 103,1382 S Cathay Court  Apt 103,Aurora,Co,1382 S Cathay Court  Apt 103 Aurora Co
+214400,Susan &,Person,Kathryn,Wagner,1721,S,Richfield,Way,,,1721 S Richfield Way,Aurora,Co,1721 S Richfield Way Aurora Co
+216000,Joshua,Williams,Terry &,Beckham,15660,E,Mexico,Ave.,,,15660 E Mexico Ave.,Aurora,Co,15660 E Mexico Ave. Aurora Co
+220000,Mariah,Carroll,Carolyn,Pierce,804,S,Joplin,Circle,,,804 S Joplin Circle,Aurora,Co,804 S Joplin Circle Aurora Co
+221000,Rsachelle &,Medina,Imaculate &,Anyanwu,1255,S,Zeno,Circle,,Unit,1255 S Zeno Circle  Unit,Aurora,Co,1255 S Zeno Circle  Unit Aurora Co
+250000,Phyllis,Davis,Christian,Bustos,17808,E,Mexico,Drive,,,17808 E Mexico Drive,Aurora,Co,17808 E Mexico Drive Aurora Co
+260000,Jennifer,Powers,Federico,Centeno,18528,E,Kansas,Place,,,18528 E Kansas Place,Aurora,Co,18528 E Kansas Place Aurora Co
+266000,Mary,Schott,Brian,Clement,17101,E,Louisiana,Drive,,,17101 E Louisiana Drive,Aurora,Co,17101 E Louisiana Drive Aurora Co
+268000,Amanda &,Klein,Jonathan,Porter,1471,S,Cathay,St.,,,1471 S Cathay St.,Aurora,Co,1471 S Cathay St. Aurora Co
+270000,Jackie,Morales,Lillian,Natal,1496,S,Lewiston,Court,,,1496 S Lewiston Court,Aurora,Co,1496 S Lewiston Court Aurora Co
+270000,Tiaisha,Steward,Angel,Aragon,17890,E,Louisiana,Ave.,,,17890 E Louisiana Ave.,Aurora,Co,17890 E Louisiana Ave. Aurora Co
+279000,Michael &,Spano,Brian &,Pearson,17831,E,Wyoming,Place,,,17831 E Wyoming Place,Aurora,Co,17831 E Wyoming Place Aurora Co
+283900,Amanda,Li,Douglas &,Muir,1212,S,Richfield,St.,,,1212 S Richfield St.,Aurora,Co,1212 S Richfield St. Aurora Co
+305000,Elise,Carter,Piotr &,Anikevich,18355,E,Idaho,Place,,,18355 E Idaho Place,Aurora,Co,18355 E Idaho Place Aurora Co
+307500,Sergio,Duran,Angela,Cuencas,1385,S,Laredo,Court,,,1385 S Laredo Court,Aurora,Co,1385 S Laredo Court Aurora Co
+309000,Joshua,Darko,Vermell,Hill,17672,E,Tennessee,Place,,,17672 E Tennessee Place,Aurora,Co,17672 E Tennessee Place Aurora Co
+311000,David &,Luetkenhaus,Esvin &,Rosales,505,S,Laredo,Circle,,,505 S Laredo Circle,Aurora,Co,505 S Laredo Circle Aurora Co
+317000,Lester &,Delashmutt,Terry,Blair,1118,S,Kalispell,Way,,,1118 S Kalispell Way,Aurora,Co,1118 S Kalispell Way Aurora Co
+310000,Nathan &,Smith,David &,Jorgensen,24706,E,Louisiana,Circle,,,24706 E Louisiana Circle,Aurora,Co,24706 E Louisiana Circle Aurora Co
+339000,,,Chi,Ngo,3707,S,Rome,Way,,,3707 S Rome Way,Aurora,Co,3707 S Rome Way Aurora Co
+344200,,,Anthony &,Gray,87,N,Jackson Gap,Way,,,87 N Jackson Gap Way,Aurora,Co,87 N Jackson Gap Way Aurora Co
+355000,Ricardo,Perez,Hiu,Chong,25858,E,Bayaud,Ave.,,,25858 E Bayaud Ave.,Aurora,Co,25858 E Bayaud Ave. Aurora Co
+383000,Ryan,Penna,Leif,Hansson,147,S,Newbern,Court,,,147 S Newbern Court,Aurora,Co,147 S Newbern Court Aurora Co
+392000,Shawn,Garner,Rene &,Carrasco,25483,E,5th,Ave.,,,25483 E 5th Ave.,Aurora,Co,25483 E 5th Ave. Aurora Co
+415900,Cayla &,Rynerson,Syed,Jeelani,383,N,De Gaulle,Court,,,383 N De Gaulle Court,Aurora,Co,383 N De Gaulle Court Aurora Co
+175000,Gene,Anderson,Michael,Gilbert,5704,N,Gibralter,Way,,# 7306,5704 N Gibralter Way  # 7306,Aurora,Co,5704 N Gibralter Way  # 7306 Aurora Co
+200000,Janica,Burris,Alexei &,Taylor,5735,N,Genoa,Way,,# 11304,5735 N Genoa Way  # 11304,Aurora,Co,5735 N Genoa Way  # 11304 Aurora Co
+385800,,,Milo,Swain,6050,N,Fundy,St.,,,6050 N Fundy St.,Aurora,Co,6050 N Fundy St. Aurora Co
+500000,,,Aurora,Llc,23700,E,42nd,Ave.,,,23700 E 42nd Ave.,Aurora,Co,23700 E 42nd Ave. Aurora Co
+210800,,,Susan &,Trudeau,761,,Cottonwood,Drive,,,761  Cottonwood Drive,Broomfield,Co,761  Cottonwood Drive Broomfield Co
+216000,,,Daniel,Reuter,12565,,Sheridan,Blvd.,,Apt 105,12565  Sheridan Blvd.  Apt 105,Broomfield,Co,12565  Sheridan Blvd.  Apt 105 Broomfield Co
+219900,,,Devin,Pierson,13443,,Federal,Place,,,13443  Federal Place,Broomfield,Co,13443  Federal Place Broomfield Co
+239000,Carol,Cupit,Kale &,Inoue,1340,,Us,Highway,,287,1340  Us Highway  287,Broomfield,Co,1340  Us Highway  287 Broomfield Co
+250000,Ron,Satija,Scott,Tuttle,2533,W,135th,Ave.,,,2533 W 135th Ave.,Broomfield,Co,2533 W 135th Ave. Broomfield Co
+259500,Doris,Mcdonald,Elba,Aguirre,3126,W,134th,Court,,,3126 W 134th Court,Broomfield,Co,3126 W 134th Court Broomfield Co
+289900,Kiersten &,Connor,Christopher,Slater,3824,,Shefield,Drive,,,3824  Shefield Drive,Broomfield,Co,3824  Shefield Drive Broomfield Co
+290000,William,Logan,Joseph,Coker,62,,Scott,Drive,S,,62  Scott Drive S,Broomfield,Co,62  Scott Drive S Broomfield Co
+299000,,,Mary &,Wooten,765,,Lotus,Way,,,765  Lotus Way,Broomfield,Co,765  Lotus Way Broomfield Co
+300000,Miguel,Santana,Nicholas,Stout,422,,Hickory,St.,,,422  Hickory St.,Broomfield,Co,422  Hickory St. Broomfield Co
+302000,Darren &,Elliott,Brian &,Vail,3460,W,132nd,Place,,,3460 W 132nd Place,Broomfield,Co,3460 W 132nd Place Broomfield Co
+308000,Guy,Short,Curtis,Carter,13456,,Via Varra Unit 306,,,,13456  Via Varra Unit 306,Broomfield,Co,13456  Via Varra Unit 306 Broomfield Co
+340000,Grayson &,Hofferber,Dylon,Storey,3248,W,11th Ave.,Place,,,3248 W 11th Ave. Place,Broomfield,Co,3248 W 11th Ave. Place Broomfield Co
+350000,Katrina &,Devine,Michelle,Sandoval,12514,,Maria,Circle,,,12514  Maria Circle,Broomfield,Co,12514  Maria Circle Broomfield Co
+376000,Robert,Brunkhardt,Daniel &,Kellogg,450,,Birch,St.,,,450  Birch St.,Broomfield,Co,450  Birch St. Broomfield Co
+378000,Kirk &,Pfeffer,Esteban &,Sandoval,950,W,8th Ave.,Drive,,,950 W 8th Ave. Drive,Broomfield,Co,950 W 8th Ave. Drive Broomfield Co
+390000,Jared,Dose,Jose,Mejia,4820,,Yates,Court,,,4820  Yates Court,Broomfield,Co,4820  Yates Court Broomfield Co
+395000,Calvin &,Hirmke,Devon,Crouse,1122,,Birch,St.,,,1122  Birch St.,Broomfield,Co,1122  Birch St. Broomfield Co
+405000,,,Michael &,Lucier,1325,,Laurel,St.,,,1325  Laurel St.,Broomfield,Co,1325  Laurel St. Broomfield Co
+425000,Scott &,Nathlich,Ferron,Morgan,3364,W,126th,Place,,,3364 W 126th Place,Broomfield,Co,3364 W 126th Place Broomfield Co
+450000,Dennis &,Walker,Victoria,Sawyer,1106,,Sunset,Drive,,,1106  Sunset Drive,Broomfield,Co,1106  Sunset Drive Broomfield Co
+465000,Bradford &,Johnson,James,Duvareille,1344,,Mcintosh,Ave.,,,1344  Mcintosh Ave.,Broomfield,Co,1344  Mcintosh Ave. Broomfield Co
+640000,Mark &,Smiens,Emily,Fleischmann,5377,,Brookside,Drive,,,5377  Brookside Drive,Broomfield,Co,5377  Brookside Drive Broomfield Co
+840000,Bonnie,Mandellrice,Sterling &,Stevens,2540,,Outlook,Trail,,,2540  Outlook Trail,Broomfield,Co,2540  Outlook Trail Broomfield Co
+312600,William,Andrews,James &,Garrett,6421,W,110th,Place,,,6421 W 110th Place,Westminster,Co,6421 W 110th Place Westminster Co
+340000,,,Kathleen,Weller,11371,,Kendall,St.,,,11371  Kendall St.,Westminster,Co,11371  Kendall St. Westminster Co
+343800,,,Carlos &,Lujan,11243,,Colony,Circle,,,11243  Colony Circle,Broomfield,Co,11243  Colony Circle Broomfield Co
+385000,,,Bryan &,Johnson,11249,,Colony,Circle,,,11249  Colony Circle,Broomfield,Co,11249  Colony Circle Broomfield Co
+415000,,,Joseph &,Treat,11257,,Colony,Circle,,,11257  Colony Circle,Broomfield,Co,11257  Colony Circle Broomfield Co
+252000,Stacy,Hieb,Gabriella,Rekasi,8309,W,90th,Place,,,8309 W 90th Place,Westminster,Co,8309 W 90th Place Westminster Co
+300000,,,Calvin,Zimmerman,10531,,Garrison,St.,,,10531  Garrison St.,Westminster,Co,10531  Garrison St. Westminster Co
+356200,Kathy,Onal,Danny,Gibas,9895,,Iris,St.,,,9895  Iris St.,Westminster,Co,9895  Iris St. Westminster Co
+359000,Morgan &,Iwersen,Andrew &,Sloan,9963,W,106th,Ave.,,,9963 W 106th Ave.,Westminster,Co,9963 W 106th Ave. Westminster Co
+380000,Caleb &,Pellouchoud,Jordan,Haas,10313,,Robb,Court,,,10313  Robb Court,Westminster,Co,10313  Robb Court Westminster Co
+200000,,,Jordan,Trujillo,7691,,Kearney,Drive,,,7691  Kearney Drive,Commerce City,Co,7691  Kearney Drive Commerce City Co
+205000,,,Michael,Little,6700,,Niagara,St.,,,6700  Niagara St.,Commerce City,Co,6700  Niagara St. Commerce City Co
+209000,Paul,Ballard,Andrew,Gilman,14700,E,104th,Ave.,,Unit 2705,14700 E 104th Ave.  Unit 2705,Commerce City,Co,14700 E 104th Ave.  Unit 2705 Commerce City Co
+215000,Vonda,Ulander,Edna,Fontes,6521,,Albion,St.,,,6521  Albion St.,Commerce City,Co,6521  Albion St. Commerce City Co
+218000,Steven,Silva,Jaime,Catalan,4111,E,71st,Ave.,,,4111 E 71st Ave.,Commerce City,Co,4111 E 71st Ave. Commerce City Co
+229300,Michael &,Holder,Judy,Abbott,17933,E,104th,Place,,Unit C,17933 E 104th Place  Unit C,Commerce City,Co,17933 E 104th Place  Unit C Commerce City Co
+230000,Brenda,Mccluer,Audrey,Saunders,10798,E,96th,Place,,,10798 E 96th Place,Commerce City,Co,10798 E 96th Place Commerce City Co
+235000,Douglas &,Holcomb,Randy &,Clark,9758,,Laredo,St.,,Unit 16d,9758  Laredo St.  Unit 16d,Commerce City,Co,9758  Laredo St.  Unit 16d Commerce City Co
+237000,Sean,Woytek,Rogelio,Valdez,7215,E,59th,Ave.,,,7215 E 59th Ave.,Commerce City,Co,7215 E 59th Ave. Commerce City Co
+248000,Robert,Meeks,Eduardo,Saucedo,6625,,Locust,St.,,,6625  Locust St.,Commerce City,Co,6625  Locust St. Commerce City Co
+300000,Anthony &,Coen,Thomas,Ivy,9983,,Laredo,Drive,,,9983  Laredo Drive,Commerce City,Co,9983  Laredo Drive Commerce City Co
+314000,Ryan,Stofer,William,Rogge,15812,E,107th,Ave.,,,15812 E 107th Ave.,Commerce City,Co,15812 E 107th Ave. Commerce City Co
+325000,Thomas &,Oliver,Anna,Strassberg,10019,,Richfield,St.,,,10019  Richfield St.,Commerce City,Co,10019  Richfield St. Commerce City Co
+339900,Adams &,Walker,Letisia,Mendoza,10123,,Waco,St.,,,10123  Waco St.,Commerce City,Co,10123  Waco St. Commerce City Co
+350000,Paul &,Pittman,Hector,Rivera,15774,E,107th,Place,,,15774 E 107th Place,Commerce City,Co,15774 E 107th Place Commerce City Co
+355000,Janay,Lake,Jose,Barbosa,10096,,Sedalia,St.,,,10096  Sedalia St.,Commerce City,Co,10096  Sedalia St. Commerce City Co
+365000,Giselle,Monaghan,Jason,Quintana,10218,,Salida,St.,,,10218  Salida St.,Commerce City,Co,10218  Salida St. Commerce City Co
+378900,,,Amee &,Wisner,10808,,Troy,St.,,,10808  Troy St.,Commerce City,Co,10808  Troy St. Commerce City Co
+380000,David,Groff,Elaine,Groff,16959,E,106th,Way,,,16959 E 106th Way,Commerce City,Co,16959 E 106th Way Commerce City Co
+385600,,,Joey,Failma,11051,,Richfield,Circle,,,11051  Richfield Circle,Commerce City,Co,11051  Richfield Circle Commerce City Co
+398000,Paul &,Medina,Gerardo,Ponce,10297,,Nucla,St.,,,10297  Nucla St.,Commerce City,Co,10297  Nucla St. Commerce City Co
+417000,Christopher,Rawlings,Sammy &,Sain,10580,,Quintero,St.,,,10580  Quintero St.,Commerce City,Co,10580  Quintero St. Commerce City Co
+427700,,,Nathan &,Blay,15944,E,117th,Ave.,,,15944 E 117th Ave.,Commerce City,Co,15944 E 117th Ave. Commerce City Co
+435000,Steven &,Connors,Gregory,Mollendor,11892,,Joplin,Court,,,11892  Joplin Court,Commerce City,Co,11892  Joplin Court Commerce City Co
+233500,Robert,Mcconnell,Rhonda,Gardner,3580,,Boulder,Circle,,Unit 103,3580  Boulder Circle  Unit 103,Broomfield,Co,3580  Boulder Circle  Unit 103 Broomfield Co
+248500,Alan &,Gorlick,Sara,Stevens,3540,,Boulder,Circle,,Unit 102,3540  Boulder Circle  Unit 102,Broomfield,Co,3540  Boulder Circle  Unit 102 Broomfield Co
+257400,Philip,Day,Dina,Barlock,4919,,Pasadena,Way,,,4919  Pasadena Way,Broomfield,Co,4919  Pasadena Way Broomfield Co
+345000,Walter &,Mckinstry,Simon,Lile,5009,,Pasadena,Way,,,5009  Pasadena Way,Broomfield,Co,5009  Pasadena Way Broomfield Co
+395400,,,Kenneth,Bansemer,2339,W,165th,Lane,,,2339 W 165th Lane,Broomfield,Co,2339 W 165th Lane Broomfield Co
+404900,,,Kristopher &,Lien,650,W,172nd,Place,,,650 W 172nd Place,Broomfield,Co,650 W 172nd Place Broomfield Co
+405000,Michael &,Toth,John,Baldzicki,4736,,Raven,Run,,,4736  Raven Run,Broomfield,Co,4736  Raven Run Broomfield Co
+413500,,,Derek &,Good,620,W,172nd,Place,,,620 W 172nd Place,Broomfield,Co,620 W 172nd Place Broomfield Co
+426600,,,Heidi &,Fox,673,W,172nd,Place,,,673 W 172nd Place,Broomfield,Co,673 W 172nd Place Broomfield Co
+462500,,,Patrick &,Talbot,4520,,White Rock,Drive,,,4520  White Rock Drive,Broomfield,Co,4520  White Rock Drive Broomfield Co
+475000,,,Antonio &,Escobar,17042,,Lipan,St.,,,17042  Lipan St.,Broomfield,Co,17042  Lipan St. Broomfield Co
+478900,Jaime &,Papa,Jenna,Savage,17010,,Galapago,Court,,,17010  Galapago Court,Westminster,Co,17010  Galapago Court Westminster Co
+495000,,,Randel &,Houghtaling,17032,,Lipan,St.,,,17032  Lipan St.,Broomfield,Co,17032  Lipan St. Broomfield Co
+567600,,,Brian &,Vaughan,4528,,San Luis,Way,,,4528  San Luis Way,Broomfield,Co,4528  San Luis Way Broomfield Co
+600000,Daniel &,Hayward,Randall &,Branham,16634,,Plateau,Lane,,,16634  Plateau Lane,Broomfield,Co,16634  Plateau Lane Broomfield Co
+607500,Charles &,Simmons,John &,Geurin,3144,,Promontory,Loop,,,3144  Promontory Loop,Broomfield,Co,3144  Promontory Loop Broomfield Co
+610000,Richard &,Moore,Christopher &,Devine,4912,,Brookside,Drive,,,4912  Brookside Drive,Broomfield,Co,4912  Brookside Drive Broomfield Co
+769200,,,Charles &,Martin,15797,,Esprit,Run,,,15797  Esprit Run,Broomfield,Co,15797  Esprit Run Broomfield Co
+869000,,,Charles &,Bush,1540,,Tiverton,Ave.,,,1540  Tiverton Ave.,Broomfield,Co,1540  Tiverton Ave. Broomfield Co
+196000,Sandra,Mcconnell,Isabel,Vonrittberg,1117,,Elysian Field,Drive,,# 4b,1117  Elysian Field Drive  # 4b,Lafayette,Co,1117  Elysian Field Drive  # 4b Lafayette Co
+216000,,,Shane &,Oneill,1410,,Crete,Court,,# C6,1410  Crete Court  # C6,Lafayette,Co,1410  Crete Court  # C6 Lafayette Co
+274400,Francis,Ferrie,Holly,Paulman,1035,,Sir Galahad,Drive,,,1035  Sir Galahad Drive,Lafayette,Co,1035  Sir Galahad Drive Lafayette Co
+283500,Daniel,Hughes,Mark,Ford,710,S,Miller,Ave.,,,710 S Miller Ave.,Lafayette,Co,710 S Miller Ave. Lafayette Co
+350000,,,Jeffrey &,Pedersen,1590,,Spring Creek,Drive,,,1590  Spring Creek Drive,Lafayette,Co,1590  Spring Creek Drive Lafayette Co
+407000,John &,Young,Audrey,Moller,2480,,Concord,Circle,,,2480  Concord Circle,Lafayette,Co,2480  Concord Circle Lafayette Co
+427000,Oinatz,Uribe,Sarah,Peper,356,,Casper,Drive,,,356  Casper Drive,Lafayette,Co,356  Casper Drive Lafayette Co
+511000,Ava,Klinger,Damon,Arniotes,738,,Sundown,Drive,,,738  Sundown Drive,Lafayette,Co,738  Sundown Drive Lafayette Co
+687000,Song &,Cho,Pema &,Chosang,2677,,Trailridge,Drive,W,,2677  Trailridge Drive W,Lafayette,Co,2677  Trailridge Drive W Lafayette Co
+780000,,,Rebecca &,Ralston,2757,,Prairie Ridge,Court,,,2757  Prairie Ridge Court,Lafayette,Co,2757  Prairie Ridge Court Lafayette Co
+780000,,,Shari &,Kawashima,2909,,Grand Lake,Drive,,,2909  Grand Lake Drive,Lafayette,Co,2909  Grand Lake Drive Lafayette Co
+230400,Caroline,Erickson,Caroline,Erickson,127,S,Washington,Ave.,,,127 S Washington Ave.,Louisville,Co,127 S Washington Ave. Louisville Co
+282500,,,Bridget,Frame,1847,,Spaulding,Circle,,,1847  Spaulding Circle,Superior,Co,1847  Spaulding Circle Superior Co
+300500,Wallace &,Salter,Nicholas &,Jasa,1964,,Oxford,Lane,,,1964  Oxford Lane,Superior,Co,1964  Oxford Lane Superior Co
+312000,Clayton,Bohlman,Jessica,Potter,2027,,Eagle,Ave.,,,2027  Eagle Ave.,Superior,Co,2027  Eagle Ave. Superior Co
+330000,Roy &,Leggett,Chris &,Grondahl,403,,Pheasant,Run,,,403  Pheasant Run,Louisville,Co,403  Pheasant Run Louisville Co
+345000,,,Sungsu,Park,434,,Owl,Drive,,,434  Owl Drive,Louisville,Co,434  Owl Drive Louisville Co
+414300,Jeanette,Hervi,Jonathan,Glaefke,722,,Club,Circle,,,722  Club Circle,Louisville,Co,722  Club Circle Louisville Co
+465000,Mirza &,Peljto,Andrea,Amrich,2121,,Dogwood,Circle,,,2121  Dogwood Circle,Louisville,Co,2121  Dogwood Circle Louisville Co
+496000,Charles &,Bush,Norman &,Wright,3540,,Castle Peak,Ave.,,,3540  Castle Peak Ave.,Superior,Co,3540  Castle Peak Ave. Superior Co
+529900,John &,Houkal,Jon,Sasser,1444,,Fillmore,Place,,,1444  Fillmore Place,Louisville,Co,1444  Fillmore Place Louisville Co
+560000,Sahar,Hason,Yingju,Wang,1335,S,Boyero,Court,,,1335 S Boyero Court,Superior,Co,1335 S Boyero Court Superior Co
+563000,Kelly,Foster,Scott,Wilkey,725,,Church,Lane,,,725  Church Lane,Louisville,Co,725  Church Lane Louisville Co
+575000,,,Erika &,Morreale,1066,,Griffith,St.,,,1066  Griffith St.,Louisville,Co,1066  Griffith St. Louisville Co
+590000,Jon &,Jordan,Laurent &,Therond,3230,,Basalt,Court,,,3230  Basalt Court,Superior,Co,3230  Basalt Court Superior Co
+600000,Stephen &,Smith,Anup,Gandhi,653,,Eaton,Circle,,,653  Eaton Circle,Superior,Co,653  Eaton Circle Superior Co
+626000,Michael &,Martens,Nicholas &,Solter,849,W,Conifer,Court,,,849 W Conifer Court,Louisville,Co,849 W Conifer Court Louisville Co
+675000,Harold &,To,Adam &,Hollander,168,,Mountain View,Court,,,168  Mountain View Court,Louisville,Co,168  Mountain View Court Louisville Co
+700000,Gina,Theriault,Michael &,Guanella,2655,,Clayton,Circle,,,2655  Clayton Circle,Superior,Co,2655  Clayton Circle Superior Co
+726900,,,Frank &,Accurso,1119,,Summit View,Drive,,,1119  Summit View Drive,Louisville,Co,1119  Summit View Drive Louisville Co
+749900,,,Anthony &,Sciolino,1801,,Sweet Clover,Lane,,,1801  Sweet Clover Lane,Louisville,Co,1801  Sweet Clover Lane Louisville Co
+763900,,,Mark &,Forreider,2966,,Casalon,Circle,,,2966  Casalon Circle,Superior,Co,2966  Casalon Circle Superior Co
+984000,Rebecca &,Beaudin,Gena &,Wilson,623,,Garfield,Ave.,,,623  Garfield Ave.,Louisville,Co,623  Garfield Ave. Louisville Co
+227500,Kelly,Whitmer,Steven &,Wheeler,7311,,Canosa,Court,,,7311  Canosa Court,Westminster,Co,7311  Canosa Court Westminster Co
+250000,Corey,Cruz,Valerie,Archuleta,7125,,Vrain,St.,,,7125  Vrain St.,Westminster,Co,7125  Vrain St. Westminster Co
+265000,Steve,Jessup,Kristian &,Schineller,7550,,Lowell,Blvd.,,,7550  Lowell Blvd.,Westminster,Co,7550  Lowell Blvd. Westminster Co
+270000,Janene,May,Richard,Smalley,7801,,Grove,St.,,,7801  Grove St.,Westminster,Co,7801  Grove St. Westminster Co
+291100,Melinda,Hahn,Firas,Alkazeer,7768,,Yates,St.,,,7768  Yates St.,Westminster,Co,7768  Yates St. Westminster Co
+295000,,,Abel,Corral,7705,,James,Way,,,7705  James Way,Westminster,Co,7705  James Way Westminster Co
+87900,Britta,Campbell,Shannon,Fletcher,8440,,Decatur,St.,,Apt 125,8440  Decatur St.  Apt 125,Westminster,Co,8440  Decatur St.  Apt 125 Westminster Co
+138000,,,Beverly,Gamboa,8666,,Decatur,St.,,Apt 254,8666  Decatur St.  Apt 254,Westminster,Co,8666  Decatur St.  Apt 254 Westminster Co
+166000,Gregory &,Schieffer,Iayala,Daniel,8019,,Wolff,St.,,Unit A,8019  Wolff St.  Unit A,Westminster,Co,8019  Wolff St.  Unit A Westminster Co
+182500,Heather,Halus,Regan,Lindsey,2927,W,81st,Ave.,,Apt F,2927 W 81st Ave.  Apt F,Westminster,Co,2927 W 81st Ave.  Apt F Westminster Co
+262500,Sean,Nothdurft,Melisa,Mares,4154,W,111th,Circle,,,4154 W 111th Circle,Westminster,Co,4154 W 111th Circle Westminster Co
+265000,Derek,Rice,Zachary &,Salazar,4140,W,80th,Place,,,4140 W 80th Place,Westminster,Co,4140 W 80th Place Westminster Co
+271000,Tiffani,Masar,Chester &,Lockwood,9390,,Raleigh,St.,,,9390  Raleigh St.,Westminster,Co,9390  Raleigh St. Westminster Co
+293000,Carolyn,Frenchmore,Brock &,Martin,9091,,Raleigh,St.,,,9091  Raleigh St.,Westminster,Co,9091  Raleigh St. Westminster Co
+360000,Barbara,Shively,Monica,Smith,9653,,Meade,Court,,,9653  Meade Court,Westminster,Co,9653  Meade Court Westminster Co
+363000,Violet,Bohannon,Gary,Lucas,3745,W,104th,Drive,,Unit A,3745 W 104th Drive  Unit A,Westminster,Co,3745 W 104th Drive  Unit A Westminster Co
+400000,Matthew &,Hertzfeldt,Jesse,Givens,9668,,Perry,St.,,,9668  Perry St.,Westminster,Co,9668  Perry St. Westminster Co
+488800,,,Darrick,Payne,11945,,Meade,Court,,,11945  Meade Court,Westminster,Co,11945  Meade Court Westminster Co
+183000,Audrey,Saunders,Jason,Schmidt,5721,W,92nd,Ave.,,Apt 65,5721 W 92nd Ave.  Apt 65,Westminster,Co,5721 W 92nd Ave.  Apt 65 Westminster Co
+127000,Pamela,King,Robert &,Burgett,4941,,Garrison,St.,,Apt 204,4941  Garrison St.  Apt 204,Wheat Ridge,Co,4941  Garrison St.  Apt 204 Wheat Ridge Co
+185500,,,Travis,Brown,4901,,Garrison,St.,,Apt 206,4901  Garrison St.  Apt 206,Wheat Ridge,Co,4901  Garrison St.  Apt 206 Wheat Ridge Co
+206500,Richard &,Wood,David &,Layne,8025,W,45th,Ave.,,,8025 W 45th Ave.,Wheat Ridge,Co,8025 W 45th Ave. Wheat Ridge Co
+337500,Pamela &,Grieve,Christopher,Glore,4570,,Upham,St.,,,4570  Upham St.,Wheat Ridge,Co,4570  Upham St. Wheat Ridge Co
+350000,Sun,Morris,Michael &,Greubel,3891,,Moore,St.,,,3891  Moore St.,Wheat Ridge,Co,3891  Moore St. Wheat Ridge Co
+443000,Justin,Bunker,Martha &,Mortell,4020,,Estes,St.,,,4020  Estes St.,Wheat Ridge,Co,4020  Estes St. Wheat Ridge Co
+466000,Anne,Johnson,Christopher &,Stiever,3520,,Nelson,St.,,,3520  Nelson St.,Wheat Ridge,Co,3520  Nelson St. Wheat Ridge Co
+470000,Stanley,Pritchet,Donald &,Burnett,3150,,Saulsbury,St.,,,3150  Saulsbury St.,Wheat Ridge,Co,3150  Saulsbury St. Wheat Ridge Co
+490500,Grove,Yukon,Sarah,Jones,3225,,Yukon,Court,,,3225  Yukon Court,Wheat Ridge,Co,3225  Yukon Court Wheat Ridge Co
+535000,Ryan,Gilmer,Owen,Levine,3680,,Hoyt,Court,,,3680  Hoyt Court,Wheat Ridge,Co,3680  Hoyt Court Wheat Ridge Co
+578000,Kathryn,Neidenbach,Sara,Emch,3830,,Quail,Court,,,3830  Quail Court,Wheat Ridge,Co,3830  Quail Court Wheat Ridge Co
+242000,Brendan &,Bono,Antonio,Sanchez,150,,Coolidge,Court,,,150  Coolidge Court,Bennett,Co,150  Coolidge Court Bennett Co
+435000,Susann,Wach,Joshua,Elkins,45321,E,Mexico,Ave.,,,45321 E Mexico Ave.,Bennett,Co,45321 E Mexico Ave. Bennett Co
+323000,Joshua &,Squier,Jose,Estrada,2661,,Xmore,Road,,,2661  Xmore Road,Byers,Co,2661  Xmore Road Byers Co
+73100,Lorenzo &,Trujillo,Ronnie &,Williams,64903,E,County,Road,,42,64903 E County Road  42,Byers,Co,64903 E County Road  42 Byers Co
+255000,Laticia,Hollingsworth,Kali &,Fox,550,S,Fetzer,St.,,,550 S Fetzer St.,Byers,Co,550 S Fetzer St. Byers Co
+478000,Sharmon &,Knutson,Michael,Perez,69100,E,County,Road,,38,69100 E County Road  38,Byers,Co,69100 E County Road  38 Byers Co
+255000,Stephanie &,Oberley,Leanna,Dittrich,515,,Gilbert,St.,,,515  Gilbert St.,Castle Rock,Co,515  Gilbert St. Castle Rock Co
+302000,,,Allison,Teves,569,,Howe,St.,,,569  Howe St.,Castle Rock,Co,569  Howe St. Castle Rock Co
+320500,Gerard,Simunovich,Mark &,Scherdin,4224,,Deer Watch,Drive,,,4224  Deer Watch Drive,Castle Rock,Co,4224  Deer Watch Drive Castle Rock Co
+324500,Merri,Hogan,Bryan &,Gaspar,1951,,Shiloh,Drive,,,1951  Shiloh Drive,Castle Rock,Co,1951  Shiloh Drive Castle Rock Co
+429900, &,Christopher,Jason &,Kneuer,3308,,Belgian,Court,,,3308  Belgian Court,Castle Rock,Co,3308  Belgian Court Castle Rock Co
+445000,John,Schaller,Alan &,Freid,4208,,Manorbrier,Circle,,,4208  Manorbrier Circle,Castle Rock,Co,4208  Manorbrier Circle Castle Rock Co
+445000,Matthew &,Bolton,Craig &,Kinnunen,4091,,Deer Valley,Drive,,,4091  Deer Valley Drive,Castle Rock,Co,4091  Deer Valley Drive Castle Rock Co
+455000,James,Timmerwilke,Erin &,Whipple,198,,Portmeirion,Lane,,,198  Portmeirion Lane,Castle Rock,Co,198  Portmeirion Lane Castle Rock Co
+471300,,,Jon &,Hendricks,684,,Tippen,Place,,,684  Tippen Place,Castle Rock,Co,684  Tippen Place Castle Rock Co
+475000,Amey,Bell,Robert &,Spiller,319,,Pine Needle,Way,,,319  Pine Needle Way,Castle Rock,Co,319  Pine Needle Way Castle Rock Co
+476800,,,Sally,Kramer,5829,,Golden Field,Lane,,,5829  Golden Field Lane,Castle Rock,Co,5829  Golden Field Lane Castle Rock Co
+482000,Rick &,Mingee,Mark &,Murphy,1501,,Quail,Lane,,,1501  Quail Lane,Castle Rock,Co,1501  Quail Lane Castle Rock Co
+782900,,,Marc &,Eberhardt,2407,,Eastview,Drive,,,2407  Eastview Drive,Castle Rock,Co,2407  Eastview Drive Castle Rock Co
+130000,Richard,Zerr,Rhian,Madrid,768,,Stony Mesa,Place,,,768  Stony Mesa Place,Castle Rock,Co,768  Stony Mesa Place Castle Rock Co
+370200,,,Richard &,Finley,7705,,Bandit,Drive,,,7705  Bandit Drive,Castle Rock,Co,7705  Bandit Drive Castle Rock Co
+429400,,,Jason &,Witmer,5806,,Backbarn,Drive,,,5806  Backbarn Drive,Castle Rock,Co,5806  Backbarn Drive Castle Rock Co
+432000,Robert,Miner,Brandon,Johnson,3365,,Softwind Pt,,,,3365  Softwind Pt,Castle Rock,Co,3365  Softwind Pt Castle Rock Co
+455200,,,Tabitha &,Adams,3835,,Ghost Dance,Drive,,,3835  Ghost Dance Drive,Castle Rock,Co,3835  Ghost Dance Drive Castle Rock Co
+460000,Steven &,John,Eric &,Sams,6494,,Esmeralda,Drive,,,6494  Esmeralda Drive,Castle Rock,Co,6494  Esmeralda Drive Castle Rock Co
+481200,,,Pamela,Kidd,4079,,Trail Stone,Circle,,,4079  Trail Stone Circle,Castle Rock,Co,4079  Trail Stone Circle Castle Rock Co
+510000,Edward &,Martinez,Brian &,Sloan,6334,,Arabella,Drive,,,6334  Arabella Drive,Castle Rock,Co,6334  Arabella Drive Castle Rock Co
+519000,Garrett &,Horrocks,James &,Zakhem,8361,,Briar Trace,Way,,,8361  Briar Trace Way,Castle Pines,Co,8361  Briar Trace Way Castle Pines Co
+520000,Leanne,Walker,Arthur,Powell,12429,,Turquoise Terrace,Place,,,12429  Turquoise Terrace Place,Castle Pines,Co,12429  Turquoise Terrace Place Castle Pines Co
+608900,,,Jary &,Johnson,295,,Andromeda,Lane,,,295  Andromeda Lane,Castle Rock,Co,295  Andromeda Lane Castle Rock Co
+650000,,,John &,Graham,1009,,Hummingbird,Drive,,Unit A,1009  Hummingbird Drive  Unit A,Castle Rock,Co,1009  Hummingbird Drive  Unit A Castle Rock Co
+670000,Mark &,Wenaas,Collin &,Lutz,5970,,Jade,Court,,,5970  Jade Court,Castle Rock,Co,5970  Jade Court Castle Rock Co
+735000,Jeffrey &,Thomason,David &,Langley,448,,Yarrow,Place,,,448  Yarrow Place,Castle Pines,Co,448  Yarrow Place Castle Pines Co
+950000,R &,Girardot,Eamon &,Twomey,9,,Castle Pines,Drive,N,,9  Castle Pines Drive N,Castle Rock,Co,9  Castle Pines Drive N Castle Rock Co
+1120000,Matthew &,Mcdonnell,Rodman,Likes,12581,,Daniels Gate,Drive,,,12581  Daniels Gate Drive,Castle Pines,Co,12581  Daniels Gate Drive Castle Pines Co
+260000,Roxanne,Velasquez,Colt,Williams,1471,,Nemrick,Place,,,1471  Nemrick Place,Castle Rock,Co,1471  Nemrick Place Castle Rock Co
+310000,James &,Williams,Vladimir,Bogomolov,3882,,Miners Candle,Place,,,3882  Miners Candle Place,Castle Rock,Co,3882  Miners Candle Place Castle Rock Co
+312500,Barry &,Bjork,Bradley &,Schuler,3701,,Morning Glory,Drive,,,3701  Morning Glory Drive,Castle Rock,Co,3701  Morning Glory Drive Castle Rock Co
+325000,Joanne &,Starkey,Christopher &,Dunbar,4468,,Prairie Rose,Circle,,,4468  Prairie Rose Circle,Castle Rock,Co,4468  Prairie Rose Circle Castle Rock Co
+337500,Michael &,Vandreason,Dustin &,Mance,4690,N,Foxtail,Drive,,,4690 N Foxtail Drive,Castle Rock,Co,4690 N Foxtail Drive Castle Rock Co
+345000,Scott &,Carrington,Dean &,Knutson,4109,,Alcazar,Drive,,,4109  Alcazar Drive,Castle Rock,Co,4109  Alcazar Drive Castle Rock Co
+349300,,,Chavin,Muniz,4108,,Elegant,St.,,,4108  Elegant St.,Castle Rock,Co,4108  Elegant St. Castle Rock Co
+355000,Jacob &,Brey,Cody,Hanson,3583,,Brushwood,Drive,,,3583  Brushwood Drive,Castle Rock,Co,3583  Brushwood Drive Castle Rock Co
+359100,Elliot &,Marsh,Veronica,Barnas,3784,,Chaffee,Court,,,3784  Chaffee Court,Castle Rock,Co,3784  Chaffee Court Castle Rock Co
+410000,Timothy &,Slater,Beau &,Pollard,2265,,Broadleaf,Loop,,,2265  Broadleaf Loop,Castle Rock,Co,2265  Broadleaf Loop Castle Rock Co
+464000,James,Knapp,John &,Hill,5202,,Gould,Circle,,,5202  Gould Circle,Castle Rock,Co,5202  Gould Circle Castle Rock Co
+210000,,,Julie,Turner,4630,S,Cherokee,St.,,,4630 S Cherokee St.,Englewood,Co,4630 S Cherokee St. Englewood Co
+265000,Mark,Friends,Scott &,Dorch,304,W,Grand,Ave.,,Apt,304 W Grand Ave.  Apt,Englewood,Co,304 W Grand Ave.  Apt Englewood Co
+305000,Jessica,Raugh,Thomas,Carter,3530,W,Dill,Road,,,3530 W Dill Road,Englewood,Co,3530 W Dill Road Englewood Co
+325000,Mary &,Mcelliot,Travis,Shaw,3998,S,Acoma,St.,,,3998 S Acoma St.,Englewood,Co,3998 S Acoma St. Englewood Co
+325000,Louis &,Tuccitto,Carl,Murphy,1130,W,Stanford,Drive,,,1130 W Stanford Drive,Englewood,Co,1130 W Stanford Drive Englewood Co
+168500,Heather,Quinn,James,Lyons,9170,E,Arbor,Circle,,Apt G,9170 E Arbor Circle  Apt G,Englewood,Co,9170 E Arbor Circle  Apt G Englewood Co
+171000,Erica &,Walters,Jessica,Likes,9170,E,Arbor,Circle,,Apt L,9170 E Arbor Circle  Apt L,Englewood,Co,9170 E Arbor Circle  Apt L Englewood Co
+330000,,,Dustin &,Crittenden,5688,S,Kenton,Way,,,5688 S Kenton Way,Englewood,Co,5688 S Kenton Way Englewood Co
+332500,Martha &,Berglund,Karen,Knoll,5401,S,Park Terrace,Ave.,,Unit 210b,5401 S Park Terrace Ave.  Unit 210b,Greenwood Village,Co,5401 S Park Terrace Ave.  Unit 210b Greenwood Village Co
+375000,James,Bradford,Mikhail,Abramov,5620,S,Kingston,Way,,,5620 S Kingston Way,Englewood,Co,5620 S Kingston Way Englewood Co
+460000,Aaron &,Dicaprio,Christopher &,Powell,7036,E,Euclid,Drive,,,7036 E Euclid Drive,Centennial,Co,7036 E Euclid Drive Centennial Co
+532000,Erin &,Moss,Michael,Banville,5627,S,Kenton,Way,,,5627 S Kenton Way,Englewood,Co,5627 S Kenton Way Englewood Co
+625000,Doris &,Brooks,Stephanie,Willoughby,6294,S,Galena,Way,,,6294 S Galena Way,Englewood,Co,6294 S Galena Way Englewood Co
+760000,,,Lori,Corken,7600,,Landmark,Way,,Unit 1514,7600  Landmark Way  Unit 1514,Greenwood Village,Co,7600  Landmark Way  Unit 1514 Greenwood Village Co
+790000,Barry &,Wolach,Jiandong,Hao,6044,S,Akron,Way,,,6044 S Akron Way,Greenwood Village,Co,6044 S Akron Way Greenwood Village Co
+822500,Patricia &,Lawrence,David &,Garfield,7600,,Landmark,Way,,Unit 9012,7600  Landmark Way  Unit 9012,Greenwood Village,Co,7600  Landmark Way  Unit 9012 Greenwood Village Co
+910000,Fiona,Baldwin,Debra,Pain,5455,,Landmark,Place,,Unit 1209,5455  Landmark Place  Unit 1209,Greenwood Village,Co,5455  Landmark Place  Unit 1209 Greenwood Village Co
+1455100,,,Michael,Hutchinson,62,,Windsor,Way,,,62  Windsor Way,Greenwood Village,Co,62  Windsor Way Greenwood Village Co
+220000,James &,Hooks,Michael,Simons,8623,E,Dry Creek,Road,,Unit 425,8623 E Dry Creek Road  Unit 425,Centennial,Co,8623 E Dry Creek Road  Unit 425 Centennial Co
+242000,David &,Sherrard,Heather,Macerinskas,7889,S,Kalispell,Circle,,,7889 S Kalispell Circle,Englewood,Co,7889 S Kalispell Circle Englewood Co
+304800,Nathan,Nowicki,Nicole,Leclair,9039,E,Panorama,Circle,,Unit C201,9039 E Panorama Circle  Unit C201,Englewood,Co,9039 E Panorama Circle  Unit C201 Englewood Co
+307700,Samuel &,Powell,James,Gallo,7232,E,Appleton,Circle,,,7232 E Appleton Circle,Centennial,Co,7232 E Appleton Circle Centennial Co
+310000,Neil,Norton,Daniel,Oleary,16223,E,Otero,Ave.,,,16223 E Otero Ave.,Englewood,Co,16223 E Otero Ave. Englewood Co
+380000,Joshua &,Stein,Taylor &,Lewis,8339,E,Davies,Place,,,8339 E Davies Place,Centennial,Co,8339 E Davies Place Centennial Co
+395000,,,Amy,Pape,7625,E,Jamison,Drive,,,7625 E Jamison Drive,Centennial,Co,7625 E Jamison Drive Centennial Co
+494000,,,Susan &,Peterson,6918,E,Easter,Place,,,6918 E Easter Place,Centennial,Co,6918 E Easter Place Centennial Co
+585000,Gina,Sinopoli,David,Pierce,8062,E,Kettle,Place,,,8062 E Kettle Place,Centennial,Co,8062 E Kettle Place Centennial Co
+587500,Kenneth &,Swank,Bojan &,Ristic,8100,E,Hinsdale,Drive,,,8100 E Hinsdale Drive,Centennial,Co,8100 E Hinsdale Drive Centennial Co
+688000,Jonathan &,Dierking,Xuehui,Deng,7202,E,Davies,Place,,,7202 E Davies Place,Centennial,Co,7202 E Davies Place Centennial Co
+533100,,,Eli &,Shmueli,9597,,Kentwick,Circle,,,9597  Kentwick Circle,Englewood,Co,9597  Kentwick Circle Englewood Co
+609500,,,Melissa &,Rotter,9599,,Kentwick,Circle,,,9599  Kentwick Circle,Englewood,Co,9599  Kentwick Circle Englewood Co
+287000,Nathan &,Woodard,Elizabeth,Houser,3135,S,Logan,St.,,,3135 S Logan St.,Englewood,Co,3135 S Logan St. Englewood Co
+295000,Howard,Piehl,D,Brothers,3388,S,Washington,St.,,,3388 S Washington St.,Englewood,Co,3388 S Washington St. Englewood Co
+325000,Craig &,Woodruff,Spencer,Peif,4206,S,Lincoln,St.,,,4206 S Lincoln St.,Englewood,Co,4206 S Lincoln St. Englewood Co
+333000,Theadora &,Burch,Gabrielle &,Thinnes,3229,S,Franklin,St.,,,3229 S Franklin St.,Englewood,Co,3229 S Franklin St. Englewood Co
+347000,Cindy,Hayes,Sara,Oconnor,3285,S,Washington,St.,,,3285 S Washington St.,Englewood,Co,3285 S Washington St. Englewood Co
+410000,Andrea &,Andrews,Geoffrey &,Frazier,2898,S,Grant,St.,,,2898 S Grant St.,Englewood,Co,2898 S Grant St. Englewood Co
+450000,,,Daryl &,Shute,4824,S,Grant,St.,,,4824 S Grant St.,Englewood,Co,4824 S Grant St. Englewood Co
+469900,Peter,Gregory,Robert,Wheeler,1420,E,Amherst,Ave.,,,1420 E Amherst Ave.,Englewood,Co,1420 E Amherst Ave. Englewood Co
+1805000,Christina,Beaton,Mark,Rotolo,19,,Huntwick,Lane,,,19  Huntwick Lane,Cherry Hills,Co,19  Huntwick Lane Cherry Hills Co
+570000,Craig &,Kinnunen,Manuel &,Martinez,11694,,Pine Valley,Drive,,,11694  Pine Valley Drive,Franktown,Co,11694  Pine Valley Drive Franktown Co
+600000,James &,Hektor,John &,Hench,9541,,Roe,Circle,,,9541  Roe Circle,Franktown,Co,9541  Roe Circle Franktown Co
+660000,Richard &,Moritz,Jan &,Rehling,10484,,Reindeer,Circle,,,10484  Reindeer Circle,Franktown,Co,10484  Reindeer Circle Franktown Co
+588000,,,Louis &,Tuccitto,4804,,Cheyenne,Drive,,,4804  Cheyenne Drive,Larkspur,Co,4804  Cheyenne Drive Larkspur Co
+200000,Gary,Zaccagnini,Michael &,Lombardi,2913,W,Bryant,Circle,,,2913 W Bryant Circle,Littleton,Co,2913 W Bryant Circle Littleton Co
+227500,Eric,Heacock,Jason,Erbert,319,W,Jamison,Circle,,Apt 19,319 W Jamison Circle  Apt 19,Littleton,Co,319 W Jamison Circle  Apt 19 Littleton Co
+273000,,,Frances,Lagray,2933,W,Bryant,Circle,,,2933 W Bryant Circle,Littleton,Co,2933 W Bryant Circle Littleton Co
+325000,,,Karen,Schultz,2982,W,Long,Drive,,Apt B,2982 W Long Drive  Apt B,Littleton,Co,2982 W Long Drive  Apt B Littleton Co
+347000,Ray,Phillips,Gary,Jeffers,744,W,Longview,Ave.,,,744 W Longview Ave.,Littleton,Co,744 W Longview Ave. Littleton Co
+455000,Susan &,Savage,Kevin &,Gzym,7786,S,Curtice,Circle,,,7786 S Curtice Circle,Littleton,Co,7786 S Curtice Circle Littleton Co
+479500,,,David &,Lowrey,7296,S,Highland,Drive,,,7296 S Highland Drive,Littleton,Co,7296 S Highland Drive Littleton Co
+500000,Steven &,Short,George &,Tennison,1725,W,Lake,Ave.,,,1725 W Lake Ave.,Littleton,Co,1725 W Lake Ave. Littleton Co
+240000,Valerie &,Trujillo,Corazon,Pajarillo,5389,S,Sherman,St.,,,5389 S Sherman St.,Littleton,Co,5389 S Sherman St. Littleton Co
+380000,Michelle &,Mcnamee,Chelsea,Soto,2900,E,Weaver,Place,,,2900 E Weaver Place,Littleton,Co,2900 E Weaver Place Littleton Co
+380000,Katie,Vanhove,Zachary &,Johnson,5093,E,Weaver,Place,,,5093 E Weaver Place,Littleton,Co,5093 E Weaver Place Littleton Co
+390000,Arlene,Scully,Joanne &,Bents,6659,S,Pennsylvania,St.,,,6659 S Pennsylvania St.,Littleton,Co,6659 S Pennsylvania St. Littleton Co
+392000,Paola,Altamirano,Michael,Matz,6598,S,Dexter,St.,,,6598 S Dexter St.,Littleton,Co,6598 S Dexter St. Littleton Co
+415000,Santino &,Bruno,Travis &,Arp,2885,E,Euclid,Place,,,2885 E Euclid Place,Littleton,Co,2885 E Euclid Place Littleton Co
+423000,,,Clark,Goodman,6578,S,Dexter,St.,,,6578 S Dexter St.,Littleton,Co,6578 S Dexter St. Littleton Co
+465000,Kerry &,Veith,Lisa &,Buchner,4097,E,Maplewood,Place,,,4097 E Maplewood Place,Littleton,Co,4097 E Maplewood Place Littleton Co
+1648500,,,Thomas &,Weaver,25,,Brookside,Drive,,,25  Brookside Drive,Greenwood Village,Co,25  Brookside Drive Greenwood Village Co
+1760000,Joseph &,Odea,Xernie,Meritt,5440,S,University,Blvd.,,,5440 S University Blvd.,Greenwood Village,Co,5440 S University Blvd. Greenwood Village Co
+1955200,Lisa &,Marranzino,Michael,Asarch,4071,E,Chestnut,Court,,,4071 E Chestnut Court,Greenwood Village,Co,4071 E Chestnut Court Greenwood Village Co
+2040000,Grozdana,Weis,Michael &,Whalen,1801,,Crestridge,Drive,,,1801  Crestridge Drive,Greenwood Village,Co,1801  Crestridge Drive Greenwood Village Co
+125000,Doug &,Motlong,Joseph,Parker,280,E,Highline,Circle,,Apt 307,280 E Highline Circle  Apt 307,Centennial,Co,280 E Highline Circle  Apt 307 Centennial Co
+132000,,,Brenda &,Roy,2330,E,Fremont,Ave.,,# J19,2330 E Fremont Ave.  # J19,Centennial,Co,2330 E Fremont Ave.  # J19 Centennial Co
+377500,Jeffrey &,Caulfield,Caryn,Grimm,7760,S,Wellington,St.,,,7760 S Wellington St.,Centennial,Co,7760 S Wellington St. Centennial Co
+432000,Sharon &,Post,Nathan,Davis,7473,S,Wellington,St.,,,7473 S Wellington St.,Centennial,Co,7473 S Wellington St. Centennial Co
+437500,Sharon,Jaeger,Troy,Walker,6716,S,Detroit,Court,,,6716 S Detroit Court,Centennial,Co,6716 S Detroit Court Centennial Co
+465000,,,Ronald &,Lewis,1126,E,Kettle,Ave.,,,1126 E Kettle Ave.,Centennial,Co,1126 E Kettle Ave. Centennial Co
+503600,,,Dave &,Tucker,7436,S,Logan,St.,,,7436 S Logan St.,Littleton,Co,7436 S Logan St. Littleton Co
+641500,Tyler &,Swan,Matthew &,Oliver,5498,E,Hinsdale,Place,,,5498 E Hinsdale Place,Centennial,Co,5498 E Hinsdale Place Centennial Co
+645000,Mark &,Fania,Tyler &,Swan,3618,E,Easter,Circle,S,,3618 E Easter Circle S,Centennial,Co,3618 E Easter Circle S Centennial Co
+250000,Luther &,Carroll,Andrea,Espinosa,2980,W,Centennial,Drive,,Unit B,2980 W Centennial Drive  Unit B,Littleton,Co,2980 W Centennial Drive  Unit B Littleton Co
+255000,Christopher &,Hoover,Thomas,Barela,4373,W,Ponds,Circle,,,4373 W Ponds Circle,Littleton,Co,4373 W Ponds Circle Littleton Co
+270000,,,Katherine,Mcneill,2895,W,Riverwalk,Circle,,Apt 215,2895 W Riverwalk Circle  Apt 215,Littleton,Co,2895 W Riverwalk Circle  Apt 215 Littleton Co
+280000,Vickie,Jackson,Larry,Starling,5490,S,Keenland,Court,,,5490 S Keenland Court,Littleton,Co,5490 S Keenland Court Littleton Co
+285000,Tiffany,Mcfarland,Jerry,Ebele,3493,W,Powers,Ave.,,,3493 W Powers Ave.,Littleton,Co,3493 W Powers Ave. Littleton Co
+320000,Janet,Jarrett,David &,Uebbing,3750,W,Latonka,Road,,,3750 W Latonka Road,Littleton,Co,3750 W Latonka Road Littleton Co
+325000,William,Parrish,Addison,Lawrence,3462,W,Berry,Drive,,,3462 W Berry Drive,Littleton,Co,3462 W Berry Drive Littleton Co
+329000,Ronald,Sparks,Jonathan &,Preston,3552,W,Patterson,Place,,,3552 W Patterson Place,Littleton,Co,3552 W Patterson Place Littleton Co
+335000,Jennifer &,Anderson,Robert &,Meyers,5218,,Manitou,Road,,,5218  Manitou Road,Littleton,Co,5218  Manitou Road Littleton Co
+342000,Timothy,Devall,Christopher,Dye,5463,S,King,St.,,,5463 S King St.,Littleton,Co,5463 S King St. Littleton Co
+439000,,,Kyle &,Hudson,6,,Par,Circle,,,6  Par Circle,Littleton,Co,6  Par Circle Littleton Co
+475000,,,Suzanne,Presnell,2770,W,Riverwalk,Circle,,Unit A,2770 W Riverwalk Circle  Unit A,Littleton,Co,2770 W Riverwalk Circle  Unit A Littleton Co
+810000,Harold,Peterson,Mary &,Hagen,4900,W,Wagontrail,Road,,,4900 W Wagontrail Road,Littleton,Co,4900 W Wagontrail Road Littleton Co
+882500,Andrea &,Linneman,Dennis &,Buelow,4492,W,Aberdeen,Place,,,4492 W Aberdeen Place,Littleton,Co,4492 W Aberdeen Place Littleton Co
+155300,Edwin &,Cox,Connor,Fielding,4896,S,Dudley,St.,,Unit 101,4896 S Dudley St.  Unit 101,Littleton,Co,4896 S Dudley St.  Unit 101 Littleton Co
+163500,Susan,Holladay,Cameron,Wolter,4899,S,Dudley,St.,,Unit A-19,4899 S Dudley St.  Unit A-19,Littleton,Co,4899 S Dudley St.  Unit A-19 Littleton Co
+173500,Annalise,Hobbs,Leah,Grossman,4899,S,Dudley,St.,,Apt D-1,4899 S Dudley St.  Apt D-1,Denver,Co,4899 S Dudley St.  Apt D-1 Denver Co
+177700,Emily,Smit,Shannon,Chambers,8481,W,Union,Ave.,,Apt 11204,8481 W Union Ave.  Apt 11204,Littleton,Co,8481 W Union Ave.  Apt 11204 Littleton Co
+187500,Steven &,Berger,Andrew,Williams,9850,W,Stanford,Ave.,,Apt D,9850 W Stanford Ave.  Apt D,Denver,Co,9850 W Stanford Ave.  Apt D Denver Co
+191000,Walter &,Quinn,Andrew,Lowrey,9850,W,Stanford,Ave.,,Apt B,9850 W Stanford Ave.  Apt B,Denver,Co,9850 W Stanford Ave.  Apt B Denver Co
+210000,Walter &,Quinn,William,Bucheleres,9840,W,Stanford,Ave.,,Apt G,9840 W Stanford Ave.  Apt G,Denver,Co,9840 W Stanford Ave.  Apt G Denver Co
+219900,,,Shraddha,Shakya,4875,S,Balsam,Way,,Unit 7-203,4875 S Balsam Way  Unit 7-203,Denver,Co,4875 S Balsam Way  Unit 7-203 Denver Co
+225000,William &,Wood,Kristen,Callen,4747,S,Balsam,Way,,# 22,4747 S Balsam Way  # 22,Denver,Co,4747 S Balsam Way  # 22 Denver Co
+230200,Kevin,Heylin,Wendy,Gillen,8481,W,Union,Ave.,,Apt 9202,8481 W Union Ave.  Apt 9202,Denver,Co,8481 W Union Ave.  Apt 9202 Denver Co
+238000,Wendy,Gillen,Jim &,Stadler,5405,S,Dover,St.,,Unit 104,5405 S Dover St.  Unit 104,Denver,Co,5405 S Dover St.  Unit 104 Denver Co
+281000,Donna,Herbert,Daphne,Frey,4503,S,Gar,Way,,,4503 S Gar Way,Denver,Co,4503 S Gar Way Denver Co
+326000,Russell,Peck,Daniel,Olsavsky,9600,W,Wagon Trail,Drive,,,9600 W Wagon Trail Drive,Denver,Co,9600 W Wagon Trail Drive Denver Co
+475000,Anthony,Cominiello,Dan &,Waind,5638,S,Gray,St.,,,5638 S Gray St.,Denver,Co,5638 S Gray St. Denver Co
+510300,Xuan,Tan,Jason,Kline,6225,W,Sumac,Ave.,,,6225 W Sumac Ave.,Denver,Co,6225 W Sumac Ave. Denver Co
+520000,Thomas &,Hays,Christina,Shearn,7400,W,Grant Ranch,Blvd.,,Apt 10,7400 W Grant Ranch Blvd.  Apt 10,Denver,Co,7400 W Grant Ranch Blvd.  Apt 10 Denver Co
+305000,Dorothy,Lorenz,Russell,Donato,6584,S,Webster,St.,,,6584 S Webster St.,Littleton,Co,6584 S Webster St. Littleton Co
+335000,Christina,Sheam,Jonathan,Bernard,5333,S,Jellison,St.,,,5333 S Jellison St.,Littleton,Co,5333 S Jellison St. Littleton Co
+344900,David &,Shriner,Erica,Brown,8644,W,Radcliffe,Place,,,8644 W Radcliffe Place,Littleton,Co,8644 W Radcliffe Place Littleton Co
+380500,Jason &,Kline,Jordan &,Bauer,4417,S,Independence,St.,,,4417 S Independence St.,Littleton,Co,4417 S Independence St. Littleton Co
+395000,Thomas &,Arro,Kristin,Clift,10309,,Belvedere,Lane,,,10309  Belvedere Lane,Lone Tree,Co,10309  Belvedere Lane Lone Tree Co
+784800,Seifullah &,Azghandi,Michael,Wilton,6098,,Puma,Ridge,,,6098  Puma Ridge,Littleton,Co,6098  Puma Ridge Littleton Co
+1569000,,,Anna,Zimmermann,9383,,Vista Hill,Lane,,,9383  Vista Hill Lane,Lone Tree,Co,9383  Vista Hill Lane Lone Tree Co
+118000,Kirk,Cwelich,Nir,Wittenberg,10320,,Hunt Master,Place,,,10320  Hunt Master Place,Littleton,Co,10320  Hunt Master Place Littleton Co
+275000,,,Summit,Chalet,7844,,Galileo,Way,,,7844  Galileo Way,Littleton,Co,7844  Galileo Way Littleton Co
+685000,Ralph &,Wanner,Lucas,Visscher,11084,,Hermitage,Run,,,11084  Hermitage Run,Littleton,Co,11084  Hermitage Run Littleton Co
+178200,Natalie &,Medlock,Susana,Neilson,829,,Summer,Drive,,# 2d,829  Summer Drive  # 2d,Highlands Ranch,Co,829  Summer Drive  # 2d Highlands Ranch Co
+217000,Christopher,Faust,Keanan,Cypher,801,,Summer,Drive,,,801  Summer Drive,Highlands Ranch,Co,801  Summer Drive Highlands Ranch Co
+305000,Delana,Lee,James,Wall,8323,,Stonybridge,Circle,,,8323  Stonybridge Circle,Highlands Ranch,Co,8323  Stonybridge Circle Highlands Ranch Co
+350200,,,Andrew,Cer,3468,,Cascina,Place,,Unit D,3468  Cascina Place  Unit D,Highlands Ranch,Co,3468  Cascina Place  Unit D Highlands Ranch Co
+354000,,,George &,Bowyer,3411,,Cascina,Circle,,Unit D,3411  Cascina Circle  Unit D,Highlands Ranch,Co,3411  Cascina Circle  Unit D Highlands Ranch Co
+357000,Linda,Canedo,Karen,Luly,243,,Southpark,Road,,,243  Southpark Road,Highlands Ranch,Co,243  Southpark Road Highlands Ranch Co
+376000,,,Steven,Carroll,8653,,Redstone,St.,,,8653  Redstone St.,Highlands Ranch,Co,8653  Redstone St. Highlands Ranch Co
+385000,Clayton,Ruud,Ray &,Houck,3453,,Rosato,Drive,,Unit A,3453  Rosato Drive  Unit A,Highlands Ranch,Co,3453  Rosato Drive  Unit A Highlands Ranch Co
+395000,Deanna,White,Michael &,Kenevan,3403,,Cranston,Circle,,,3403  Cranston Circle,Highlands Ranch,Co,3403  Cranston Circle Highlands Ranch Co
+400000,Philip &,Deleo,Matthew &,Yonan,9436,,Loggia,St.,,Unit A,9436  Loggia St.  Unit A,Highlands Ranch,Co,9436  Loggia St.  Unit A Highlands Ranch Co
+420000,,,Susan,Condon,10639,,Ashfield,St.,,,10639  Ashfield St.,Highlands Ranch,Co,10639  Ashfield St. Highlands Ranch Co
+426200,Alistair &,Gilchrist,Stella &,Wirsig,1534,,Briar,Circle,,,1534  Briar Circle,Highlands Ranch,Co,1534  Briar Circle Highlands Ranch Co
+460000,Deborah &,Swartz,Boris &,Sobolev,3376,,Cranston,Circle,,,3376  Cranston Circle,Highlands Ranch,Co,3376  Cranston Circle Highlands Ranch Co
+465000,John &,Kronhart,John &,Fairleigh,2246,,Mountain Sage,Drive,,,2246  Mountain Sage Drive,Highlands Ranch,Co,2246  Mountain Sage Drive Highlands Ranch Co
+498000,Tara &,Hummel,John &,Torp,9577,,Cherryvale,Lane,,,9577  Cherryvale Lane,Highlands Ranch,Co,9577  Cherryvale Lane Highlands Ranch Co
+510000,Bruce &,Swedal,Rian &,Quinn,3584,,Craftsbury,Drive,,,3584  Craftsbury Drive,Highlands Ranch,Co,3584  Craftsbury Drive Highlands Ranch Co
+560000,,,Richard &,Nash,1707,,Sunset Ridge,Road,,,1707  Sunset Ridge Road,Highlands Ranch,Co,1707  Sunset Ridge Road Highlands Ranch Co
+673900,,,Stephen &,Coleman,10535,,Starglow,Court,,,10535  Starglow Court,Highlands Ranch,Co,10535  Starglow Court Highlands Ranch Co
+720000,Todd &,Young,Christopher,Fulton,707,,Tiger Lily,Way,,,707  Tiger Lily Way,Highlands Ranch,Co,707  Tiger Lily Way Highlands Ranch Co
+840000,Shefali,Phillips,Michael &,Saunders,10433,,Marigold,Court,,,10433  Marigold Court,Highlands Ranch,Co,10433  Marigold Court Highlands Ranch Co
+946600,,,Ronald &,Safran,1051,,Wildcrest Pt,,,,1051  Wildcrest Pt,Highlands Ranch,Co,1051  Wildcrest Pt Highlands Ranch Co
+1855100,,,James &,Craddock,10877,,Rainribbon,Road,,,10877  Rainribbon Road,Highlands Ranch,Co,10877  Rainribbon Road Highlands Ranch Co
+285000,Stanley,Butler,M &,Cantin,10349,W,Fair,Ave.,,Apt A,10349 W Fair Ave.  Apt A,Littleton,Co,10349 W Fair Ave.  Apt A Littleton Co
+320000,Benjamin &,Berres,Ross &,Beadle,13174,W,Cross,Lane,,,13174 W Cross Lane,Littleton,Co,13174 W Cross Lane Littleton Co
+320000,Patricia,Miller,Brian,Ginoza,11434,W,Capri,Place,,,11434 W Capri Place,Littleton,Co,11434 W Capri Place Littleton Co
+325000,W &,Malcolm,Austin,Bennett,4713,S,Kipling,Way,,,4713 S Kipling Way,Littleton,Co,4713 S Kipling Way Littleton Co
+328000,Bruce &,Fairbanks,Paul &,Martin,11715,,Elk Head Range,Road,,,11715  Elk Head Range Road,Littleton,Co,11715  Elk Head Range Road Littleton Co
+380000,James,Kelley,Chara &,Hoover,11107,W,Marlowe,Ave.,,,11107 W Marlowe Ave.,Littleton,Co,11107 W Marlowe Ave. Littleton Co
+417000,Michael,Mcguire,Erin,Noonan,10965,W,Half Moon,Pass,,,10965 W Half Moon Pass,Littleton,Co,10965 W Half Moon Pass Littleton Co
+440500,Linda,Henthorn,Nathan &,Tidd,5213,S,Parfet,Way,,,5213 S Parfet Way,Littleton,Co,5213 S Parfet Way Littleton Co
+495000,Jaye &,Roberts,Nathan &,Dzialo,6511,S,Tabor,St.,,,6511 S Tabor St.,Littleton,Co,6511 S Tabor St. Littleton Co
+572500,D &,Shute,Michael,Writz,1,,Bridlegate,Lane,,,1  Bridlegate Lane,Littleton,Co,1  Bridlegate Lane Littleton Co
+589000,Robert &,Hogan,Adam &,Brink,38,,Blue Sage,,,,38  Blue Sage,Littleton,Co,38  Blue Sage Littleton Co
+630000,Britton &,James,Joseph,Cherry,9972,W,Athens,Lane,,,9972 W Athens Lane,Littleton,Co,9972 W Athens Lane Littleton Co
+692000,Matthew &,Carpinelli,James &,Pedler,9859,W,Cambridge,Place,,,9859 W Cambridge Place,Littleton,Co,9859 W Cambridge Place Littleton Co
+695000,Christine &,Willis,Ajay &,Vellore,5,,Bigcone Spruce,,,,5  Bigcone Spruce,Littleton,Co,5  Bigcone Spruce Littleton Co
+179500,Donald,Kennedy,Richard &,Albrecht,7700,W,Glasgow,Place,,Apt 21b,7700 W Glasgow Place  Apt 21b,Littleton,Co,7700 W Glasgow Place  Apt 21b Littleton Co
+310000,William,Breeding,Brady &,Young,8479,S,Upham,Way,,,8479 S Upham Way,Littleton,Co,8479 S Upham Way Littleton Co
+311500,Robin &,Zinth,Jill,Speth,9397,W,Nichols,Place,,,9397 W Nichols Place,Littleton,Co,9397 W Nichols Place Littleton Co
+330000,Douglas,Drum,Karen,Summers,7129,S,Reed,Court,,,7129 S Reed Court,Littleton,Co,7129 S Reed Court Littleton Co
+350000,Wade &,Unruh,Raina &,Becker,8151,W,Quarto,Drive,,,8151 W Quarto Drive,Littleton,Co,8151 W Quarto Drive Littleton Co
+351000,Patrick &,Smith,Timothy &,Wood,7696,S,Garland,St.,,,7696 S Garland St.,Littleton,Co,7696 S Garland St. Littleton Co
+353500,Kim,Bozekowski,Diana,Jackson,8654,W,Quarto,Ave.,,,8654 W Quarto Ave.,Littleton,Co,8654 W Quarto Ave. Littleton Co
+366000,Andrew &,Beiswanger,Kristin &,Dangelo,7282,S,Vance,St.,,,7282 S Vance St.,Littleton,Co,7282 S Vance St. Littleton Co
+390000,Ronald &,Hait,Maureen,Curtin,8039,S,Marshall,St.,,,8039 S Marshall St.,Littleton,Co,8039 S Marshall St. Littleton Co
+400000,Donald &,Halverson,Noah &,Rockey,7290,W,Fairview,Drive,,,7290 W Fairview Drive,Littleton,Co,7290 W Fairview Drive Littleton Co
+500000,David,Kvapil,Cody &,Dimino,7666,S,Allison,Court,,,7666 S Allison Court,Littleton,Co,7666 S Allison Court Littleton Co
+506000,Pamela,Flinn,Jennifer,Layne,6862,W,Friend,Place,,,6862 W Friend Place,Littleton,Co,6862 W Friend Place Littleton Co
+285900,Shelle &,Freund,Stephen,Dominic,9258,,Rockhurst,St.,,Unit 207,9258  Rockhurst St.  Unit 207,Highlands Ranch,Co,9258  Rockhurst St.  Unit 207 Highlands Ranch Co
+338000,Yevgeny &,Ostritsky,Terry &,Brunk,9765,,Moss Rose,Circle,,,9765  Moss Rose Circle,Highlands Ranch,Co,9765  Moss Rose Circle Highlands Ranch Co
+357000,Stacey,Burr,Sebastian &,Zacharias,1292,,Braewood,Ave.,,,1292  Braewood Ave.,Highlands Ranch,Co,1292  Braewood Ave. Highlands Ranch Co
+379900,Sheri,Harrington,Chris &,Solheim,3759,,Bucknell,Circle,,,3759  Bucknell Circle,Highlands Ranch,Co,3759  Bucknell Circle Highlands Ranch Co
+430000,Bryan,Cooper,Stanley &,Butler,9912,,Sylvestor,Road,,,9912  Sylvestor Road,Highlands Ranch,Co,9912  Sylvestor Road Highlands Ranch Co
+450000,Bradley,Staver,Robert &,Knobf,10078,,Gwendelyn,Lane,,,10078  Gwendelyn Lane,Highlands Ranch,Co,10078  Gwendelyn Lane Highlands Ranch Co
+518000,Leo &,Asman,Kile &,Martin,2806,,Spring Hill Peak,,,,2806  Spring Hill Peak,Highlands Ranch,Co,2806  Spring Hill Peak Highlands Ranch Co
+715000,Gary &,Caprioglio,Jason &,Gritters,10484,,Colby Canyon,Drive,,,10484  Colby Canyon Drive,Highlands Ranch,Co,10484  Colby Canyon Drive Highlands Ranch Co
+324900,Seul,Chung,Sean,Davison,6436,,Silver Mesa,Drive,,Unit A,6436  Silver Mesa Drive  Unit A,Highlands Ranch,Co,6436  Silver Mesa Drive  Unit A Highlands Ranch Co
+335000,David &,Blankespoor,Joanne,Saliger,9435,,Crossland,Way,,,9435  Crossland Way,Highlands Ranch,Co,9435  Crossland Way Highlands Ranch Co
+358000,Michelle,Barker,Xuelin,Chen,6006,,Trailhead,Road,,,6006  Trailhead Road,Highlands Ranch,Co,6006  Trailhead Road Highlands Ranch Co
+365000,Matthew,Witulski,Deborah,Bingham,9625,,Queenscliffe,Drive,,,9625  Queenscliffe Drive,Highlands Ranch,Co,9625  Queenscliffe Drive Highlands Ranch Co
+377000,Gary &,Baumann,Douglas &,Dunfee,9123,,Sugarstone,Circle,,,9123  Sugarstone Circle,Highlands Ranch,Co,9123  Sugarstone Circle Highlands Ranch Co
+403500,Scott &,Rutherford,Corey &,Dyben,4836,,Collinsville,Place,,,4836  Collinsville Place,Highlands Ranch,Co,4836  Collinsville Place Highlands Ranch Co
+440000,Martin &,Frazier,Solmaz &,Omid,10242,,Jill,Ave.,,,10242  Jill Ave.,Highlands Ranch,Co,10242  Jill Ave. Highlands Ranch Co
+501000,Richard &,Grossman,Stephanie,Snook,10171,,Jill,Ave.,,,10171  Jill Ave.,Highlands Ranch,Co,10171  Jill Ave. Highlands Ranch Co
+535900,,,Gregory &,Komarow,9170,,Princeton,St.,,,9170  Princeton St.,Highlands Ranch,Co,9170  Princeton St. Highlands Ranch Co
+639000,Dennia,Clarke,Jeffrey,Sanger,4395,,Cedarpoint,Place,,,4395  Cedarpoint Place,Highlands Ranch,Co,4395  Cedarpoint Place Highlands Ranch Co
+219000,Lisa,Israel,Andrew,Smith,19663,E,Mann Creek,Drive,,Apt D,19663 E Mann Creek Drive  Apt D,Parker,Co,19663 E Mann Creek Drive  Apt D Parker Co
+240000,Jacob,Pedroza,Elizabeth,Delrio,17389,,Nature Walk,Trail,,# 9,17389  Nature Walk Trail  # 9,Parker,Co,17389  Nature Walk Trail  # 9 Parker Co
+250000,Lynne,Domenico,Scott &,Bowen,9471,,Ashbury,Circle,,Unit 102,9471  Ashbury Circle  Unit 102,Parker,Co,9471  Ashbury Circle  Unit 102 Parker Co
+325000,Steven &,Baxter,Eric &,Klingensmith,19297,E,Clear Creek,Way,,,19297 E Clear Creek Way,Parker,Co,19297 E Clear Creek Way Parker Co
+330000,Oleg &,Kisakov,Jose &,Vigil,11036,,Pheasant,Court,,,11036  Pheasant Court,Parker,Co,11036  Pheasant Court Parker Co
+344000,Christopher &,Faust,John,Kesterson,5046,,Old Schoolhouse,Road,,,5046  Old Schoolhouse Road,Parker,Co,5046  Old Schoolhouse Road Parker Co
+369900,Richard &,Prince,Zachary &,Mossman,16226,,Willowstone,St.,,,16226  Willowstone St.,Parker,Co,16226  Willowstone St. Parker Co
+369900,Terrie &,Mcmullen,Wayne &,Watts,9836,,Cheewall,Lane,,,9836  Cheewall Lane,Parker,Co,9836  Cheewall Lane Parker Co
+370000,Del,Thornhill,William,Thornhill,15621,,Crystallo,Drive,,,15621  Crystallo Drive,Parker,Co,15621  Crystallo Drive Parker Co
+377500,Clinton &,Noe,Kristin,Morford,17049,,Vineland,Drive,,,17049  Vineland Drive,Parker,Co,17049  Vineland Drive Parker Co
+385000,Kasey &,Kading,Jon &,Bergford,12988,,Banyon,Circle,,,12988  Banyon Circle,Parker,Co,12988  Banyon Circle Parker Co
+395000,Diane,Beil,Ruben &,Hansenrojas,10808,,Mcclellan,Road,,,10808  Mcclellan Road,Parker,Co,10808  Mcclellan Road Parker Co
+404500,Anna,Gerlack,Martin &,Kohlwey,17487,E,Hawksbead,Drive,,,17487 E Hawksbead Drive,Parker,Co,17487 E Hawksbead Drive Parker Co
+420000,Joshua &,Brence,Michael,Paulino,16427,,Sheridan,Drive,,,16427  Sheridan Drive,Parker,Co,16427  Sheridan Drive Parker Co
+430000,John &,Nelson,Michael,Balding,11707,S,Flower Mound,Way,,,11707 S Flower Mound Way,Parker,Co,11707 S Flower Mound Way Parker Co
+445000,Jon &,Miller,Lance &,Locey,11568,,Terrawood,Court,,,11568  Terrawood Court,Parker,Co,11568  Terrawood Court Parker Co
+451500,,,Gregory &,Courtney,10160,,Nadine,Ave.,,,10160  Nadine Ave.,Parker,Co,10160  Nadine Ave. Parker Co
+454000,Gregory &,Willits,Alexander &,Faiks,16232,E,Swift Fox,Place,,,16232 E Swift Fox Place,Parker,Co,16232 E Swift Fox Place Parker Co
+456000,,,Andrew &,Kewley,12290,,Coral Burst,Court,,,12290  Coral Burst Court,Parker,Co,12290  Coral Burst Court Parker Co
+459000,Jonathon,Eyre,Nicholas &,Muldoon,5902,,Thunder Hill,Road,,,5902  Thunder Hill Road,Parker,Co,5902  Thunder Hill Road Parker Co
+494000,Kenneth &,Whelan,Jeremy,Hotsenpiller,18093,,Dewhurst,Lane,,,18093  Dewhurst Lane,Parker,Co,18093  Dewhurst Lane Parker Co
+544500,John &,Kimmey,James &,Mccarty,8105,,Lakeshore,Drive,,,8105  Lakeshore Drive,Parker,Co,8105  Lakeshore Drive Parker Co
+544500,,,Darla &,Pearsall,15199,,Delhi,Ave.,,,15199  Delhi Ave.,Parker,Co,15199  Delhi Ave. Parker Co
+545000,Gregory &,Gillam,Steven &,Garberich,5376,,Spur Cross,Trail,,,5376  Spur Cross Trail,Parker,Co,5376  Spur Cross Trail Parker Co
+547700,,,Lane &,Jensen,10072,,Glenayre,Court,,,10072  Glenayre Court,Parker,Co,10072  Glenayre Court Parker Co
+574900,Marc &,Paust,Jared &,Peterson,7860,,Lakeshore,Court,,,7860  Lakeshore Court,Parker,Co,7860  Lakeshore Court Parker Co
+575000,Marina,Grigoryeva,Michael &,Adams,10773,,Hillsboro,Circle,,,10773  Hillsboro Circle,Parker,Co,10773  Hillsboro Circle Parker Co
+592000,Jonathan &,Voeller,Ame,Hull,4885,,Harness,Court,,,4885  Harness Court,Parker,Co,4885  Harness Court Parker Co
+597600,,,Alexey &,Nazarov,10030,,Glenayre,Court,,,10030  Glenayre Court,Parker,Co,10030  Glenayre Court Parker Co
+646100,,,Brett &,Miller,10076,,Glenayre,Court,,,10076  Glenayre Court,Parker,Co,10076  Glenayre Court Parker Co
+655000,Richard &,Anders,Mark &,Armstrong,7629,,Nuthatch,Circle,,,7629  Nuthatch Circle,Parker,Co,7629  Nuthatch Circle Parker Co
+227000,Donna,Bauer,Sarah,Carter,13645,S,State,Highway,,67,13645 S State Highway  67,Sedalia,Co,13645 S State Highway  67 Sedalia Co
+1125000,Michael &,New,Sherry &,Sacco,3056,,Winnebago,Drive,,,3056  Winnebago Drive,Sedalia,Co,3056  Winnebago Drive Sedalia Co
+440000,Debra,Bemis,Ray &,Whitney,757,S,Almstead,Road,,,757 S Almstead Road,Watkins,Co,757 S Almstead Road Watkins Co
+202500,Breann,Salverson,Nathaniel &,Einarsen,19926,,Summerset,Lane,,,19926  Summerset Lane,Parker,Co,19926  Summerset Lane Parker Co
+219900,Anthony,Gale,Daryl,Box,19917,,Victorian,Way,,,19917  Victorian Way,Parker,Co,19917  Victorian Way Parker Co
+328000,Karen,Pederson,Norma,Reyesleung,6916,,Crestop,Place,,Unit G,6916  Crestop Place  Unit G,Parker,Co,6916  Crestop Place  Unit G Parker Co
+370000,Lisa,Burcham,Billie,Hiatt,21796,,Saddlebrook,Drive,,,21796  Saddlebrook Drive,Parker,Co,21796  Saddlebrook Drive Parker Co
+385000,Yvette,Matthews,Nicholas &,Lauritzen,10755,,Pikeview,Lane,,,10755  Pikeview Lane,Parker,Co,10755  Pikeview Lane Parker Co
+429000,Matthew &,Mielke,Steven &,Elkins,10903,,Parker Vista,Way,,,10903  Parker Vista Way,Parker,Co,10903  Parker Vista Way Parker Co
+432900,David &,Morey,Anthony &,Covelli,10436,,Black Forest,Drive,,,10436  Black Forest Drive,Parker,Co,10436  Black Forest Drive Parker Co
+519000,Roxanne,Halvorson,Ray &,Deichsel,12316,,Evergreen,Trail,,,12316  Evergreen Trail,Parker,Co,12316  Evergreen Trail Parker Co
+560000,,,Kyle &,Black,11278,,Forest Hills,Drive,,,11278  Forest Hills Drive,Parker,Co,11278  Forest Hills Drive Parker Co
+570000,Kara,Muma,Stacie &,Young,12248,,Desert Hills,St.,,,12248  Desert Hills St.,Parker,Co,12248  Desert Hills St. Parker Co
+581900,,,James &,Oliver,21706,E,Idyllwilde,Drive,,,21706 E Idyllwilde Drive,Parker,Co,21706 E Idyllwilde Drive Parker Co
+585000,Thomas &,Bell,Scott &,Sarver,22485,,Laurel Oak,Drive,,,22485  Laurel Oak Drive,Parker,Co,22485  Laurel Oak Drive Parker Co
+590000,Daniel &,Moore,Lisa,Burcham,8633,,Silo,Road,,,8633  Silo Road,Parker,Co,8633  Silo Road Parker Co
+593800,Kathryn,Smith,David &,Brooks,9015,,Cooper Creek,Court,,,9015  Cooper Creek Court,Parker,Co,9015  Cooper Creek Court Parker Co
+620000,Matthew &,Deaver,Christi,Cage,22493,E,Hidden Trail,Drive,,,22493 E Hidden Trail Drive,Parker,Co,22493 E Hidden Trail Drive Parker Co
+712000,,,Nicolene &,Mullen,11898,,Discovery,Circle,,,11898  Discovery Circle,Parker,Co,11898  Discovery Circle Parker Co
+716100,,,Levi &,Fladebo,11824,,Discovery,Circle,,,11824  Discovery Circle,Parker,Co,11824  Discovery Circle Parker Co
+803500,Bryan &,Daffer,David &,Matherly,11963,S,Meander,Way,,,11963 S Meander Way,Parker,Co,11963 S Meander Way Parker Co
+1050000,,,Matthew &,Gompert,11379,,Panorama,Court,,,11379  Panorama Court,Parker,Co,11379  Panorama Court Parker Co
+63500,Tara &,Murphy,Richard &,Verruso,1020,,15th,St.,,# Pk402,1020  15th St.  # Pk402,Denver,Co,1020  15th St.  # Pk402 Denver Co
+185000,Madhavan,Parthasarathy,Ryan,Windle,444,,17th,St.,,Apt 709,444  17th St.  Apt 709,Denver,Co,444  17th St.  Apt 709 Denver Co
+253000,,,Scott,Schreiber,444,,17th,St.,,Apt 704,444  17th St.  Apt 704,Denver,Co,444  17th St.  Apt 704 Denver Co
+324900,,,Ramon,Young,1777,,Larimer,St.,,Apt 1605,1777  Larimer St.  Apt 1605,Denver,Co,1777  Larimer St.  Apt 1605 Denver Co
+354000,Jake,Blecha,Daniel,Birdsong,891,,14th,St.,,Unit 1105,891  14th St.  Unit 1105,Denver,Co,891  14th St.  Unit 1105 Denver Co
+405000,James,Duner,Frank,Cassella,1020,,15th,St.,,Apt 210,1020  15th St.  Apt 210,Denver,Co,1020  15th St.  Apt 210 Denver Co
+439900,,,Courtney,Muir,891,,14th,St.,,Unit 1015,891  14th St.  Unit 1015,Denver,Co,891  14th St.  Unit 1015 Denver Co
+660000,Alison,Womack,Stephen &,Crain,1551,,Larimer,St.,,Apt 804,1551  Larimer St.  Apt 804,Denver,Co,1551  Larimer St.  Apt 804 Denver Co
+150000,Nan,Altman,Stephanie,Shipley,250,N,Pearl,St.,,Apt 202,250 N Pearl St.  Apt 202,Denver,Co,250 N Pearl St.  Apt 202 Denver Co
+195000,Michael,Stasi,David,Flory,1196,N,Grant,St.,,Apt 106,1196 N Grant St.  Apt 106,Denver,Co,1196 N Grant St.  Apt 106 Denver Co
+210000,Anthony,Armento,Kelly,Kogelmann,656,N,Logan,St.,,Apt 12,656 N Logan St.  Apt 12,Denver,Co,656 N Logan St.  Apt 12 Denver Co
+215000,Susan,Lutz,Michael,Winston,830,N,Sherman,St.,,Apt 102,830 N Sherman St.  Apt 102,Denver,Co,830 N Sherman St.  Apt 102 Denver Co
+233500,Thomas,Neumeyer,Karl,Schwab,529,N,Washington,St.,,Apt 301,529 N Washington St.  Apt 301,Denver,Co,529 N Washington St.  Apt 301 Denver Co
+238000,Jean,Beth,Nathan,Lawrence,130,N,Pearl,St.,,Apt 602,130 N Pearl St.  Apt 602,Denver,Co,130 N Pearl St.  Apt 602 Denver Co
+295000,David,Hsu,Amanda,Mattfeld,1773,N,Washington,St.,,,1773 N Washington St.,Denver,Co,1773 N Washington St. Denver Co
+350000,Wesley,Lawton,Zachary,Martin,1747,N,Washington,St.,,Apt 202,1747 N Washington St.  Apt 202,Denver,Co,1747 N Washington St.  Apt 202 Denver Co
+357000,Travis &,Flowers,Fion,Wan,1975,N,Grant,St.,,Unit 204,1975 N Grant St.  Unit 204,Denver,Co,1975 N Grant St.  Unit 204 Denver Co
+375200,Derek,Gillespie,David &,Miller,1100,N,Logan,St.,,# 1,1100 N Logan St.  # 1,Denver,Co,1100 N Logan St.  # 1 Denver Co
+475000,Brian &,Freeland,Jeffrey,Machian,244,N,Grant,St.,,,244 N Grant St.,Denver,Co,244 N Grant St. Denver Co
+35000,,,David,Kameron,475,W,12th,Ave.,,# Gar66,475 W 12th Ave.  # Gar66,Denver,Co,475 W 12th Ave.  # Gar66 Denver Co
+125000,Tyson,Hoff,Leiand,Schlosser,859,,Federal,Blvd.,,,859  Federal Blvd.,Denver,Co,859  Federal Blvd. Denver Co
+210000,Matthew,Barber,Christopher,Coates,3324,W,17th,Ave.,,,3324 W 17th Ave.,Denver,Co,3324 W 17th Ave. Denver Co
+265000,,,Christopher,Bulatewicz,1128,,Mariposa,St.,,,1128  Mariposa St.,Denver,Co,1128  Mariposa St. Denver Co
+275000,,,Rhett,Biehl,1201,,Galapago,St.,,Unit 103,1201  Galapago St.  Unit 103,Denver,Co,1201  Galapago St.  Unit 103 Denver Co
+285000,Claudine,Howard,Ryan,Simonds,603,,Lowell,Blvd.,,,603  Lowell Blvd.,Denver,Co,603  Lowell Blvd. Denver Co
+382000,David,Grenamyer,Anthony,Cominiello,300,W,11th,Ave.,,Unit 17d,300 W 11th Ave.  Unit 17d,Denver,Co,300 W 11th Ave.  Unit 17d Denver Co
+415000,Deborah,Grosfield,Milagros &,Hilbert,475,W,12th,Ave.,,Unit 4h,475 W 12th Ave.  Unit 4h,Denver,Co,475 W 12th Ave.  Unit 4h Denver Co
+425000,George,Guirguis,Aaron,Graybill,4310,W,10th,Ave.,,,4310 W 10th Ave.,Denver,Co,4310 W 10th Ave. Denver Co
+499000,,,Michael,Finkowski,1623,,Julian,St.,,# 103,1623  Julian St.  # 103,Denver,Co,1623  Julian St.  # 103 Denver Co
+530000,Blaine,Roth,Jennifer,Meikle,3450,W,17th,Ave.,,,3450 W 17th Ave.,Denver,Co,3450 W 17th Ave. Denver Co
+547000,,,Bryan,Castro,3224,W,18th,Ave.,,,3224 W 18th Ave.,Denver,Co,3224 W 18th Ave. Denver Co
+559500,,,Carie,Pierce,3323,W,17th,Ave.,,,3323 W 17th Ave.,Denver,Co,3323 W 17th Ave. Denver Co
+575000,Kevin,Woolsey,Jordan &,Kunz,1946,,Irving,St.,,,1946  Irving St.,Denver,Co,1946  Irving St. Denver Co
+599900,Nicholas,Sandoval,Gregory,Kulp,1565,,Vrain,St.,,,1565  Vrain St.,Denver,Co,1565  Vrain St. Denver Co
+268000,Esther,Smith,Bailey,Diveley,1777,E,39th,Ave.,,Apt 303,1777 E 39th Ave.  Apt 303,Denver,Co,1777 E 39th Ave.  Apt 303 Denver Co
+320500,Margaret,Rapp,Eve,Dreher,2310,N,Ogden,St.,,,2310 N Ogden St.,Denver,Co,2310 N Ogden St. Denver Co
+339000,Paige,Cofrin,Landon,Upham,2245,,Blake,St.,,Apt B,2245  Blake St.  Apt B,Denver,Co,2245  Blake St.  Apt B Denver Co
+375000,Clifton &,Dickinson,David,Atkinson,3440,N,Lafayette,St.,,,3440 N Lafayette St.,Denver,Co,3440 N Lafayette St. Denver Co
+408500,Robert,Newton,Stephanie,Mueller,2245,,Blake,St.,,Apt,2245  Blake St.  Apt,Denver,Co,2245  Blake St.  Apt Denver Co
+461700,,,Sean &,Demuth,2243,N,Race,St.,,,2243 N Race St.,Denver,Co,2243 N Race St. Denver Co
+590000,,,Laura,Mansfield,2429,N,Clarkson,St.,,,2429 N Clarkson St.,Denver,Co,2429 N Clarkson St. Denver Co
+106500,Mitchell,Holstege,David,Woodward,1431,,Columbine,St.,,Apt 7,1431  Columbine St.  Apt 7,Denver,Co,1431  Columbine St.  Apt 7 Denver Co
+155000,Michael,Gierke,Ashley &,Mcclain,1035,,Colorado,Blvd.,,Apt 305,1035  Colorado Blvd.  Apt 305,Denver,Co,1035  Colorado Blvd.  Apt 305 Denver Co
+220000,John &,Stevenson,Jessica,Amstel,1366,,Garfield,St.,,Apt 109,1366  Garfield St.  Apt 109,Denver,Co,1366  Garfield St.  Apt 109 Denver Co
+238000,John,Montoya,John,Fivekiller,1265,,Race,St.,,Apt 205,1265  Race St.  Apt 205,Denver,Co,1265  Race St.  Apt 205 Denver Co
+307500,,,Samuel,Shisler,525,,Jackson,St.,,Apt 203,525  Jackson St.  Apt 203,Denver,Co,525  Jackson St.  Apt 203 Denver Co
+368000,Kirbee,Yost,Rebecca &,Kimura,1489,,Steele,St.,,Apt 112,1489  Steele St.  Apt 112,Denver,Co,1489  Steele St.  Apt 112 Denver Co
+370000,Mark,Shearer,Bruce,Gordon,1009,,Cook,St.,,,1009  Cook St.,Denver,Co,1009  Cook St. Denver Co
+390000,Benjamin,Cheang,Pamela,Kregg,2990,E,17th,Ave.,,Apt 606,2990 E 17th Ave.  Apt 606,Denver,Co,2990 E 17th Ave.  Apt 606 Denver Co
+705000,Andrew &,Gladden,Tyler,Miller,1269,,Madison,St.,,,1269  Madison St.,Denver,Co,1269  Madison St. Denver Co
+750000,Todd &,Miller,Thomas,Moore,1226,,Elizabeth,St.,,,1226  Elizabeth St.,Denver,Co,1226  Elizabeth St. Denver Co
+819500,Matthew,Williams,Laurent &,Deis,180,,Cook,St.,,Ph 503,180  Cook St.  Ph 503,Denver,Co,180  Cook St.  Ph 503 Denver Co
+851000,,,Timur,Satiroglu,11,,Harrison,St.,,,11  Harrison St.,Denver,Co,11  Harrison St. Denver Co
+922800,,,Robert &,Colletti,640,,Clayton,St.,,,640  Clayton St.,Denver,Co,640  Clayton St. Denver Co
+1062500,Edward &,Wahtera,Joseph,Colborne,521,,Garfield,St.,,,521  Garfield St.,Denver,Co,521  Garfield St. Denver Co
+1200000,Otto &,Petty,Kea,Bardeen,545,,Jackson,St.,,,545  Jackson St.,Denver,Co,545  Jackson St. Denver Co
+1200000,Carl,Jerritts,Nicholas,Yorchak,1320,,Race,St.,,,1320  Race St.,Denver,Co,1320  Race St. Denver Co
+200000,,,Steven &,Camerer,2811,,Jasmine,St.,,,2811  Jasmine St.,Denver,Co,2811  Jasmine St. Denver Co
+287500,Nicholas &,Iurato,John &,Payne,2221,,Kearney,St.,,Apt 3,2221  Kearney St.  Apt 3,Denver,Co,2221  Kearney St.  Apt 3 Denver Co
+295000,Donna,Turner,Jeremy,Dobson,2970,,Niagara,St.,,,2970  Niagara St.,Denver,Co,2970  Niagara St. Denver Co
+360000,Claudine,Vaughn,Allison,Simms,3563,,Grape,St.,,,3563  Grape St.,Denver,Co,3563  Grape St. Denver Co
+375000,Vivian,Schaefer,Benjamin,Wayne,2570,N,Glencoe,St.,,,2570 N Glencoe St.,Denver,Co,2570 N Glencoe St. Denver Co
+387000,,,Maureen,Durkin,3600,,Magnolia,St.,,,3600  Magnolia St.,Denver,Co,3600  Magnolia St. Denver Co
+412000,Dennis &,Montgomery,Alison &,Gilliland,2201,,Krameria,St.,,,2201  Krameria St.,Denver,Co,2201  Krameria St. Denver Co
+620000,,,Marianne,Shafik,994,S,Pennsylvania,St.,,,994 S Pennsylvania St.,Denver,Co,994 S Pennsylvania St. Denver Co
+629700,Rachel,Bellis,Steven,Perkins,231,S,Williams,St.,,,231 S Williams St.,Denver,Co,231 S Williams St. Denver Co
+920000,Mark,Williams,Daryl &,Edmonds,777,S,Corona,St.,,,777 S Corona St.,Denver,Co,777 S Corona St. Denver Co
+920000,Bryan &,Dean,Peter,Vangenderen,3030,E,Kentucky,Ave.,,,3030 E Kentucky Ave.,Denver,Co,3030 E Kentucky Ave. Denver Co
+1700000,,,Brenda,Phelps,1057,S,York,St.,,,1057 S York St.,Denver,Co,1057 S York St. Denver Co
+1750000,Melvin,Marquez,Thomas,Bragg,2729,E,Alameda,Ave.,,,2729 E Alameda Ave.,Denver,Co,2729 E Alameda Ave. Denver Co
+2670000,,,Peter,Marsico,6,,Polo Club,Drive,,,6  Polo Club Drive,Denver,Co,6  Polo Club Drive Denver Co
+182500,Nicole &,Chamberlin,Bronson &,Rumsey,2225,,Buchtel,Blvd.,,Apt 609,2225  Buchtel Blvd.  Apt 609,Denver,Co,2225  Buchtel Blvd.  Apt 609 Denver Co
+370000,Patrick,Daigle,Miranda,Smith,2684,S,Logan,St.,,,2684 S Logan St.,Denver,Co,2684 S Logan St. Denver Co
+412000,,,Derek &,Bond,2757,S,Steele,St.,,,2757 S Steele St.,Denver,Co,2757 S Steele St. Denver Co
+426200,Debra,Brown,Susan,Moore,2676,S,Marion,St.,,,2676 S Marion St.,Denver,Co,2676 S Marion St. Denver Co
+460000,Kira,Suurvarik,Michael &,Kaag,2310,S,Humboldt,St.,,,2310 S Humboldt St.,Denver,Co,2310 S Humboldt St. Denver Co
+530000,Adam &,Lahlou,Brian &,Hilgers,2617,E,Yale,Ave.,,,2617 E Yale Ave.,Denver,Co,2617 E Yale Ave. Denver Co
+545000,Julie,Bason,Nicholas,Gilman,1101,S,Steele,St.,,,1101 S Steele St.,Denver,Co,1101 S Steele St. Denver Co
+556000,Shane,Stricker,Molly,Phillips,1361,S,Sherman,St.,,,1361 S Sherman St.,Denver,Co,1361 S Sherman St. Denver Co
+600000,Andrew,Rooney,Kelsy,Rooney,3701,E,Mississippi,Ave.,,,3701 E Mississippi Ave.,Denver,Co,3701 E Mississippi Ave. Denver Co
+618500,Marylou &,Houston,Duane,Mujica,2030,S,Adams,St.,,,2030 S Adams St.,Denver,Co,2030 S Adams St. Denver Co
+650000,Gregory,Davel,Jay,Dokken,2639,S,Saint Paul,St.,,,2639 S Saint Paul St.,Denver,Co,2639 S Saint Paul St. Denver Co
+659000,James &,Flournoy,Lisa,Kammerer,2560,S,Franklin,St.,,,2560 S Franklin St.,Denver,Co,2560 S Franklin St. Denver Co
+715000,Kelly,Ryan,Henry &,Swayze,1257,S,Columbine,St.,,,1257 S Columbine St.,Denver,Co,1257 S Columbine St. Denver Co
+725000,Brenda &,Phelps,Kaitlin,Delaney,1671,S,Logan,St.,,,1671 S Logan St.,Denver,Co,1671 S Logan St. Denver Co
+978800,Nancy,Simons,Molly,Greenblatt,1424,S,Fillmore,St.,,,1424 S Fillmore St.,Denver,Co,1424 S Fillmore St. Denver Co
+1058000,Kevin &,Regan,Marshall &,Stafford,1166,S,Williams,St.,,,1166 S Williams St.,Denver,Co,1166 S Williams St. Denver Co
+1635000,Douglas,Standell,Matthew,Smith,2472,S,Josephine,St.,,,2472 S Josephine St.,Denver,Co,2472 S Josephine St. Denver Co
+230000,Frances,Torres,Chelsea,Vurciaga,2611,W,Argyle,Place,,,2611 W Argyle Place,Denver,Co,2611 W Argyle Place Denver Co
+291000,Mandy,Salazar,Mali,Wold,2544,,Julian,St.,,,2544  Julian St.,Denver,Co,2544  Julian St. Denver Co
+390000,Amanda,Coffin,Douglas,Case,4576,,Decatur,St.,,,4576  Decatur St.,Denver,Co,4576  Decatur St. Denver Co
+411000,Melissa &,Timberlake,Philippa,Symington,4582,,Bryant,St.,,,4582  Bryant St.,Denver,Co,4582  Bryant St. Denver Co
+418000,Donald &,Wilson,Kelley,Schneider,3331,W,Scott,Place,,,3331 W Scott Place,Denver,Co,3331 W Scott Place Denver Co
+485000,Ryan,Murray,Amos,Kenyon,2711,W,24th,Ave.,,Unit 105,2711 W 24th Ave.  Unit 105,Denver,Co,2711 W 24th Ave.  Unit 105 Denver Co
+494000,Jeffrey,Lagerholm,Eric &,Broecker,3110,N,Clay,St.,,,3110 N Clay St.,Denver,Co,3110 N Clay St. Denver Co
+506000,Christopher &,Jones,Andrew &,Poland,2615,W,35th,Ave.,,,2615 W 35th Ave.,Denver,Co,2615 W 35th Ave. Denver Co
+582000,Beaux,Selznick,Carol,Wolf,4470,,King,St.,,,4470  King St.,Denver,Co,4470  King St. Denver Co
+642500,James,Haugen,Melinda,Sink,4281,,Julian,St.,,,4281  Julian St.,Denver,Co,4281  Julian St. Denver Co
+665900,,,Elizabeth,Braun,2737,W,21st,Ave.,,,2737 W 21st Ave.,Denver,Co,2737 W 21st Ave. Denver Co
+700000,,,Scott,Esecson,3529,,Quivas,St.,,,3529  Quivas St.,Denver,Co,3529  Quivas St. Denver Co
+725000,,,Christopher &,Maddock,3925,,Wyandot,St.,,,3925  Wyandot St.,Denver,Co,3925  Wyandot St. Denver Co
+725000,,,Nicholas,Speidell,3428,,Osage,St.,,,3428  Osage St.,Denver,Co,3428  Osage St. Denver Co
+725000,Greg &,Pfahl,Lara &,Dimovitz,3120,W,37th,Ave.,,,3120 W 37th Ave.,Denver,Co,3120 W 37th Ave. Denver Co
+757000,Darlene &,Molenaar,Joseph &,Iannacone,2125,,Lowell,Blvd.,,,2125  Lowell Blvd.,Denver,Co,2125  Lowell Blvd. Denver Co
+770000,Brian &,Brown,Jessica,Larson,3601,,Federal,Blvd.,,,3601  Federal Blvd.,Denver,Co,3601  Federal Blvd. Denver Co
+815000,,,David,Orlovsky,2030,W,33rd,Ave.,,Unit 1,2030 W 33rd Ave.  Unit 1,Denver,Co,2030 W 33rd Ave.  Unit 1 Denver Co
+965000,,,Meeta &,Michener,3351,,Newton,St.,,,3351  Newton St.,Denver,Co,3351  Newton St. Denver Co
+325500,,,Jacqueline &,Cooper,4920,,Stuart,St.,,,4920  Stuart St.,Denver,Co,4920  Stuart St. Denver Co
+327000,Kevin &,Lasley,Pavel,Shimkin,5046,,Quitman,St.,,,5046  Quitman St.,Denver,Co,5046  Quitman St. Denver Co
+386000,Todd &,Bryski,Matthew,Herbert,4418,,Perry,St.,,,4418  Perry St.,Denver,Co,4418  Perry St. Denver Co
+400000,Brenda,Prentup,Angela,Janko,4630,W,37th,Ave.,,Unit 13,4630 W 37th Ave.  Unit 13,Denver,Co,4630 W 37th Ave.  Unit 13 Denver Co
+403000,,,Andrew,Rietbergen,3242,,Perry,St.,,,3242  Perry St.,Denver,Co,3242  Perry St. Denver Co
+584000,Lisa,Mackey,Matthew &,Eidemiller,4729,W,32nd,Ave.,,,4729 W 32nd Ave.,Denver,Co,4729 W 32nd Ave. Denver Co
+650000,Elizabeth,Emmens,Andrew &,Cordell,4827,W,36th,Ave.,,,4827 W 36th Ave.,Denver,Co,4827 W 36th Ave. Denver Co
+650000,Max,Green,Britney &,Strout,3435,,Utica,St.,,,3435  Utica St.,Denver,Co,3435  Utica St. Denver Co
+725000,,,Mark,Haynes,4521,,Vrain,St.,,,4521  Vrain St.,Denver,Co,4521  Vrain St. Denver Co
+769000,Joseph &,Eby,John &,Wagner,3959,,Utica,St.,,,3959  Utica St.,Denver,Co,3959  Utica St. Denver Co
+905000,Patrick,Seese,Hamid,Taha,3524,,Stuart,St.,,,3524  Stuart St.,Denver,Co,3524  Stuart St. Denver Co
+210000,Faye,Comingore,Jeremy,Shull,1290,,Ames,St.,,,1290  Ames St.,Lakewood,Co,1290  Ames St. Lakewood Co
+240000,,,Grace,Baxter,1609,,Depew,St.,,,1609  Depew St.,Lakewood,Co,1609  Depew St. Lakewood Co
+252700,Charles,Robinson,Shawn,Cretti,825,,Depew,St.,,,825  Depew St.,Lakewood,Co,825  Depew St. Lakewood Co
+264500,Patricia,Klosky,Stefanie,Joy,2217,,Eaton,St.,,,2217  Eaton St.,Edgewater,Co,2217  Eaton St. Edgewater Co
+310000,Sean,Leniton,Hilda &,Ward,2090,,Yarrow,St.,,,2090  Yarrow St.,Lakewood,Co,2090  Yarrow St. Lakewood Co
+339000,Joshua,Lingenfelter,Shane &,Whitmore,7577,W,23rd,Ave.,,,7577 W 23rd Ave.,Lakewood,Co,7577 W 23rd Ave. Lakewood Co
+377000,Rusty,Lamb,Robert &,Dobbs,6196,W,26th,Ave.,,,6196 W 26th Ave.,Edgewater,Co,6196 W 26th Ave. Edgewater Co
+380000,Thomas,Yang,Francesca,Tronchin,675,,Balsam,St.,,,675  Balsam St.,Lakewood,Co,675  Balsam St. Lakewood Co
+385000,Vincent &,Jaeke,Dominique,Boisnard,7204,W,9th,Ave.,,,7204 W 9th Ave.,Lakewood,Co,7204 W 9th Ave. Lakewood Co
+620000,Donald &,Pacheco,John,Hamre,2660,,Pierce,St.,,,2660  Pierce St.,Wheat Ridge,Co,2660  Pierce St. Wheat Ridge Co
+365000,John,Richards,Erik,Gessert,11500,W,26th,Ave.,,,11500 W 26th Ave.,Lakewood,Co,11500 W 26th Ave. Lakewood Co
+470000,Melody,Ulen,Nicholas &,Herrin,11280,,Benthaven,Drive,,,11280  Benthaven Drive,Lakewood,Co,11280  Benthaven Drive Lakewood Co
+595000,Eva,Jensen,David &,Brim,2120,,Union,Drive,,,2120  Union Drive,Lakewood,Co,2120  Union Drive Lakewood Co
+1200000,Danielle,Gunn,Lauren,Williams,12361,W,16th,Drive,,,12361 W 16th Drive,Lakewood,Co,12361 W 16th Drive Lakewood Co
+210000,,,Helen,Jacobe,4736,,Pennsylvania,St.,,,4736  Pennsylvania St.,Denver,Co,4736  Pennsylvania St. Denver Co
+240000,Lenka,Karlikova,Rachael,Winsor,4706,,Broadway,,,,4706  Broadway,Denver,Co,4706  Broadway Denver Co
+250000,Adam,Miller,Allen,Swink,4941,,Adams,St.,,,4941  Adams St.,Denver,Co,4941  Adams St. Denver Co
+279900,Trent,Reynolds,Jacob,Trahan,4794,,Broadway,,,,4794  Broadway,Denver,Co,4794  Broadway Denver Co
+257500,Erica &,Viviani,Michelle,Brant,931,N,Emerson,St.,,Apt 6,931 N Emerson St.  Apt 6,Denver,Co,931 N Emerson St.  Apt 6 Denver Co
+270000,Cynthia &,Evans,Andrew,Greenhaw,75,N,Emerson,St.,,Apt 302,75 N Emerson St.  Apt 302,Denver,Co,75 N Emerson St.  Apt 302 Denver Co
+280000,Hillary,Potter,Gianna,Reese,1375,N,Williams,St.,,Apt 101,1375 N Williams St.  Apt 101,Denver,Co,1375 N Williams St.  Apt 101 Denver Co
+342500,Mary,Smith,Andrea,Sutter,1250,N,Humboldt,St.,,Apt 401,1250 N Humboldt St.  Apt 401,Denver,Co,1250 N Humboldt St.  Apt 401 Denver Co
+510000,Jennifer,Monk,Michele,Paul,553,N,Clarkson,St.,,,553 N Clarkson St.,Denver,Co,553 N Clarkson St. Denver Co
+527000,Aimee,Kinkelaar,Joseph,Marsh,546,N,Ogden,St.,,,546 N Ogden St.,Denver,Co,546 N Ogden St. Denver Co
+675200,Scott &,Osullivan,Jennifer,Volin,1028,N,Marion,St.,,,1028 N Marion St.,Denver,Co,1028 N Marion St. Denver Co
+1725000,Robert &,Vinton,Jennifer &,Walsh,145,N,Franklin,St.,,,145 N Franklin St.,Denver,Co,145 N Franklin St. Denver Co
+102000,D,Walker,Sean,Searle,2620,S,Federal,Blvd.,,Apt Ml,2620 S Federal Blvd.  Apt Ml,Denver,Co,2620 S Federal Blvd.  Apt Ml Denver Co
+153000,Karen &,Haas,Alicia,Avila,245,S,Canosa,Court,,,245 S Canosa Court,Denver,Co,245 S Canosa Court Denver Co
+160000,Karen &,Haas,Alicia,Avila,249,S,Canosa,Court,,,249 S Canosa Court,Denver,Co,249 S Canosa Court Denver Co
+160000,Karen &,Haas,Alicia,Avila,247,S,Canosa,Court,,,247 S Canosa Court,Denver,Co,247 S Canosa Court Denver Co
+175000,Sareth,Bunta,Char,Lobato,1642,S,Mabry,Way,,,1642 S Mabry Way,Denver,Co,1642 S Mabry Way Denver Co
+177600,Mark,Apodaca,Destiny,Herrera,214,,Zenobia,St.,,,214  Zenobia St.,Denver,Co,214  Zenobia St. Denver Co
+184600,Jeff,Vigil,Angelo,Arguello,370,,Irving,St.,,,370  Irving St.,Denver,Co,370  Irving St. Denver Co
+220000,David,Castellano,Freddy,Leal,2290,S,King,St.,,,2290 S King St.,Denver,Co,2290 S King St. Denver Co
+230000,Richard &,Ristau,Angela,Galaviz,3620,W,Exposition,Ave.,,,3620 W Exposition Ave.,Denver,Co,3620 W Exposition Ave. Denver Co
+235000,,,Sarah,Bartz,751,S,Wolff,St.,,,751 S Wolff St.,Denver,Co,751 S Wolff St. Denver Co
+239500,,,Valdemar,Luna,4160,W,Walsh,Place,,,4160 W Walsh Place,Denver,Co,4160 W Walsh Place Denver Co
+240500,Brett,Evans,Cecella &,Cardona,620,S,Eliot,St.,,,620 S Eliot St.,Denver,Co,620 S Eliot St. Denver Co
+251000,Wendy &,Belt,Marco,Jimenez,1500,S,Utica,St.,,,1500 S Utica St.,Denver,Co,1500 S Utica St. Denver Co
+260000,,,Jeremy &,West,61,,Meade,St.,,,61  Meade St.,Denver,Co,61  Meade St. Denver Co
+262000,Christine,Sanders,Felipe,Flores,705,S,Utica,St.,,,705 S Utica St.,Denver,Co,705 S Utica St. Denver Co
+300000,Thomas,Case,Bunwoo,Chang,2395,S,Osceola,St.,,,2395 S Osceola St.,Denver,Co,2395 S Osceola St. Denver Co
+307000,,,Michael,Eltrich,475,S,Clay,St.,,,475 S Clay St.,Denver,Co,475 S Clay St. Denver Co
+340000,Felipe,Nava,Christopher &,Hirsch,2248,S,Patton,Court,,,2248 S Patton Court,Denver,Co,2248 S Patton Court Denver Co
+355000,Maria,Garibay,Rogelio,Ortizrobles,1937,S,Newton,St.,,,1937 S Newton St.,Denver,Co,1937 S Newton St. Denver Co
+230000,Donna,Nagle,Kristen,Beck,1365,,Rosemary,St.,,,1365  Rosemary St.,Denver,Co,1365  Rosemary St. Denver Co
+269500,Amanda &,Larusso,Jeffrey,Carhart,1253,,Locust,St.,,,1253  Locust St.,Denver,Co,1253  Locust St. Denver Co
+272000,Cedar,Mcdaniels,Joel &,Cheneyphilp,1108,,Roslyn,St.,,,1108  Roslyn St.,Denver,Co,1108  Roslyn St. Denver Co
+320000,Abraham,Nord,David,Vansicklen,1741,,Uinta,St.,,,1741  Uinta St.,Denver,Co,1741  Uinta St. Denver Co
+400000,,,Takayuki &,Sato,4633,E,Colfax,Ave.,,,4633 E Colfax Ave.,Denver,Co,4633 E Colfax Ave. Denver Co
+467000,F &,Guillaume,Nancy,Harris,5802,E,10th,Ave.,,,5802 E 10th Ave.,Denver,Co,5802 E 10th Ave. Denver Co
+470000,Kathleen,Froehlich,Iris,Peters,730,,Kearney,St.,,,730  Kearney St.,Denver,Co,730  Kearney St. Denver Co
+485000,Beth,Roscrow,Dustin &,Phillips,1425,,Newport,St.,,,1425  Newport St.,Denver,Co,1425  Newport St. Denver Co
+501000,Clayton &,Sparks,Wallace,Prugh,630,,Jersey,St.,,,630  Jersey St.,Denver,Co,630  Jersey St. Denver Co
+542000,Joseph &,Michaels,Michael &,Marsala,1552,,Hudson,St.,,,1552  Hudson St.,Denver,Co,1552  Hudson St. Denver Co
+1050000,Adam &,Asarch,Clayton &,Sparks,415,,Fairfax,St.,,,415  Fairfax St.,Denver,Co,415  Fairfax St. Denver Co
+1500000,,,Allen,Moore,390,,Albion,St.,,,390  Albion St.,Denver,Co,390  Albion St. Denver Co
+225000,Haichao,Huang,Juan,Mora,2701,W,65th,Ave.,,,2701 W 65th Ave.,Denver,Co,2701 W 65th Ave. Denver Co
+245000,Ismael,Guzman,Jaime,Pinon,3025,W,65th,Ave.,,,3025 W 65th Ave.,Denver,Co,3025 W 65th Ave. Denver Co
+295000,Lewis,Duran,Juan,Flores,8346,,Mitze,Drive,,,8346  Mitze Drive,Denver,Co,8346  Mitze Drive Denver Co
+297500,Richard,Wood,Zachary &,Britner,8261,,Orchard,Drive,,,8261  Orchard Drive,Denver,Co,8261  Orchard Drive Denver Co
+325000,Ernest &,Vallejos,Kelly,Farmer,5630,,Alcott,St.,,,5630  Alcott St.,Denver,Co,5630  Alcott St. Denver Co
+346000,Lisa,Mcguire,Mark &,Bokhoven,5415,,Primrose,Lane,,,5415  Primrose Lane,Denver,Co,5415  Primrose Lane Denver Co
+401500,,,Tommy,Jones,1440,W,66th,Place,,,1440 W 66th Place,Denver,Co,1440 W 66th Place Denver Co
+466400,,,David,Snyder,6746,,Warren,Drive,,,6746  Warren Drive,Denver,Co,6746  Warren Drive Denver Co
+683100,,,John,Doyle,6690,,Warren,Drive,,,6690  Warren Drive,Denver,Co,6690  Warren Drive Denver Co
+718100,,,Kathleen,Obrien,6700,,Morrison,Drive,,,6700  Morrison Drive,Denver,Co,6700  Morrison Drive Denver Co
+349500,Stephen,Loppnow,Sofia,Lock,5159,,Elm,Court,,,5159  Elm Court,Denver,Co,5159  Elm Court Denver Co
+369000,Gordon,Stadnyck,Adriane,Bradberry,4818,,Meade,St.,,,4818  Meade St.,Denver,Co,4818  Meade St. Denver Co
+364000,Judith,Haddow,Daniel &,Balano,5671,E,Bates,Ave.,,,5671 E Bates Ave.,Denver,Co,5671 E Bates Ave. Denver Co
+470000,Doris,Deikman,Meredith,Sutch,2425,S,Leyden,St.,,,2425 S Leyden St.,Denver,Co,2425 S Leyden St. Denver Co
+71800,Bruce &,Whitaker,Steve &,Ksiazek,2355,S,Linden,Court,,# 210,2355 S Linden Court  # 210,Denver,Co,2355 S Linden Court  # 210 Denver Co
+110000,David,Flomberg,Anthony,Ryan,3339,S,Monaco,Parkway,,Apt D,3339 S Monaco Parkway  Apt D,Denver,Co,3339 S Monaco Parkway  Apt D Denver Co
+112000,Robert,Edmiston,Elizabeth,Dybicki,2700,S,Holly,St.,,Apt 207,2700 S Holly St.  Apt 207,Denver,Co,2700 S Holly St.  Apt 207 Denver Co
+150000,,,Keith,Gallegos,3064,S,Colorado,Blvd.,,,3064 S Colorado Blvd.,Denver,Co,3064 S Colorado Blvd. Denver Co
+200000,Victoria,Lewis,Zoeann,Corn,2880,S,Locust,St.,,Apt N302,2880 S Locust St.  Apt N302,Denver,Co,2880 S Locust St.  Apt N302 Denver Co
+318000,Dawn,Erickson,Agatha &,Shepherd,3360,S,Dahlia,St.,,,3360 S Dahlia St.,Denver,Co,3360 S Dahlia St. Denver Co
+350000,Philippe &,Koentges,Chris &,Deshano,3228,S,Fairfax,St.,,,3228 S Fairfax St.,Denver,Co,3228 S Fairfax St. Denver Co
+395000,Irene,Self,Bradley,Crow,3150,S,Holly,Place,,,3150 S Holly Place,Denver,Co,3150 S Holly Place Denver Co
+416400,Anthony &,Durso,Karen,Rylander,1751,S,Fairfax,St.,,,1751 S Fairfax St.,Denver,Co,1751 S Fairfax St. Denver Co
+509000,,,Ryan,Smyth,5583,E,Utah,Place,,,5583 E Utah Place,Denver,Co,5583 E Utah Place Denver Co
+575000,Theresa,Oconnor,Christopher &,Dodd,3090,S,Ash,St.,,,3090 S Ash St.,Denver,Co,3090 S Ash St. Denver Co
+779000,Scott,Seale,Craig,Mayer,1317,S,Fairfax,St.,,,1317 S Fairfax St.,Denver,Co,1317 S Fairfax St. Denver Co
+125000,Paula,Clark,Cassandra,Sakata,1181,S,Vallejo,St.,,,1181 S Vallejo St.,Denver,Co,1181 S Vallejo St. Denver Co
+125000,Bryant &,Jaggers,Kelli,Elmblade,1250,S,Umatilla,St.,,,1250 S Umatilla St.,Denver,Co,1250 S Umatilla St. Denver Co
+239500,Marlene,Ellzey,Eric,Lawson,952,S,Pecos,Way,,,952 S Pecos Way,Denver,Co,952 S Pecos Way Denver Co
+260000,Connor,Vaughn,Laura,Cowperthwaite,67,,Galapago,St.,,,67  Galapago St.,Denver,Co,67  Galapago St. Denver Co
+295000,Hector &,Viramontes,Stephanie,Dreiling,605,S,Pecos,St.,,,605 S Pecos St.,Denver,Co,605 S Pecos St. Denver Co
+335000,Stephanie,Gallardo,Bruce &,Johnson,760,S,Vallejo,St.,,,760 S Vallejo St.,Denver,Co,760 S Vallejo St. Denver Co
+345000,Leonardo,Gonzalez,Jason,Whitlock,9,S,Elati,St.,,,9 S Elati St.,Denver,Co,9 S Elati St. Denver Co
+400000,Richard,Chu,Jai &,Ho,1140,W,Louisiana,Ave.,,,1140 W Louisiana Ave.,Denver,Co,1140 W Louisiana Ave. Denver Co
+575000,Jessica &,Barhaug,Sumant,Bhat,261,,Acoma,St.,,,261  Acoma St.,Denver,Co,261  Acoma St. Denver Co
+532800,Michael &,Champeau,Julika,Ramaci,1760,S,Poplar,St.,,,1760 S Poplar St.,Denver,Co,1760 S Poplar St. Denver Co
+215000,,,Alice,Ordover,6980,E,Girard,Ave.,,Apt 401,6980 E Girard Ave.  Apt 401,Denver,Co,6980 E Girard Ave.  Apt 401 Denver Co
+260000,Robina,Virdi,Melanie,Virdi,822,S,Locust,St.,,,822 S Locust St.,Denver,Co,822 S Locust St. Denver Co
+295000,,,Dana,Coriell,3391,S,Pontiac,St.,,# C4,3391 S Pontiac St.  # C4,Denver,Co,3391 S Pontiac St.  # C4 Denver Co
+420000,Paul,Newell,Maristela,Fountain,6943,E,Villanova,Place,,,6943 E Villanova Place,Denver,Co,6943 E Villanova Place Denver Co
+190000,,,Donald &,Taylor,979,S,Miller,St.,,,979 S Miller St.,Lakewood,Co,979 S Miller St. Lakewood Co
+225000,Dominic,Leyba,Eric,Tammone,888,S,Reed,Court,,Apt A,888 S Reed Court  Apt A,Lakewood,Co,888 S Reed Court  Apt A Lakewood Co
+230000,,,Andrew,Sears,9115,W,Cedar,Drive,,Unit D,9115 W Cedar Drive  Unit D,Lakewood,Co,9115 W Cedar Drive  Unit D Lakewood Co
+237500,Prescilla,Freyta,Gregory,Kraxberger,802,S,Vance,St.,,Apt B,802 S Vance St.  Apt B,Lakewood,Co,802 S Vance St.  Apt B Lakewood Co
+300000,Trifone &,Bowling,Brandon,Sychia,5830,W,2nd,Ave.,,,5830 W 2nd Ave.,Lakewood,Co,5830 W 2nd Ave. Lakewood Co
+306000,Allison &,River,Reid &,Cowan,779,S,Robb,Way,,,779 S Robb Way,Lakewood,Co,779 S Robb Way Lakewood Co
+315000,Debra &,Mellish,Armando &,Torres,182,S,Reed,Court,,,182 S Reed Court,Lakewood,Co,182 S Reed Court Lakewood Co
+326000,David,Warnke,Gavin,Conner,464,S,Routt,Way,,,464 S Routt Way,Lakewood,Co,464 S Routt Way Lakewood Co
+353000,Winifred,Torrey,Guy &,Pierce,8615,W,Tennessee,Place,,,8615 W Tennessee Place,Lakewood,Co,8615 W Tennessee Place Lakewood Co
+455000,Kevin &,Barr,Charl,Oosthuizen,480,S,Newcombe,St.,,,480 S Newcombe St.,Lakewood,Co,480 S Newcombe St. Lakewood Co
+500000,Kimberly,Smiley,Barry &,Miller,530,S,Vance,St.,,,530 S Vance St.,Lakewood,Co,530 S Vance St. Lakewood Co
+115000,Jesse,Jenkskline,Minh,Huynh,5995,W,Hampden,Ave.,,Unit F10,5995 W Hampden Ave.  Unit F10,Denver,Co,5995 W Hampden Ave.  Unit F10 Denver Co
+315000,Michael,Blosser,Emily &,Garcia,5201,W,Bates,Ave.,,,5201 W Bates Ave.,Denver,Co,5201 W Bates Ave. Denver Co
+328500,Larry &,Mitchell,Lynn,Cave,7101,W,Yale,Ave.,,Unit 3906,7101 W Yale Ave.  Unit 3906,Denver,Co,7101 W Yale Ave.  Unit 3906 Denver Co
+169000,David,Hermosillo,Benjie,Romero,7309,W,Hampden,Ave.,,Apt 2204,7309 W Hampden Ave.  Apt 2204,Lakewood,Co,7309 W Hampden Ave.  Apt 2204 Lakewood Co
+177000,Gregory,Dietz,Barbara,Preeo,5712,W,Asbury,Place,,Unit B-202,5712 W Asbury Place  Unit B-202,Lakewood,Co,5712 W Asbury Place  Unit B-202 Lakewood Co
+177000,Elvin,Devorss,Catherine,Quan,5712,W,Asbury,Place,,Unit B-102,5712 W Asbury Place  Unit B-102,Lakewood,Co,5712 W Asbury Place  Unit B-102 Lakewood Co
+199900,Kimberly,Johnson,Michael &,Hau,10370,W,Dartmouth,Ave.,,,10370 W Dartmouth Ave.,Lakewood,Co,10370 W Dartmouth Ave. Lakewood Co
+210000,Aaron,Brown,Pamela,Fleming,3318,S,Ammons,St.,,Apt 108,3318 S Ammons St.  Apt 108,Lakewood,Co,3318 S Ammons St.  Apt 108 Lakewood Co
+229000,Jackie,Weliever,Veronica,Rios,8787,W,Cornell,Ave.,,Apt 4,8787 W Cornell Ave.  Apt 4,Lakewood,Co,8787 W Cornell Ave.  Apt 4 Lakewood Co
+255000,Elaine,Turner,Glenda &,Sellar,5879,W,Atlantic,Place,,,5879 W Atlantic Place,Lakewood,Co,5879 W Atlantic Place Lakewood Co
+258500,Amber,Beston,Brandi,Conning,1948,S,Balsam,St.,,,1948 S Balsam St.,Lakewood,Co,1948 S Balsam St. Lakewood Co
+197500,Benny,Jones,Danny &,Cook,211,,Wright,St.,,Apt 206,211  Wright St.  Apt 206,Lakewood,Co,211  Wright St.  Apt 206 Lakewood Co
+201000,William,Reininger,Alan &,Mackey,335,,Wright,St.,,Apt 306,335  Wright St.  Apt 306,Lakewood,Co,335  Wright St.  Apt 306 Lakewood Co
+228000,Dione,Stanley,Maurice &,Bailado,414,,Wright,St.,,Apt 103,414  Wright St.  Apt 103,Lakewood,Co,414  Wright St.  Apt 103 Lakewood Co
+252500,Agapito,Orozcomoreyra,Susan,Dahlgren,12520,W,Virginia,Ave.,,,12520 W Virginia Ave.,Lakewood,Co,12520 W Virginia Ave. Lakewood Co
+385000,William,Moses,Jennifer,Turley,13395,W,Center,Drive,,,13395 W Center Drive,Lakewood,Co,13395 W Center Drive Lakewood Co
+405000,,,Misty &,Gonzales,1754,S,Vivian,Court,,,1754 S Vivian Court,Lakewood,Co,1754 S Vivian Court Lakewood Co
+417500,Cami &,Haussler,Sherry,Good,1803,S,Beech,St.,,,1803 S Beech St.,Lakewood,Co,1803 S Beech St. Lakewood Co
+483300,,,Carey,Ashton,15524,W,Auburn,Ave.,,,15524 W Auburn Ave.,Lakewood,Co,15524 W Auburn Ave. Lakewood Co
+499100,,,Roberta,Nunemaker,15575,W,La Salle,Ave.,,,15575 W La Salle Ave.,Lakewood,Co,15575 W La Salle Ave. Lakewood Co
+519000,Brian &,Steinberg,Shana,Baker,13164,W,Asbury,Circle,,,13164 W Asbury Circle,Lakewood,Co,13164 W Asbury Circle Lakewood Co
+562000,Margie,Yevara,Ryan &,Ostoyich,14196,W,Bates,Ave.,,,14196 W Bates Ave.,Lakewood,Co,14196 W Bates Ave. Lakewood Co
+590000,Lance,Schubert,Arne &,Jorgensen,2389,S,Juniper,Circle,,,2389 S Juniper Circle,Lakewood,Co,2389 S Juniper Circle Lakewood Co
+601900,,,Cassandra,Rogers,2239,S,Norse,Way,,,2239 S Norse Way,Lakewood,Co,2239 S Norse Way Lakewood Co
+627500,,,Alfred &,Lombardi,15405,W,Adriatic,Drive,,,15405 W Adriatic Drive,Lakewood,Co,15405 W Adriatic Drive Lakewood Co
+956100,,,Richard &,Kim,2076,S,Moss,St.,,,2076 S Moss St.,Lakewood,Co,2076 S Moss St. Lakewood Co
+159200,,,William &,Zulauf,7911,,York,St.,,Apt D,7911  York St.  Apt D,Denver,Co,7911  York St.  Apt D Denver Co
+165000,Betty,Hart,Francisco &,Valdez,3310,E,84th,Drive,,,3310 E 84th Drive,Thornton,Co,3310 E 84th Drive Thornton Co
+175500,Colleen,Clark,Gary,Hill,3281,E,103rd,Place,,Apt 1407,3281 E 103rd Place  Apt 1407,Thornton,Co,3281 E 103rd Place  Apt 1407 Thornton Co
+188000,Michael,Gowdy,Michael,Galloway,8199,,Welby,Road,,Apt 606,8199  Welby Road  Apt 606,Thornton,Co,8199  Welby Road  Apt 606 Thornton Co
+218000,Frank &,Casias,Saman,Saeedi,9091,,Cedar,Court,,,9091  Cedar Court,Thornton,Co,9091  Cedar Court Thornton Co
+231000,Conrad &,Haug,Rosa,Barraza,8950,,Utah,Court,,,8950  Utah Court,Thornton,Co,8950  Utah Court Thornton Co
+232500,Najibullah,Ahmady,Kimberle &,Stevens,2111,E,103rd,Ave.,,,2111 E 103rd Ave.,Thornton,Co,2111 E 103rd Ave. Thornton Co
+265000,,,Roberto,Corral,8337,,Explorador Calle,,,,8337  Explorador Calle,Denver,Co,8337  Explorador Calle Denver Co
+365000,Brian,Edwards,Arthur,Martinez,1199,E,96th,Place,,,1199 E 96th Place,Thornton,Co,1199 E 96th Place Thornton Co
+500000,Judy,Malone,Monica,Beauprez,9201,E,5th,Ave.,,,9201 E 5th Ave.,Denver,Co,9201 E 5th Ave. Denver Co
+615000,Jane,Fruchtman,Jeffery &,Johnston,7502,E,8th,Place,,,7502 E 8th Place,Denver,Co,7502 E 8th Place Denver Co
+738200,,,Robert,Klein,78,,Newport,St.,,,78  Newport St.,Denver,Co,78  Newport St. Denver Co
+744000,,,Patricia,Lepiani,152,S,Quince,St.,,,152 S Quince St.,Denver,Co,152 S Quince St. Denver Co
+775000,Ian &,Roth,Wouter,Ijgosse,9496,E,4th,Ave.,,,9496 E 4th Ave.,Denver,Co,9496 E 4th Ave. Denver Co
+80000,Arkadiy &,Tsalyuk,Richard,Bogh,1306,S,Parker,Road,,Apt 383,1306 S Parker Road  Apt 383,Denver,Co,1306 S Parker Road  Apt 383 Denver Co
+137000,Michael,Whalen,Inna,Mazur,2575,S,Syracuse,Way,,Apt K304,2575 S Syracuse Way  Apt K304,Denver,Co,2575 S Syracuse Way  Apt K304 Denver Co
+254000,Sheila,Squires,David,Leonard,2012,S,Xenia,Way,,,2012 S Xenia Way,Denver,Co,2012 S Xenia Way Denver Co
+255000,Rhonda,Ruffin,Nathan,Benz,9400,E,Iliff,Ave.,,Apt 403,9400 E Iliff Ave.  Apt 403,Denver,Co,9400 E Iliff Ave.  Apt 403 Denver Co
+145000,Michael,Marino,Carol &,Klein,1885,S,Quebec,Way,,Apt A14,1885 S Quebec Way  Apt A14,Denver,Co,1885 S Quebec Way  Apt A14 Denver Co
+170000,Emma,Bunker,David,Markes,8060,E,Girard,Ave.,,Apt 602,8060 E Girard Ave.  Apt 602,Denver,Co,8060 E Girard Ave.  Apt 602 Denver Co
+180000,Kyler,Barker,Shannon,Johnson,7665,E,Eastman,Ave.,,Apt A311,7665 E Eastman Ave.  Apt A311,Denver,Co,7665 E Eastman Ave.  Apt A311 Denver Co
+211000,Jane,Jones,Jacqueline,Cordova,1699,S,Trenton,St.,,Unit 55,1699 S Trenton St.  Unit 55,Denver,Co,1699 S Trenton St.  Unit 55 Denver Co
+240000,Michael,Alpert,Lacy,Cartwright,1885,S,Quebec,Way,,Apt F102,1885 S Quebec Way  Apt F102,Denver,Co,1885 S Quebec Way  Apt F102 Denver Co
+244000,Paula &,Ramey,Michael,Lewis,1475,S,Quebec,Way,,Apt 38,1475 S Quebec Way  Apt 38,Denver,Co,1475 S Quebec Way  Apt 38 Denver Co
+268000,William &,Johnson,Margaret,Heflin,1470,S,Quebec,Way,,Apt 154,1470 S Quebec Way  Apt 154,Denver,Co,1470 S Quebec Way  Apt 154 Denver Co
+320000,,,Elizabeth,Lehman,9021,E,Amherst,Drive,,Apt B,9021 E Amherst Drive  Apt B,Denver,Co,9021 E Amherst Drive  Apt B Denver Co
+325000,Andrea,Feleyn,Kelsey,Muellner,9140,E,Cherry,Creek,,South Dr,9140 E Cherry Creek  South Dr,Denver,Co,9140 E Cherry Creek  South Dr Denver Co
+360000,,,Patricia,Dierberger,8770,E,Yale,Ave.,,Apt F,8770 E Yale Ave.  Apt F,Denver,Co,8770 E Yale Ave.  Apt F Denver Co
+370000,Bonnie,Kovatch,Arthur,Razo,2987,S,Wabash,Circle,,,2987 S Wabash Circle,Denver,Co,2987 S Wabash Circle Denver Co
+375000,Melanie,Haas,Matthew &,Dorsten,2744,S,Reading,Court,,,2744 S Reading Court,Denver,Co,2744 S Reading Court Denver Co
+479000,Eric &,Salinger,Megan &,Craig,3011,S,Valentia,St.,,,3011 S Valentia St.,Denver,Co,3011 S Valentia St. Denver Co
+717000,Marilyn,Wilson,Pamela,Johnson,2777,S,Elmira,St.,,Apt 18,2777 S Elmira St.  Apt 18,Denver,Co,2777 S Elmira St.  Apt 18 Denver Co
+95200,Daniel &,Dix,Amdrea,Dix,1641,S,Carr,St.,,,1641 S Carr St.,Lakewood,Co,1641 S Carr St. Lakewood Co
+210000,Micahael &,Musso,Tylor,Chacon,1258,S,Flower,Circle,,Apt B,1258 S Flower Circle  Apt B,Lakewood,Co,1258 S Flower Circle  Apt B Lakewood Co
+219000,Tom &,Brundy,Leslie,Hall,1249,S,Flower,Circle,,Apt F,1249 S Flower Circle  Apt F,Lakewood,Co,1249 S Flower Circle  Apt F Lakewood Co
+245000,Jared &,Muranko,Katherine &,Thompson,1878,S,Ammons,St.,,Apt B,1878 S Ammons St.  Apt B,Lakewood,Co,1878 S Ammons St.  Apt B Lakewood Co
+280000,,,Marcella,Delling,1634,S,Chase,Court,,,1634 S Chase Court,Lakewood,Co,1634 S Chase Court Lakewood Co
+285000,Bernard &,Maly,Aaron,Pickering,6820,W,Florida,Ave.,,,6820 W Florida Ave.,Lakewood,Co,6820 W Florida Ave. Lakewood Co
+353000,Carolina,Chavarria,David,Maloney,1380,S,Jay,St.,,,1380 S Jay St.,Lakewood,Co,1380 S Jay St. Lakewood Co
+355000,Ian,Eldridge,Scott &,Plemons,1221,S,Marshall,St.,,,1221 S Marshall St.,Lakewood,Co,1221 S Marshall St. Lakewood Co
+420000,Lina,Wong,Ian &,Eldridge,1234,S,Simms,St.,,,1234 S Simms St.,Lakewood,Co,1234 S Simms St. Lakewood Co
+430000,Mark &,Claussen,Pamela,Price,1830,S,Harlan,Circle,,,1830 S Harlan Circle,Lakewood,Co,1830 S Harlan Circle Lakewood Co
+180000,Darla,Rosales,Jose,Reyesvillegas,10442,,Franklin,St.,,,10442  Franklin St.,Northglenn,Co,10442  Franklin St. Northglenn Co
+195000,Teresa,Keagy,Ricardo &,Ortiz,11261,,Holly,St.,,,11261  Holly St.,Thornton,Co,11261  Holly St. Thornton Co
+220000,Harry,Sigg,Andrew,Russell,11914,,Monroe,St.,,,11914  Monroe St.,Thornton,Co,11914  Monroe St. Thornton Co
+230000,Emma,Martinez,Abraham &,Martinez,3687,E,116th,Ave.,,,3687 E 116th Ave.,Thornton,Co,3687 E 116th Ave. Thornton Co
+252000,Erica &,Ruybal,Jordan,Cunningham,3155,E,104th,Ave.,,Unit 8d,3155 E 104th Ave.  Unit 8d,Thornton,Co,3155 E 104th Ave.  Unit 8d Thornton Co
+270000,Douglas &,Peterson,Adam,Hinchliff,11146,,York,Way,,,11146  York Way,Northglenn,Co,11146  York Way Northglenn Co
+272000,Scott &,Cheatham,Abel,Monsivais,10424,,Downing,St.,,,10424  Downing St.,Northglenn,Co,10424  Downing St. Northglenn Co
+273000,Charles &,Hall,Gerardo,Loya,11048,,Muriel,Place,,,11048  Muriel Place,Thornton,Co,11048  Muriel Place Thornton Co
+282000,Luke,Winsett,Stephanie,Johns,1444,,Lucille,Court,,,1444  Lucille Court,Northglenn,Co,1444  Lucille Court Northglenn Co
+285000,Heidi,Jackson,David &,Wright,4351,E,115th,Place,,,4351 E 115th Place,Thornton,Co,4351 E 115th Place Thornton Co
+299900,Kuldip,Singh,Pedro,Ramirez,11632,,Gilpin,St.,,,11632  Gilpin St.,Northglenn,Co,11632  Gilpin St. Northglenn Co
+300000,Matthew,Williams,Laith,Lyons,10743,,Jackson,Court,,,10743  Jackson Court,Thornton,Co,10743  Jackson Court Thornton Co
+300000,Christopher,Slape,Efrain,Torres,2617,E,118th,Court,,,2617 E 118th Court,Thornton,Co,2617 E 118th Court Thornton Co
+313000,Kerry &,Scow,Helen,Doizakimedina,3324,E,115th,Ave.,,,3324 E 115th Ave.,Thornton,Co,3324 E 115th Ave. Thornton Co
+326000,James &,Smith,James &,Barker,11518,,Elm,Circle,,,11518  Elm Circle,Thornton,Co,11518  Elm Circle Thornton Co
+350000,Mark,Stevens,Charles &,Sultana,4229,E,106th,Place,,,4229 E 106th Place,Thornton,Co,4229 E 106th Place Thornton Co
+355000,Deborah,Reininger,Melina &,Cruz,11682,,Kearney,Way,,,11682  Kearney Way,Thornton,Co,11682  Kearney Way Thornton Co
+367000,Mark,Brocklander,Kyle,Day,5161,E,118th,Ave.,,,5161 E 118th Ave.,Thornton,Co,5161 E 118th Ave. Thornton Co
+286500,Deanna &,Blaser,Rhonda &,Davis,1235,W,112th,Ave.,,Unit A,1235 W 112th Ave.  Unit A,Denver,Co,1235 W 112th Ave.  Unit A Denver Co
+319000,Beverly,Jones,Robert,Reilly,2120,,Ranch,Drive,,,2120  Ranch Drive,Westminster,Co,2120  Ranch Drive Westminster Co
+331000,Julie,Lynch,Patricia,Hallock,11369,,Navajo,Circle,,Unit B,11369  Navajo Circle  Unit B,Westminster,Co,11369  Navajo Circle  Unit B Westminster Co
+475000,Mike &,Pentilla,Levi &,Andrews,11304,,Quivas,Way,,,11304  Quivas Way,Westminster,Co,11304  Quivas Way Westminster Co
+98000,,,Ana,Mora,3550,S,Harlan,St.,,Unit 304,3550 S Harlan St.  Unit 304,Denver,Co,3550 S Harlan St.  Unit 304 Denver Co
+379500,Janeen,Fleishman,Lauren &,Nelson,3770,S,Ames,St.,,,3770 S Ames St.,Denver,Co,3770 S Ames St. Denver Co
+205000,Avery &,Lopez,Alex,Dejournett,3600,S,Pierce,St.,,Apt 3-201,3600 S Pierce St.  Apt 3-201,Lakewood,Co,3600 S Pierce St.  Apt 3-201 Lakewood Co
+235000,Henry,He,Martha &,Gallagher,3657,S,Depew,St.,,Unit 4,3657 S Depew St.  Unit 4,Lakewood,Co,3657 S Depew St.  Unit 4 Lakewood Co
+300000,Amy,Truningerhanley,Casey &,Buellschoenman,4407,W,Kenyon,Ave.,,,4407 W Kenyon Ave.,Denver,Co,4407 W Kenyon Ave. Denver Co
+310000,Jay,Klein,Stephanie,Jost,2940,S,Yates,St.,,,2940 S Yates St.,Denver,Co,2940 S Yates St. Denver Co
+352500,Barry,Pardus,Brittany &,Beach,2846,S,Stuart,St.,,,2846 S Stuart St.,Denver,Co,2846 S Stuart St. Denver Co
+355000,Lisa,Newkirk,Austin &,Andreasen,3255,S,Raleigh,St.,,,3255 S Raleigh St.,Denver,Co,3255 S Raleigh St. Denver Co
+400000,Kimberly,Moore,Betty &,Lucero,4661,S,Yates,St.,,,4661 S Yates St.,Denver,Co,4661 S Yates St. Denver Co
+128000,Kathleen,Dalum,Briony,Wilson,7755,E,Quincy,Ave.,,# 108,7755 E Quincy Ave.  # 108,Denver,Co,7755 E Quincy Ave.  # 108 Denver Co
+132900,Andrew &,Zloty,Christopher &,Olson,7755,E,Quincy,Ave.,,Apt D1-308,7755 E Quincy Ave.  Apt D1-308,Denver,Co,7755 E Quincy Ave.  Apt D1-308 Denver Co
+173000,Ligy,Johnson,Samir &,Altabbaa,4400,S,Quebec,St.,,Apt X104,4400 S Quebec St.  Apt X104,Denver,Co,4400 S Quebec St.  Apt X104 Denver Co
+175000,Julie,Stava,Kasha,Nelson,9105,E,Lehigh,Ave.,,Apt 92,9105 E Lehigh Ave.  Apt 92,Denver,Co,9105 E Lehigh Ave.  Apt 92 Denver Co
+198000,Carrie,Brugger,Judith &,Will,6495,E,Happy Canyon,Road,,Apt 125,6495 E Happy Canyon Road  Apt 125,Denver,Co,6495 E Happy Canyon Road  Apt 125 Denver Co
+222000,Jill,Gentillon,Lauren,Sepulveda,3926,S,Yosemite,St.,,,3926 S Yosemite St.,Denver,Co,3926 S Yosemite St. Denver Co
+272000,Sanaz,Khademi,Amber &,Leikam,9028,E,Lehigh,Ave.,,,9028 E Lehigh Ave.,Denver,Co,9028 E Lehigh Ave. Denver Co
+462000,Rebecca &,Lobel,James,Shawlin,3760,S,Hillcrest,Drive,,,3760 S Hillcrest Drive,Denver,Co,3760 S Hillcrest Drive Denver Co
+489900,Stephen &,Parkhouse,Raghuvir,Bhamra,8100,E,Union,Ave.,,Unit 904,8100 E Union Ave.  Unit 904,Denver,Co,8100 E Union Ave.  Unit 904 Denver Co
+490000,,,Richard &,Johnston,8100,E,Union,Ave.,,Unit 1104,8100 E Union Ave.  Unit 1104,Denver,Co,8100 E Union Ave.  Unit 1104 Denver Co
+362000,,,Jarrett &,Rogers,9014,E,49th,Place,,,9014 E 49th Place,Denver,Co,9014 E 49th Place Denver Co
+372000,Mikhail,Naumenkov,Kylie,Fritzel,8232,E,24th,Drive,,,8232 E 24th Drive,Denver,Co,8232 E 24th Drive Denver Co
+374100,,,William,Foster,9014,E,49th,Place,,,9014 E 49th Place,Denver,Co,9014 E 49th Place Denver Co
+385000,Dana,Pearce,G,Heimel,7700,E,29th,Ave.,,Unit 102,7700 E 29th Ave.  Unit 102,Denver,Co,7700 E 29th Ave.  Unit 102 Denver Co
+405500,Stephanie,Stumpf,Elizabeth,Amaral,2888,,Central Park,Blvd.,,,2888  Central Park Blvd.,Denver,Co,2888  Central Park Blvd. Denver Co
+413200,,,Sean &,Jursnick,5189,,Beeler,St.,,,5189  Beeler St.,Denver,Co,5189  Beeler St. Denver Co
+414700,,,Colin &,Mccabe,4915,,Valentia,St.,,,4915  Valentia St.,Denver,Co,4915  Valentia St. Denver Co
+417600,,,Michael,Wadley,5279,,Beeler,St.,,,5279  Beeler St.,Denver,Co,5279  Beeler St. Denver Co
+428300,,,Ross &,Kantor,5191,,Beeler,St.,,,5191  Beeler St.,Denver,Co,5191  Beeler St. Denver Co
+435000,Sandeep &,Rana,Whitney,Stade,11207,E,28th,Place,,,11207 E 28th Place,Denver,Co,11207 E 28th Place Denver Co
+436000,,,Laura &,Acton,5271,,Beeler,St.,,,5271  Beeler St.,Denver,Co,5271  Beeler St. Denver Co
+443200,,,Michelle,Wright,5173,,Clinton,St.,,,5173  Clinton St.,Denver,Co,5173  Clinton St. Denver Co
+471900,,,Anthony &,Losasso,5161,,Willow,Way,,,5161  Willow Way,Denver,Co,5161  Willow Way Denver Co
+478100,,,Bridget &,Mosley,9152,E,53rd,Ave.,,,9152 E 53rd Ave.,Denver,Co,9152 E 53rd Ave. Denver Co
+492500,,,Ana &,Gonzalez,9462,E,53rd,Ave.,,,9462 E 53rd Ave.,Denver,Co,9462 E 53rd Ave. Denver Co
+495000,Melinda,Mccusker,Jan,Hangen,9093,E,29th,Place,,,9093 E 29th Place,Denver,Co,9093 E 29th Place Denver Co
+497500,Theresa,Hynes,Patrick &,Hume,4988,,Trenton,St.,,,4988  Trenton St.,Denver,Co,4988  Trenton St. Denver Co
+498000,,,Mark &,Hudson,5171,,Clinton,St.,,,5171  Clinton St.,Denver,Co,5171  Clinton St. Denver Co
+510000,,,Kathryn &,Wisor,2964,,Fulton,St.,,,2964  Fulton St.,Denver,Co,2964  Fulton St. Denver Co
+519900,,,Eimly,Huang,5440,,Valentia,St.,,,5440  Valentia St.,Denver,Co,5440  Valentia St. Denver Co
+532500,,,Scott &,Jaffe,9442,E,53rd,Ave.,,,9442 E 53rd Ave.,Denver,Co,9442 E 53rd Ave. Denver Co
+533700,,,Marco,Asitimbay,5159,,Willow,Way,,,5159  Willow Way,Denver,Co,5159  Willow Way Denver Co
+549000,,,Ralph &,Martin,5189,,Akron,St.,,,5189  Akron St.,Denver,Co,5189  Akron St. Denver Co
+626800,,,Hongbin,Mao,5233,,Chester,St.,,,5233  Chester St.,Denver,Co,5233  Chester St. Denver Co
+637700,,,Alan &,Christensen,5069,,Valentia,St.,,,5069  Valentia St.,Denver,Co,5069  Valentia St. Denver Co
+657000,Brian &,Becker,Scott &,Polaski,8089,E,23rd,Ave.,,,8089 E 23rd Ave.,Denver,Co,8089 E 23rd Ave. Denver Co
+792900,,,Monica &,Aldridge,5472,,Xanthia,Court,,,5472  Xanthia Court,Denver,Co,5472  Xanthia Court Denver Co
+990900,,,Gregory,Wheeler,8695,E,Prairie Meadows,Drive,,,8695 E Prairie Meadows Drive,Denver,Co,8695 E Prairie Meadows Drive Denver Co
+1019700,,,Vitali,Lapko,8895,E,Prairie Meadows,Drive,,,8895 E Prairie Meadows Drive,Denver,Co,8895 E Prairie Meadows Drive Denver Co
+250000,Sihyung,Park,Francisco,Solares,4321,,Del Rio,Court,,,4321  Del Rio Court,Denver,Co,4321  Del Rio Court Denver Co
+255000,Khuld,Hamoudi,William,Santos,12987,E,Elgin,Place,,,12987 E Elgin Place,Denver,Co,12987 E Elgin Place Denver Co
+262000,,,Maria,Alas,5532,,Revere,St.,,,5532  Revere St.,Denver,Co,5532  Revere St. Denver Co
+265000,Frank,Torres,Sonia,Lujan,4926,,Titan,Way,,,4926  Titan Way,Denver,Co,4926  Titan Way Denver Co
+265000,David &,Pearson,Maria,Alvarez,14431,,Andrews,Drive,,,14431  Andrews Drive,Denver,Co,14431  Andrews Drive Denver Co
+270000,,,Martin,Diaz,4832,,Altura,St.,,,4832  Altura St.,Denver,Co,4832  Altura St. Denver Co
+280000,Curtis &,Davis,Ran,Ren,4946,,Eugene,Court,,,4946  Eugene Court,Denver,Co,4946  Eugene Court Denver Co
+335000,Marco,Salgado,Nichole,Brown,5533,,Laredo,Way,,,5533  Laredo Way,Denver,Co,5533  Laredo Way Denver Co
+210000,Barbara,Romero,Sara &,Sandusky,12621,,Eudora,St.,,,12621  Eudora St.,Thornton,Co,12621  Eudora St. Thornton Co
+218000,Andrew,Trujillo,Christina,Pacheco,3953,E,121st,Ave.,,,3953 E 121st Ave.,Thornton,Co,3953 E 121st Ave. Thornton Co
+224900,Susan,Mceachern,Marguerite,Bruns,12711,,Colorado,Blvd.,,Unit 505,12711  Colorado Blvd.  Unit 505,Thornton,Co,12711  Colorado Blvd.  Unit 505 Thornton Co
+235000,David &,Cabrera,Michael,Jones,12592,,Forest,St.,,,12592  Forest St.,Thornton,Co,12592  Forest St. Thornton Co
+243000,Ervin,Trujillo,Alyson,Harr,12711,,Colorado,Blvd.,,Unit 803,12711  Colorado Blvd.  Unit 803,Thornton,Co,12711  Colorado Blvd.  Unit 803 Thornton Co
+245000,Todd &,Salek,Colleen,Clark,13203,,Holly,St.,,Unit B,13203  Holly St.  Unit B,Thornton,Co,13203  Holly St.  Unit B Thornton Co
+252000,Christine,Rice,Devon,Hilliard,12657,,Forest,Drive,,,12657  Forest Drive,Thornton,Co,12657  Forest Drive Thornton Co
+257000,Melody,Herzfeld,Melissa,Rawsky,4232,E,133rd,Place,,,4232 E 133rd Place,Thornton,Co,4232 E 133rd Place Thornton Co
+293900,John &,Groves,Adolfo,Toledo,12842,,Cherry,Way,,,12842  Cherry Way,Thornton,Co,12842  Cherry Way Thornton Co
+311000,Shelly,Marr,Matthew,Meglio,12082,,Eudora,Court,,,12082  Eudora Court,Thornton,Co,12082  Eudora Court Thornton Co
+330000,Matthew &,Rosenbrock,Ivan,Martinez,12782,,Dexter,Court,,,12782  Dexter Court,Thornton,Co,12782  Dexter Court Thornton Co
+345000,Richard &,Nelson,Leandra,Watts,5216,E,128th,Court,,,5216 E 128th Court,Thornton,Co,5216 E 128th Court Thornton Co
+350000,Robert &,Dohr,Louie,Velasquez,13183,,Vine,Court,,,13183  Vine Court,Thornton,Co,13183  Vine Court Thornton Co
+359900,Ashlie,Matney,Christine,Clippinger,3717,E,128th,Court,,,3717 E 128th Court,Thornton,Co,3717 E 128th Court Thornton Co
+374000,Ivan &,Tietz,Sandy &,Knight,4411,,Cottonwood Lakes,Blvd.,,,4411  Cottonwood Lakes Blvd.,Thornton,Co,4411  Cottonwood Lakes Blvd. Thornton Co
+375000,Russell &,Fellows,David,Fellows,4053,E,130th,Court,,,4053 E 130th Court,Thornton,Co,4053 E 130th Court Thornton Co
+377000,Linhthong,Lo,Joshua,Hickel,5260,E,130th,Circle,,,5260 E 130th Circle,Thornton,Co,5260 E 130th Circle Thornton Co
+439900,Jeffery,Shea,Matthew &,Rosenbrock,1119,E,131st,Drive,,,1119 E 131st Drive,Denver,Co,1119 E 131st Drive Denver Co
+272000,Rachelle &,Lyon,Stephanie,Johnson,4816,E,Kentucky,Ave.,,Unit B,4816 E Kentucky Ave.  Unit B,Denver,Co,4816 E Kentucky Ave.  Unit B Denver Co
+355000,Laura,Sutfin,Kelly,Kirby,1200,S,Eudora,St.,,,1200 S Eudora St.,Denver,Co,1200 S Eudora St. Denver Co
+195000,Igor,Nemerzhitskiy,Mary,Moore,9530,E,Florida,Ave.,,Unit 1012,9530 E Florida Ave.  Unit 1012,Denver,Co,9530 E Florida Ave.  Unit 1012 Denver Co
+205000,Yvonne,Kledehn,Cynthia,Enman,1223,S,Yosemite,Way,,Unit 65,1223 S Yosemite Way  Unit 65,Denver,Co,1223 S Yosemite Way  Unit 65 Denver Co
+210000,Audra,Staufenberg,Melinda,Emerson,8707,E,Florida,Ave.,,Unit 802,8707 E Florida Ave.  Unit 802,Denver,Co,8707 E Florida Ave.  Unit 802 Denver Co
+212500,Margaret,Taylor,Peter,Thoke,9951,E,Idaho,Circle,,Apt 201,9951 E Idaho Circle  Apt 201,Aurora,Co,9951 E Idaho Circle  Apt 201 Aurora Co
+228000,,,Grace,Bonilla,10265,E,Evans,Ave.,,Unit 108,10265 E Evans Ave.  Unit 108,Aurora,Co,10265 E Evans Ave.  Unit 108 Aurora Co
+288000,Elise,Keenan,Lauren,Harper,9300,E,Florida,Ave.,,Unit 802,9300 E Florida Ave.  Unit 802,Denver,Co,9300 E Florida Ave.  Unit 802 Denver Co
+330000,Lucille,Wirth,Justin,Boyd,9766,E,Carolina,Place,,,9766 E Carolina Place,Aurora,Co,9766 E Carolina Place Aurora Co
+125000,Therese,Cournoyer,Deborah &,Tucker,9150,E,Center,Ave.,,Apt 6d,9150 E Center Ave.  Apt 6d,Denver,Co,9150 E Center Ave.  Apt 6d Denver Co
+137000,Faye,Comingore,Lance,Carpenter,8335,,Fairmount,Drive,,# 11,8335  Fairmount Drive  # 11,Denver,Co,8335  Fairmount Drive  # 11 Denver Co
+219000,,,Earl,Wilkinson,755,S,Clinton,St.,,Apt 6a,755 S Clinton St.  Apt 6a,Denver,Co,755 S Clinton St.  Apt 6a Denver Co
+249900,Ines,Mezarina,Stephen,Day,7877,E,Mississippi,Ave.,,Apt 807,7877 E Mississippi Ave.  Apt 807,Denver,Co,7877 E Mississippi Ave.  Apt 807 Denver Co
+410000,Reba,Walker,Corey,Kropp,8300,,Fairmount,Drive,,Unit Cc101,8300  Fairmount Drive  Unit Cc101,Denver,Co,8300  Fairmount Drive  Unit Cc101 Denver Co
+190000,Jeffrey &,Tessner,Kevin,Pulley,18865,E,57th,Ave.,,Unit B,18865 E 57th Ave.  Unit B,Denver,Co,18865 E 57th Ave.  Unit B Denver Co
+211500,Linda,Naranjo,Jayme,Ludwick,18617,E,45th,Place,,,18617 E 45th Place,Denver,Co,18617 E 45th Place Denver Co
+235000,Jose,Aguilar,Elias,Lopez,4542,,Malaya,St.,,,4542  Malaya St.,Denver,Co,4542  Malaya St. Denver Co
+235000,Shannon,Mcmaster,Emily,Capser,18961,E,58th,Ave.,,,18961 E 58th Ave.,Denver,Co,18961 E 58th Ave. Denver Co
+262000,Brian &,Kleinman,Thomas &,Nguyen,5570,,Genoa,St.,,,5570  Genoa St.,Denver,Co,5570  Genoa St. Denver Co
+267000,,,Joseph,Majewski,20020,,Elgin,Drive,,,20020  Elgin Drive,Denver,Co,20020  Elgin Drive Denver Co
+268000,Anteneh,Gebreselassie,Egyeifi &,Aggrey,4366,,Perth,Circle,,,4366  Perth Circle,Denver,Co,4366  Perth Circle Denver Co
+274900,Travis,Hinde,Martin,Barrios,18531,E,53rd,Ave.,,,18531 E 53rd Ave.,Denver,Co,18531 E 53rd Ave. Denver Co
+275000,Raul,Torres,Chelsea,Joss,21440,,Randolph,Place,,,21440  Randolph Place,Denver,Co,21440  Randolph Place Denver Co
+276000,Andrew &,Pierson,Matthew &,Sudar,20495,E,55th,Place,,,20495 E 55th Place,Denver,Co,20495 E 55th Place Denver Co
+277300,,,Derik,Hodges,20010,,Elgin,Drive,,,20010  Elgin Drive,Denver,Co,20010  Elgin Drive Denver Co
+280000,Shelissa,Johnson,Phoenix &,Alden,21590,E,40th,Place,,,21590 E 40th Place,Denver,Co,21590 E 40th Place Denver Co
+282000,Jennifer &,Sherrett,Gabriel,Rosas,21345,E,40th,Ave.,,,21345 E 40th Ave.,Denver,Co,21345 E 40th Ave. Denver Co
+284000,,,Alejandro,Medrano,20000,,Elgin,Drive,,,20000  Elgin Drive,Denver,Co,20000  Elgin Drive Denver Co
+290000,Jose &,Reyes,Perpetuo,Ramos,4214,,Flanders,St.,,,4214  Flanders St.,Denver,Co,4214  Flanders St. Denver Co
+291900,,,Sheila,Veasley,4882,,Halifax,Court,,,4882  Halifax Court,Denver,Co,4882  Halifax Court Denver Co
+295000,Tracy,Sylvester,Trina,Gregory,4402,,Ceylon,St.,,,4402  Ceylon St.,Denver,Co,4402  Ceylon St. Denver Co
+300000,Robert &,Lyngard,Hang,Doan,5541,,Jericho,St.,,,5541  Jericho St.,Denver,Co,5541  Jericho St. Denver Co
+317500,Jessica,Gullan,Enrique,Rivasgonzalez,4735,,Walden,Court,,,4735  Walden Court,Denver,Co,4735  Walden Court Denver Co
+320000,Bridget,Darby,Gilbert,Saenz,4816,,Ireland,Court,,,4816  Ireland Court,Denver,Co,4816  Ireland Court Denver Co
+333400,,,Hoa,Vanle,17878,E,44th,Ave.,,,17878 E 44th Ave.,Denver,Co,17878 E 44th Ave. Denver Co
+350000,Carliss,Binder,Adi,Steiger,19564,E,41st,Ave.,,,19564 E 41st Ave.,Denver,Co,19564 E 41st Ave. Denver Co
+352300,,,Emilio,Victoria,4818,,Ceylon,Way,,,4818  Ceylon Way,Denver,Co,4818  Ceylon Way Denver Co
+369000,Ronald &,Weber,Shelissa,Taylor,20329,E,48th,Drive,,,20329 E 48th Drive,Denver,Co,20329 E 48th Drive Denver Co
+369700,,,Edgar,Hernandez,4895,,Ceylon,Way,,,4895  Ceylon Way,Denver,Co,4895  Ceylon Way Denver Co
+382500,Aubrey &,Williams,Lucia &,Almeida,20655,E,49th,Ave.,,,20655 E 49th Ave.,Denver,Co,20655 E 49th Ave. Denver Co
+385000,Charles,Scott,Hua,Lin,4882,,Odessa,St.,,,4882  Odessa St.,Denver,Co,4882  Odessa St. Denver Co
+386100,,,James,Morrison,4401,,Telluride,Court,,,4401  Telluride Court,Denver,Co,4401  Telluride Court Denver Co
+387000,Vivek,Wadekar,Gregory &,Williams,5092,,Cathay,St.,,,5092  Cathay St.,Denver,Co,5092  Cathay St. Denver Co
+407200,,,David,Poticha,17758,E,44th,Ave.,,,17758 E 44th Ave.,Denver,Co,17758 E 44th Ave. Denver Co
+424900,John,Childers,Kevin,Paris,5131,,Netherland,St.,,,5131  Netherland St.,Denver,Co,5131  Netherland St. Denver Co
+446100,,,Alice,Leder,19729,E,52nd,Ave.,,,19729 E 52nd Ave.,Denver,Co,19729 E 52nd Ave. Denver Co
+454700,,,Robert,Bryant,4905,,Ceylon,Way,,,4905  Ceylon Way,Denver,Co,4905  Ceylon Way Denver Co
+458000,,,Lori &,Marshall,5280,,Genoa,St.,,,5280  Genoa St.,Denver,Co,5280  Genoa St. Denver Co
+264500,Michael,Black,Judy,Roiles,9856,,Eliot,St.,,,9856  Eliot St.,Denver,Co,9856  Eliot St. Denver Co
+199200,Alice &,Collins,Jeffrey &,Mack,3070,,Carbondale,Lane,,,3070  Carbondale Lane,Boulder,Co,3070  Carbondale Lane Boulder Co
+203000,Kristopher &,Korba,Amos,Rendao,3030,,Oneal,Parkway,,Apt M11,3030  Oneal Parkway  Apt M11,Boulder,Co,3030  Oneal Parkway  Apt M11 Boulder Co
+218000,Robert,Utter,John,Hickman,4652,,White Rock,Circle,,Apt 9,4652  White Rock Circle  Apt 9,Boulder,Co,4652  White Rock Circle  Apt 9 Boulder Co
+325500,Michael,Cheves,Dana,Bielinski,5092,,Buckingham,Road,,,5092  Buckingham Road,Boulder,Co,5092  Buckingham Road Boulder Co
+350000,Brian,Nelson,Bryan,Mcdevitt,6237,,Willow,Lane,,,6237  Willow Lane,Boulder,Co,6237  Willow Lane Boulder Co
+416000,Cheryl,Silver,Anthony,Hickerson,4631,,Chestnut,Lane,,,4631  Chestnut Lane,Boulder,Co,4631  Chestnut Lane Boulder Co
+455000,Angela,Giese,James &,Mickey,3677,,Iris,Ave.,,,3677  Iris Ave.,Boulder,Co,3677  Iris Ave. Boulder Co
+540000,Meagan &,Hanzlik,Jesse,Green,7598,,Chatham,Way,,,7598  Chatham Way,Boulder,Co,7598  Chatham Way Boulder Co
+715000,Robert,Gulley,Derek &,Matson,4774,,Valhalla,Drive,,,4774  Valhalla Drive,Boulder,Co,4774  Valhalla Drive Boulder Co
+765000,Cynthia,Carrillo,Maha,Almuneef,4886,,Kings Ridge,Blvd.,,,4886  Kings Ridge Blvd.,Boulder,Co,4886  Kings Ridge Blvd. Boulder Co
+1125000,Eaton &,Scripps,Gina &,Lesch,9221,,Gunbarrel Ridge,Road,,,9221  Gunbarrel Ridge Road,Boulder,Co,9221  Gunbarrel Ridge Road Boulder Co
+415000,Irmhild,Comte,Patrick,Casey,365,,Pearl,St.,,,365  Pearl St.,Boulder,Co,365  Pearl St. Boulder Co
+555000,Mary,Gorges,Charles,Gruenwald,848,,Walnut,St.,,Apt D,848  Walnut St.  Apt D,Boulder,Co,848  Walnut St.  Apt D Boulder Co
+627500,Courtney,Hong,Samuel,Povilus,1655,,Walnut,St.,,Unit 209,1655  Walnut St.  Unit 209,Boulder,Co,1655  Walnut St.  Unit 209 Boulder Co
+637500,,,James &,Masson,1734,,Pine,St.,,,1734  Pine St.,Boulder,Co,1734  Pine St. Boulder Co
+825000,Theresa,Diazcertosimo,Stephanie,Warner,950,,15th,St.,,,950  15th St.,Boulder,Co,950  15th St. Boulder Co
+975000,Bruce,Gandrud,Sean,Conway,624,,Pearl,St.,,Apt 304,624  Pearl St.  Apt 304,Boulder,Co,624  Pearl St.  Apt 304 Boulder Co
+1100000,Neil &,Stenbuck,Lindsey,Dearborn,805,,13th,St.,,,805  13th St.,Boulder,Co,805  13th St. Boulder Co
+290000,James &,Street,Luther,Sutter,695,,Manhattan,Drive,,Apt 13,695  Manhattan Drive  Apt 13,Boulder,Co,695  Manhattan Drive  Apt 13 Boulder Co
+310000,Camille &,Higdon,David &,Havrilla,625,,Manhattan,Place,,Apt 314,625  Manhattan Place  Apt 314,Boulder,Co,625  Manhattan Place  Apt 314 Boulder Co
+310000,Quintin,Schiller,Craig,Schiller,4145,,Monroe,Drive,,Apt C,4145  Monroe Drive  Apt C,Boulder,Co,4145  Monroe Drive  Apt C Boulder Co
+529000,Steven,Meyer,David,Hume,890,,Inca,Parkway,,,890  Inca Parkway,Boulder,Co,890  Inca Parkway Boulder Co
+710000,Adam &,Naftalinkelman,Jacob,Schultz,5280,,Cypress,Drive,,,5280  Cypress Drive,Boulder,Co,5280  Cypress Drive Boulder Co
+720000,,,Isabel,Vonrittberg,833,,Laurel,Ave.,,,833  Laurel Ave.,Boulder,Co,833  Laurel Ave. Boulder Co
+149200,Collin,Tomb,Georgi,Ivanov,4550,,Broadway,St.,,Unit 212,4550  Broadway St.  Unit 212,Boulder,Co,4550  Broadway St.  Unit 212 Boulder Co
+184300,Jonathan,Kosakow,Mamata,Shrestha,1339,,Yellow Pine,Ave.,,,1339  Yellow Pine Ave.,Boulder,Co,1339  Yellow Pine Ave. Boulder Co
+220000,,,Jonathan,Greenwald,2707,,Valmont,Road,,Apt 213d,2707  Valmont Road  Apt 213d,Boulder,Co,2707  Valmont Road  Apt 213d Boulder Co
+530000,Douglas,Hayes,Ryan &,Henkel,1960,,Joslyn,Place,,,1960  Joslyn Place,Boulder,Co,1960  Joslyn Place Boulder Co
+610000,Etta,Habegger,Elizabeth,Asher,648,,Dewey,Ave.,,,648  Dewey Ave.,Boulder,Co,648  Dewey Ave. Boulder Co
+623100,,,Donna,Williams,4787,,10th,St.,,,4787  10th St.,Boulder,Co,4787  10th St. Boulder Co
+635000,Katelyn,Hudspeth,Amithrupa,Sabbineni,1940,,Edgewood,Drive,,,1940  Edgewood Drive,Boulder,Co,1940  Edgewood Drive Boulder Co
+715000,,,Thomas &,Patterson,2456,,8th,St.,,,2456  8th St.,Boulder,Co,2456  8th St. Boulder Co
+750000,Uriah,Walsh,Eric,Keppeler,3000,,Broadway,St.,,Apt 1,3000  Broadway St.  Apt 1,Boulder,Co,3000  Broadway St.  Apt 1 Boulder Co
+860000,James &,Vratny,Matthew,Brouker,3130,,Jefferson,St.,,,3130  Jefferson St.,Boulder,Co,3130  Jefferson St. Boulder Co
+1200000,,,Erik,Havlick,140,,Boulder View,Lane,,,140  Boulder View Lane,Boulder,Co,140  Boulder View Lane Boulder Co
+1392500,Madeleine,Bristol,Robert &,Jahn,601,,Wingate,Ave.,,,601  Wingate Ave.,Boulder,Co,601  Wingate Ave. Boulder Co
+1500000,Roger &,Brooks,Alexandra,Vorbeck,2056,,Mapleton,Ave.,,,2056  Mapleton Ave.,Boulder,Co,2056  Mapleton Ave. Boulder Co
+400000,Shemin,Ge,Richard &,Palken,3185,,Redstone,Lane,,,3185  Redstone Lane,Boulder,Co,3185  Redstone Lane Boulder Co
+425000,Roy,Leckonby,Long,He,805,W,Moorhead,Circle,,Apt A,805 W Moorhead Circle  Apt A,Boulder,Co,805 W Moorhead Circle  Apt A Boulder Co
+500000,Marnie &,Kaplan,Tara,Mohr,3795,,Smuggler,Place,,,3795  Smuggler Place,Boulder,Co,3795  Smuggler Place Boulder Co
+600000,Dennis &,Graves,Laura,Johnson,255,S,41st,St.,,,255 S 41st St.,Boulder,Co,255 S 41st St. Boulder Co
+678000,Alex,Fomenko,Jeffrey,Sharkey,615,,Tantra,Drive,,,615  Tantra Drive,Boulder,Co,615  Tantra Drive Boulder Co
+965000,Charles,Breuch,Walter,Kruesi,2710,,Regis,Drive,,,2710  Regis Drive,Boulder,Co,2710  Regis Drive Boulder Co
+115000,Kenneth,Townsdin,Jose,Licon,660,,Juniper,St.,,,660  Juniper St.,Golden,Co,660  Juniper St. Golden Co
+272000,Hunter &,Klenk,Jonathan,Stien,11960,W,14th,Ave.,,,11960 W 14th Ave.,Lakewood,Co,11960 W 14th Ave. Lakewood Co
+307000,In,Diamond,Andrew,Pickering,17155,W,12th,Ave.,,,17155 W 12th Ave.,Golden,Co,17155 W 12th Ave. Golden Co
+332000,Jennifer,Berg,Inna,Sherman,17239,W,12th,Ave.,,,17239 W 12th Ave.,Golden,Co,17239 W 12th Ave. Golden Co
+360000,Michael,Siebenthal,Richard &,Martinez,600,,Braun,St.,,,600  Braun St.,Lakewood,Co,600  Braun St. Lakewood Co
+410100,Colin,Ofarrell,Laura,Mcwethy,1007,,Homestake,Drive,,,1007  Homestake Drive,Golden,Co,1007  Homestake Drive Golden Co
+490000,Aaron &,Kindle,Eric &,Pommer,16630,,Golden Hills,Road,,,16630  Golden Hills Road,Golden,Co,16630  Golden Hills Road Golden Co
+635000,Vladimir &,Naumenko,L,Plunkett,747,,Union,St.,,,747  Union St.,Lakewood,Co,747  Union St. Lakewood Co
+660000,Kevin &,Taylor,Sergio,Rocafort,22583,,Anasazi,Way,,,22583  Anasazi Way,Golden,Co,22583  Anasazi Way Golden Co
+719300,,,Robert,Atkinson,584,,Blue Jay,Drive,,,584  Blue Jay Drive,Golden,Co,584  Blue Jay Drive Golden Co
+350000,Eugene &,Sewolt,Samuel &,Appl,15395,W,48th,Ave.,,,15395 W 48th Ave.,Golden,Co,15395 W 48th Ave. Golden Co
+505000,Lance &,Dillard,Joshua &,Luman,16250,W,62nd,Drive,,,16250 W 62nd Drive,Arvada,Co,16250 W 62nd Drive Arvada Co
+523300,,,Jason &,Foster,19694,W,58th,Place,,,19694 W 58th Place,Golden,Co,19694 W 58th Place Golden Co
+559000,,,Tyler &,Lutz,19704,W,58th,Place,,,19704 W 58th Place,Golden,Co,19704 W 58th Place Golden Co
+605000,James &,Durgin,Christian &,Monson,422,,East,St.,,,422  East St.,Golden,Co,422  East St. Golden Co
+1275000,Daniel &,Castor,Fletcher &,Keister,5742,,Secrest,Court,,,5742  Secrest Court,Golden,Co,5742  Secrest Court Golden Co
+295000,David &,Rodwell,Cody &,Foster,10251,,Blue Sky,Trail,,,10251  Blue Sky Trail,Conifer,Co,10251  Blue Sky Trail Conifer Co
+355000,Brenda,Karl,Katheryn,Conn,28686,,Mountain View,Road,,,28686  Mountain View Road,Conifer,Co,28686  Mountain View Road Conifer Co
+434500,Sandra,Moorehead,Peterchristian,Olivo,11498,,Pauls,Lane,,,11498  Pauls Lane,Conifer,Co,11498  Pauls Lane Conifer Co
+262000,Daniel,Finkleman,William,Ksander,30096,,Spruce,Road,,,30096  Spruce Road,Evergreen,Co,30096  Spruce Road Evergreen Co
+325000,Empire,Evil,Keith,Leimbach,5997,S,Brook Forest,Road,,,5997 S Brook Forest Road,Evergreen,Co,5997 S Brook Forest Road Evergreen Co
+355000,John,Jessup,Jennifer,Kozel,26986,,Fern Gulch,Road,,,26986  Fern Gulch Road,Evergreen,Co,26986  Fern Gulch Road Evergreen Co
+420000,Andy &,Holley,Jason &,Park,6006,,Stone Creek,Drive,,,6006  Stone Creek Drive,Evergreen,Co,6006  Stone Creek Drive Evergreen Co
+460000,Michael &,Schmid,Kevin,Atkins,31736,,Kiva,Lane,,,31736  Kiva Lane,Evergreen,Co,31736  Kiva Lane Evergreen Co
+480000,Jon,Neff,Ryan &,Moyle,29793,,Paint Brush,Drive,,,29793  Paint Brush Drive,Evergreen,Co,29793  Paint Brush Drive Evergreen Co
+510000,Ronald &,Lewis,Chad &,Harris,7102,,Lynx Lair,Road,,,7102  Lynx Lair Road,Evergreen,Co,7102  Lynx Lair Road Evergreen Co
+565000,Elaine &,Folkesson,Edward &,Baird,4773,S,Cedar,Road,,,4773 S Cedar Road,Evergreen,Co,4773 S Cedar Road Evergreen Co
+695000,Steven &,Sigler,Ronald &,Rozanski,860,,Elk Rest,Road,,,860  Elk Rest Road,Evergreen,Co,860  Elk Rest Road Evergreen Co
+728500,James &,Whitmore,Don &,Peck,4600,,Olympic,Way,,,4600  Olympic Way,Evergreen,Co,4600  Olympic Way Evergreen Co
+231300,Stacie,Notz,Michele,Avery,4466,S,Xenophon,Way,,,4466 S Xenophon Way,Morrison,Co,4466 S Xenophon Way Morrison Co
+295000,,,Linda,Brach,4485,S,Devinney,Court,,,4485 S Devinney Court,Morrison,Co,4485 S Devinney Court Morrison Co
+320000,,,Sanya,Graham,10391,,City View,Drive,,,10391  City View Drive,Morrison,Co,10391  City View Drive Morrison Co
+343000,,,David &,Bengs,4723,S,Vivian,Court,,,4723 S Vivian Court,Morrison,Co,4723 S Vivian Court Morrison Co
+439000,Sara,Emch,Naiche &,Sedillos,6396,,High,Drive,,,6396  High Drive,Morrison,Co,6396  High Drive Morrison Co
+500200,Barton &,Stone,Scott &,Masters,5014,S,Cole,Court,,,5014 S Cole Court,Morrison,Co,5014 S Cole Court Morrison Co
+525000,Stephen,Perlman,David &,Herron,6472,S,Valley,Drive,,,6472 S Valley Drive,Morrison,Co,6472 S Valley Drive Morrison Co
+735000,,,Sandra &,Vogeler,8311,S,Mariposa,Drive,,,8311 S Mariposa Drive,Morrison,Co,8311 S Mariposa Drive Morrison Co
+788000,,,Derek &,Stathis,6278,,Willow Springs,Drive,,,6278  Willow Springs Drive,Morrison,Co,6278  Willow Springs Drive Morrison Co
+334000,,,Adam,Rickard,130,,Alpine Vis,,,,130  Alpine Vis,Nederland,Co,130  Alpine Vis Nederland Co
+410000,,,Sharlene,Kesler,758,,Aspen Meadows,Road,,,758  Aspen Meadows Road,Nederland,Co,758  Aspen Meadows Road Nederland Co
+1250000,Sandra,Visser,Lawrence,Sokol,2156,,Magnolia,Drive,,,2156  Magnolia Drive,Nederland,Co,2156  Magnolia Drive Nederland Co
+135000,Michael &,Ohara,Martin &,Berry,15361,,Quandary Peak,Road,,,15361  Quandary Peak Road,Pine,Co,15361  Quandary Peak Road Pine Co
+290000,Lindsay &,Wickler,Timothy,Rhoden,34458,,Silver Springs,Blvd.,,,34458  Silver Springs Blvd.,Pine,Co,34458  Silver Springs Blvd. Pine Co
+185000,Bb,Harding,Sarah,Bailey,51,,21st,Ave.,,Apt 5,51  21st Ave.  Apt 5,Longmont,Co,51  21st Ave.  Apt 5 Longmont Co
+229500,Gary,Meisner,Brian,Bilgo,1729,,Sunset,St.,,,1729  Sunset St.,Longmont,Co,1729  Sunset St. Longmont Co
+243800,Kevin,Coldiron,Margaret,Benton,28,,Merideth,Lane,,,28  Merideth Lane,Longmont,Co,28  Merideth Lane Longmont Co
+258000,Margrette,Castro,Evan,Walbridge,613,,Martin,St.,,,613  Martin St.,Longmont,Co,613  Martin St. Longmont Co
+265000,Jose &,Soto,Jerry,Lamkin,1821,,Meadow,Lane,,,1821  Meadow Lane,Longmont,Co,1821  Meadow Lane Longmont Co
+278000,,,Brian &,Dodson,124,,Anniversary,Lane,,,124  Anniversary Lane,Longmont,Co,124  Anniversary Lane Longmont Co
+280000,Gilbert,Frodin,Hector &,Macias,912,,Tony,Place,,,912  Tony Place,Longmont,Co,912  Tony Place Longmont Co
+282500,Jordan &,Hammond,Spencer,Hellwig,1041,,Pratt,St.,,,1041  Pratt St.,Longmont,Co,1041  Pratt St. Longmont Co
+285000,Michael,Young,Sandeep,Bhushan,2508,,Sunset,Drive,,,2508  Sunset Drive,Longmont,Co,2508  Sunset Drive Longmont Co
+286000,Greg,Schlutz,Erik,Ingvaldgen,1142,,Aspen,St.,,,1142  Aspen St.,Longmont,Co,1142  Aspen St. Longmont Co
+295000,Marilyn,Ackerman,Michele,Phillips,1800,,24th,Ave.,,,1800  24th Ave.,Longmont,Co,1800  24th Ave. Longmont Co
+296500,,,Timothy,Leisy,1035,,Lee,Way,,,1035  Lee Way,Longmont,Co,1035  Lee Way Longmont Co
+310000,David &,Melton,Maria,Morales,2200,,Sunrise,Drive,,,2200  Sunrise Drive,Longmont,Co,2200  Sunrise Drive Longmont Co
+310000,Guadalupe,Martinez,Graham,New,2125,,Sherman,St.,,,2125  Sherman St.,Longmont,Co,2125  Sherman St. Longmont Co
+320000,William,Wallace,Jeannine,Lee,946,,Venice,St.,,,946  Venice St.,Longmont,Co,946  Venice St. Longmont Co
+325000,Gabriel &,Dorsey,Nicole &,Coffelt,1010,,Pratt,St.,,,1010  Pratt St.,Longmont,Co,1010  Pratt St. Longmont Co
+368900,,,Harsh,Murari,1509,,Sepia,Ave.,,,1509  Sepia Ave.,Longmont,Co,1509  Sepia Ave. Longmont Co
+390000,,,Lee,Meyer,1502,,Juniper,St.,,,1502  Juniper St.,Longmont,Co,1502  Juniper St. Longmont Co
+400000,,,Gabrielle,Hernan,417,,Sherman,St.,,,417  Sherman St.,Longmont,Co,417  Sherman St. Longmont Co
+575000,James &,Mcmanaman,Steven,Dye,330,,Cottonwood,Court,,,330  Cottonwood Court,Longmont,Co,330  Cottonwood Court Longmont Co
+630000,Lewis &,Patterson,Wayne,Aiello,1276,,6th,Ave.,,,1276  6th Ave.,Longmont,Co,1276  6th Ave. Longmont Co
+237600,,,Scott &,Davis,8568,,Foxhaven,Drive,,,8568  Foxhaven Drive,Niwot,Co,8568  Foxhaven Drive Niwot Co
+289900,Douglas &,Krening,Lee,Murphy,4501,,Nelson,Road,,Unit 2504,4501  Nelson Road  Unit 2504,Longmont,Co,4501  Nelson Road  Unit 2504 Longmont Co
+325000,Lisbeth,Finn,Bryan &,Graham,1454,,Northwestern,Road,,,1454  Northwestern Road,Longmont,Co,1454  Northwestern Road Longmont Co
+345000,Merril &,Alligood,Benjamin,Holskin,2811,,Humboldt,Circle,,,2811  Humboldt Circle,Longmont,Co,2811  Humboldt Circle Longmont Co
+360000,Glen,Segrue,Eleanor,Kalejs,825,,Arrowood,St.,,,825  Arrowood St.,Longmont,Co,825  Arrowood St. Longmont Co
+360000,Joann,Willows,Robert,Stelter,1627,,Geneva,Circle,,,1627  Geneva Circle,Longmont,Co,1627  Geneva Circle Longmont Co
+365000,David,Chaney,Bruce &,Mcneill,2319,,22nd,Ave.,,,2319  22nd Ave.,Longmont,Co,2319  22nd Ave. Longmont Co
+370000,Eric &,Rizner,Catherine,Commette,2823,,Mountain View,Ave.,,,2823  Mountain View Ave.,Longmont,Co,2823  Mountain View Ave. Longmont Co
+370000,Walter &,Corey,Ronald &,Stevens,724,,Wade,Road,,,724  Wade Road,Longmont,Co,724  Wade Road Longmont Co
+420000,William &,Deegan,Gregory &,Chokran,2083,,Skylark,Court,,,2083  Skylark Court,Longmont,Co,2083  Skylark Court Longmont Co
+454000,Terry &,Blanchard,William &,Tschumy,4214,,San Marco,Drive,,,4214  San Marco Drive,Longmont,Co,4214  San Marco Drive Longmont Co
+459000,Cecilia,Ponder,Brian,Kendall,2615,,Falcon,Drive,,,2615  Falcon Drive,Longmont,Co,2615  Falcon Drive Longmont Co
+517000,,,Rolf &,Evenson,4417,,Angelina,Circle,,,4417  Angelina Circle,Longmont,Co,4417  Angelina Circle Longmont Co
+535400,,,Robert,Ransom,5751,,Boundary,Place,,,5751  Boundary Place,Longmont,Co,5751  Boundary Place Longmont Co
+541200,,,Tzungsz,Shen,5826,,Boundary,Place,,,5826  Boundary Place,Longmont,Co,5826  Boundary Place Longmont Co
+585000,Shona &,Eliason,Brian &,Pentz,5525,,Mount Evans,Place,,,5525  Mount Evans Place,Longmont,Co,5525  Mount Evans Place Longmont Co
+645000,George,Sivy,Richard &,Campomanes,7224,N,63rd,St.,,,7224 N 63rd St.,Longmont,Co,7224 N 63rd St. Longmont Co
+805000,Eric &,Schult,Tiffany,Ford,6658,,Snead,Court,,,6658  Snead Court,Longmont,Co,6658  Snead Court Longmont Co
+125000,Andre,Chekan,Joseph &,Iozzia,225,E,8th,Ave.,,Apt B3,225 E 8th Ave.  Apt B3,Longmont,Co,225 E 8th Ave.  Apt B3 Longmont Co
+245000,Jennifer,Clark,Jill,Lyford,500,,Lashley,St.,,Unit 23,500  Lashley St.  Unit 23,Longmont,Co,500  Lashley St.  Unit 23 Longmont Co
+296500,Joseph,White,Robert &,Williams,1024,,Sonoma,Circle,,Unit G,1024  Sonoma Circle  Unit G,Longmont,Co,1024  Sonoma Circle  Unit G Longmont Co
+315000,Martin &,Diner,David &,Weaver,2210,,Watersong,Circle,,,2210  Watersong Circle,Longmont,Co,2210  Watersong Circle Longmont Co
+317000,Kyle &,Courson,Marta,Hauser,1233,,Fremont,Court,,,1233  Fremont Court,Longmont,Co,1233  Fremont Court Longmont Co
+358500,William,Alexander,Brian,Quinn,1727,,Lashley,St.,,,1727  Lashley St.,Longmont,Co,1727  Lashley St. Longmont Co
+429900,,,William,Alexander,1450,,Ajax,Way,,,1450  Ajax Way,Longmont,Co,1450  Ajax Way Longmont Co
+445000,Shannon &,Moore,Clifford,Rufenach,659,,Glenarbor,Circle,,,659  Glenarbor Circle,Longmont,Co,659  Glenarbor Circle Longmont Co
+445900,,,David,Bartel,2123,,Winding,Drive,,,2123  Winding Drive,Longmont,Co,2123  Winding Drive Longmont Co
+450000,Susan,Mcelrafth,James &,Mcmanaman,1526,,Chukar,Drive,,,1526  Chukar Drive,Longmont,Co,1526  Chukar Drive Longmont Co
+501400,,,James &,Vratny,2105,,Winding,Drive,,,2105  Winding Drive,Longmont,Co,2105  Winding Drive Longmont Co
+550000,Michael,Sanchez,Miriam,Martinez,12636,,Linda Vista,Drive,,,12636  Linda Vista Drive,Longmont,Co,12636  Linda Vista Drive Longmont Co
+749000,Seth,Levine,Matthew &,Tindle,831,,Confidence,Drive,,,831  Confidence Drive,Longmont,Co,831  Confidence Drive Longmont Co
+337500,Sally,Whittaker,Kathleen,Masur,109,S,Mcgregor,Circle,,,109 S Mcgregor Circle,Erie,Co,109 S Mcgregor Circle Erie Co
+386000,Alex &,Watt,Trisha &,Arquilla,1337,,Stockton,Drive,,,1337  Stockton Drive,Erie,Co,1337  Stockton Drive Erie Co
+394000,Thomas &,Barela,Randal &,Araki,1902,,Gordon,Drive,,,1902  Gordon Drive,Erie,Co,1902  Gordon Drive Erie Co
+396000,Markus &,Hempell,Alex &,Watt,466,,Wheat Berry,Drive,,,466  Wheat Berry Drive,Erie,Co,466  Wheat Berry Drive Erie Co
+530500,,,Abram &,Johnson,873,,Rocky Ridge,Circle,,,873  Rocky Ridge Circle,Erie,Co,873  Rocky Ridge Circle Erie Co
+699000,,,Adam &,Taylor,884,,Rocky Ridge,Circle,,,884  Rocky Ridge Circle,Erie,Co,884  Rocky Ridge Circle Erie Co
+840000,Jeffery,Long,John &,Andreas,219,,Meadow View,Parkway,,,219  Meadow View Parkway,Erie,Co,219  Meadow View Parkway Erie Co
+205000,Gary &,Tveten,Daniel,Mickelson,125,S,22nd,Ave.,,Unit 13,125 S 22nd Ave.  Unit 13,Brighton,Co,125 S 22nd Ave.  Unit 13 Brighton Co
+251000,Daniel &,Suppes,Michael,Squair,837,,Pintail,Ave.,,,837  Pintail Ave.,Brighton,Co,837  Pintail Ave. Brighton Co
+280000,Jaleesa &,Bradfield,Louis,Scott,5077,,Pelican,St.,,,5077  Pelican St.,Brighton,Co,5077  Pelican St. Brighton Co
+300000,Steven,Knodel,Cody,Kisler,12,,Apache Plume,St.,,,12  Apache Plume St.,Brighton,Co,12  Apache Plume St. Brighton Co
+315000,Christopher &,Bales,Andrea,Adams,1543,,Bellflower,Drive,,,1543  Bellflower Drive,Brighton,Co,1543  Bellflower Drive Brighton Co
+319900,Nicholas &,Stratton,Brady,Bjornson,693,,Hayloft,Way,,,693  Hayloft Way,Brighton,Co,693  Hayloft Way Brighton Co
+337500,Victor &,Nichols,Jacob,Markley,3528,,Maple,Circle,,,3528  Maple Circle,Brighton,Co,3528  Maple Circle Brighton Co
+349000,Jason,Sjoberg,Delbert &,Hupfer,3449,,Watada,Drive,,,3449  Watada Drive,Brighton,Co,3449  Watada Drive Brighton Co
+362300,,,Oscar,Rodriguez,3488,,Purcell,St.,,,3488  Purcell St.,Brighton,Co,3488  Purcell St. Brighton Co
+365000,Nicholas &,Wilson,Stephen &,Federocko,175,,Octillo,St.,,,175  Octillo St.,Brighton,Co,175  Octillo St. Brighton Co
+365000,Kristopher &,Bennett,Daniel &,Suppes,306,,Monte Vista,St.,,,306  Monte Vista St.,Brighton,Co,306  Monte Vista St. Brighton Co
+370900,,,Jennifer,Wilton,320,,Mayeda,St.,,,320  Mayeda St.,Brighton,Co,320  Mayeda St. Brighton Co
+395000,Jerry &,Smith,Steven &,Ball,13524,,Crystal,St.,,,13524  Crystal St.,Brighton,Co,13524  Crystal St. Brighton Co
+456800,,,Gail,Colbert,1677,,Bellflower,Drive,,,1677  Bellflower Drive,Brighton,Co,1677  Bellflower Drive Brighton Co
+265000,Melissa,Janssen,Randy,Pummel,13616,,Garfield,St.,,Unit C,13616  Garfield St.  Unit C,Thornton,Co,13616  Garfield St.  Unit C Thornton Co
+280000,Russell,Pierce,Daniel &,Girardin,12121,,Newport,Drive,,,12121  Newport Drive,Brighton,Co,12121  Newport Drive Brighton Co
+289900,Garett &,Macdougall,Douglas &,Thoe,12133,,Newport,Drive,,,12133  Newport Drive,Brighton,Co,12133  Newport Drive Brighton Co
+424500,,,Stephanne,Maccarter,15880,,Josephine,St.,,,15880  Josephine St.,Thornton,Co,15880  Josephine St. Thornton Co
+456200,,,Gene,Sharla,16043,,Columbine,St.,,,16043  Columbine St.,Thornton,Co,16043  Columbine St. Thornton Co
+489200,,,April,Gomez,12535,,Trenton,St.,,,12535  Trenton St.,Thornton,Co,12535  Trenton St. Thornton Co
+512000,Larry &,Castle,Shelly,Limon,3089,E,143rd,Place,,,3089 E 143rd Place,Thornton,Co,3089 E 143rd Place Thornton Co
+513500,Brenda,Moss,Matt &,Urling,15128,,St Paul,St.,,,15128  St Paul St.,Thornton,Co,15128  St Paul St. Thornton Co
+534600,,,Cheryl,Braugdoebrick,15885,,Columbine,St.,,,15885  Columbine St.,Thornton,Co,15885  Columbine St. Thornton Co
+547000,Dale &,Algrim,Suresh,Draksharam,14074,,Detroit,Drive,,,14074  Detroit Drive,Thornton,Co,14074  Detroit Drive Thornton Co
+687500,Angelica,Dorado,Dale &,Algrim,8695,E,130th,Ave.,,,8695 E 130th Ave.,Thornton,Co,8695 E 130th Ave. Thornton Co
+115000,,,Victor &,Flores,14941,,Prairie Red,Court,,,14941  Prairie Red Court,Brighton,Co,14941  Prairie Red Court Brighton Co
+320000,Rogelio,Ramirez,Stephanie,Contreras,9600,E,112th,Drive,,,9600 E 112th Drive,Henderson,Co,9600 E 112th Drive Henderson Co
+335000,Jeremy &,Gurley,Eleanor &,Jones,11373,,Oakland,Drive,,,11373  Oakland Drive,Henderson,Co,11373  Oakland Drive Henderson Co
+80000,Jorge &,Sanchez,Jose &,Rodriguez,39440,E,142nd,Court,,,39440 E 142nd Court,Hudson,Co,39440 E 142nd Court Hudson Co
+489900,Chris &,Grable,Robert,Smith,32165,E,167th,Drive,,,32165 E 167th Drive,Hudson,Co,32165 E 167th Drive Hudson Co
+525000,Kim &,Beickman,Timothy &,Dewalt,31351,E,167th,Ave.,,,31351 E 167th Ave.,Hudson,Co,31351 E 167th Ave. Hudson Co
