@@ -6,7 +6,7 @@ rows = []
 fieldnames = ['address', 'street_number direction_one street street_type direction_two suite', 'city', 'postal', 'lat', 'lng', 'Price', 'Seller_first_name', 'Seller_last_name', 'Buyer_first_name', 'Buyer_last_name', 'Date']
 
 # Change file name to be geocoded
-with open('test.csv') as f:
+with open('Dubus Excel_11-28-2016.csv') as f:
     reader = csv.DictReader(f, delimiter=',')
     for line in reader:
         g = geocoder.mapquest(line['location'], key='Qb2nRPKta84mwdnWUMI4BEIgQo5y6EAX')
@@ -18,7 +18,7 @@ with open('test.csv') as f:
         # Store Geocoder results in a list to save it later
         rows.append(result)
 
-with open('test-output.csv', 'a') as f:
+with open('home-sales-master-template.csv', 'a') as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
     writer.writeheader()
     writer.writerows(rows)
