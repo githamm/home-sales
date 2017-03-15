@@ -25,10 +25,10 @@ def main(args):
 
             # Fix zipcode, removing the hyphen and anything after it if there
             # is a hyphen
-            if '-' in result['postal']:
-                result['postal'] = result['postal'].split('-')[0]
+            # if '-' in result['postal']:
+            #     result['postal'] = result['postal'].split('-')[0]
 
-            result.update(line)
+            # result.update(line)
 
             # Store Geocoder results in a list to save it later
             rows.append(result)
