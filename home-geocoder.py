@@ -4,7 +4,7 @@ import csv
 import argparse
 import doctest
 import sys
-#import time
+import time
 
 def main(args):
     rows = []
@@ -37,7 +37,7 @@ def main(args):
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(rows)
-        #time.sleep(2)
+        time.sleep(2)
 
 def build_parser(args):
     """ This method allows us to test the args.
